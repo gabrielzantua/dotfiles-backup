@@ -192,3 +192,107 @@ product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttrib
     at uG.endUpdate (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22974)
     at Lw.endUpdate (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26464)
     at Lw.endUpdate (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:26464)
+2025-07-02 00:16:45.926 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:31:07.525 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:32:16.552 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:33:25.577 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:34:34.603 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:35:43.630 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:36:52.654 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:38:01.677 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:39:10.701 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:40:19.727 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:41:28.755 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:42:37.780 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:43:46.805 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:44:55.833 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:46:04.858 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:47:13.885 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:48:22.911 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:49:31.936 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:50:40.961 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:51:49.989 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:52:59.016 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:54:08.042 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:55:17.068 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:56:26.095 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:57:35.122 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-02 00:58:44.146 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2130260)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
