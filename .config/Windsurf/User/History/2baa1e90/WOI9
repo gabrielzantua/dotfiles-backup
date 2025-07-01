@@ -7,7 +7,7 @@
   
     "modules-left": ["custom/launcher", "hyprland/workspaces", "custom/media"],
     "modules-center": ["cava", "clock"],
-    "modules-right": ["tray", "pulseaudio", "cpu", "memory", "network"],
+    "modules-right": ["tray", "pulseaudio", "network", "cpu", "memory"],
   
   
     "cava": {
