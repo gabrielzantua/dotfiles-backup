@@ -1,9 +1,0 @@
-2025/07/01-16:04:28.321 9dec Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/01-16:04:28.321 9dec Recovering log #75
-2025/07/01-16:04:28.322 9dec Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000075.log 
-2025/07/01-16:04:32.531 9dec Compacting 1@1 + 1@2 files
-2025/07/01-16:04:32.621 9dec Generated table #78@1: 467 keys, 74049 bytes
-2025/07/01-16:04:32.621 9dec Compacted 1@1 + 1@2 files => 74049 bytes
-2025/07/01-16:04:32.699 9dec compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/01-16:04:32.699 9dec Delete type=2 #76
-2025/07/01-16:04:32.699 9dec Delete type=2 #73

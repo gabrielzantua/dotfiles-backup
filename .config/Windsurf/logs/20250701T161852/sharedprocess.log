@@ -1,5 +1,0 @@
-2025-07-01 17:13:07.513 [info] Getting Manifest... jdinhlife.gruvbox
-2025-07-01 17:13:09.813 [info] Installing extension: jdinhlife.gruvbox {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pengu/.windsurf/extensions/extensions.json","path":"/home/pengu/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-06-19T03:04:53.484Z"}}
-2025-07-01 17:13:12.145 [info] Extracted extension to file:///home/pengu/.windsurf/extensions/jdinhlife.gruvbox-1.28.0-universal: jdinhlife.gruvbox
-2025-07-01 17:13:12.282 [info] Renamed to /home/pengu/.windsurf/extensions/jdinhlife.gruvbox-1.28.0-universal
-2025-07-01 17:13:12.350 [info] Extension installed successfully: jdinhlife.gruvbox vscode-userdata:/home/pengu/.windsurf/extensions/extensions.json
