@@ -1,2 +1,0 @@
-2025-06-30 18:43:22.722 [error] Failed to set sticky bit on /tmp/pengu-cursor-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/pengu-cursor-zsh'
-2025-06-30 18:43:25.787 [error] Failed to set sticky bit on /tmp/pengu-cursor-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/pengu-cursor-zsh'

@@ -1,6 +1,0 @@
-2025-06-30 19:15:57.650 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
-2025-06-30 19:15:57.650 [info] Creating repo client with backend url: https://repo42.cursor.sh
-2025-06-30 19:15:57.868 [info] Skipping git indexing update because user is in privacy mode
-2025-06-30 19:20:54.299 [info] Privacy mode enabled - aborting git indexing
-2025-06-30 19:20:54.299 [info] Skipping git indexing update because user is in privacy mode
-2025-06-30 19:20:57.867 [info] Skipping git indexing update because user is in privacy mode
