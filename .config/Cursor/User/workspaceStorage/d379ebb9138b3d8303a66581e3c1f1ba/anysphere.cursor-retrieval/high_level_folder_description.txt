@@ -1,1 +1,0 @@
-{"timestamp":1750754349715,"paths":["./input.conf","./misc.conf","./programs.conf","./keybinding.conf","./animation.conf","./appearance.conf","./layout.conf","./environment.conf","./monitors.conf","./autostart.conf","./windowrule.conf","./workspaces.conf"]}
