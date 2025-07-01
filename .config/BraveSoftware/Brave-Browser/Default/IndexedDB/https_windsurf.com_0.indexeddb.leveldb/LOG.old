@@ -1,0 +1,13 @@
+2025/07/01-01:57:24.692 9be4 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_windsurf.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/01-01:57:24.692 9be4 Recovering log #6
+2025/07/01-01:57:24.756 9be4 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_windsurf.com_0.indexeddb.leveldb/000006.log 
+2025/07/01-01:57:25.222 9be6 Level-0 table #11: started
+2025/07/01-01:57:25.349 9be6 Level-0 table #11: 13646 bytes OK
+2025/07/01-01:57:25.488 9be6 Delete type=0 #6
+2025/07/01-01:57:25.488 9be6 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/01-01:58:43.624 9be5 Compacting 1@1 + 1@2 files
+2025/07/01-01:58:43.754 9be5 Generated table #12@1: 46 keys, 4023 bytes
+2025/07/01-01:58:43.754 9be5 Compacted 1@1 + 1@2 files => 4023 bytes
+2025/07/01-01:58:43.842 9be5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/01-01:58:43.842 9be5 Delete type=2 #8
+2025/07/01-01:58:43.842 9be5 Delete type=2 #11

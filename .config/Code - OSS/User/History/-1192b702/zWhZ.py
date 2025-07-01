@@ -1,0 +1,2 @@
+panget = "zuri"
+print(panget)

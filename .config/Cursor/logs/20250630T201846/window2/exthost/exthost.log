@@ -1,0 +1,53 @@
+2025-06-30 20:42:38.597 [info] Extension host with pid 57322 started
+2025-06-30 20:42:38.613 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-30 20:42:38.618 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-30 20:42:38.674 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-30 20:42:38.764 [info] Eager extensions activated
+2025-06-30 20:42:38.775 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:38.933 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:38.975 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:39.162 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:39.225 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:39.357 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:39.358 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:42:39.389 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-30 20:42:39.404 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new u9t (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111665)
+	at Unt.U (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116303)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113795)
+	at La.loadCertificates (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:277283)
+	at Object.loadAdditionalCertificates (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:179:18873)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:697:53
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:696:43
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:698:16
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:694:12)
+	at addCertificatesToOptionsV1 (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:673:9)
+	at resolveProxyWithRequest (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:114:9)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:77
+	at new Promise (<anonymous>)
+	at PacProxyAgent.resolveP [as resolver] (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:54)
+	at PacProxyAgent.<anonymous> (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at PacProxyAgent.connect (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/node_modules/agent-base/dist/index.js:73:30
+2025-06-30 20:42:39.405 [error] Error: Channel has been closed
+	at n (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:2439)
+	at Object.appendLine (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:2578)
+	at c (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1735951)
+	at t.deactivate (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1737607)
+	at /tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:311004
+	at t.deactivate (/tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:311063)
+	at async Promise.all (index 0)
+	at async ege.$ (file:///tmp/.mount_CursorUKnRVY/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10212)
+2025-06-30 20:42:39.406 [info] Extension host with pid 57322 exiting with code 0

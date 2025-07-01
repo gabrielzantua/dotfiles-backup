@@ -1,0 +1,1 @@
+2025-06-30 21:01:00.197 [error] Failed to set sticky bit on /tmp/pengu-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/pengu-code-oss-zsh'

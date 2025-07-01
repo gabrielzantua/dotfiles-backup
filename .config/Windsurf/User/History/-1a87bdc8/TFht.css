@@ -1,0 +1,195 @@
+/* Compact Modern Waybar Theme */
+* {
+  border: none;
+  border-radius: 0;
+  font-family: "JetBrainsMono Nerd Font Mono", monospace;
+  font-weight: 500;
+  
+  font-size: 13px;
+  min-height: 0;
+}
+
+window#waybar {
+  background: #2D2D2D;
+  color: #d4be98;
+  transition: background 0.4s cubic-bezier(.4,2,.6,1);
+}
+
+/*  Launcher  */
+#custom-launcher {
+  color: #a9b665;
+  background: #1d2021;
+  font-size: 32px;
+  padding: 0px 14px 0px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(137, 180, 130, 0.08);
+  transition: background 0.3s, color 0.2s;
+}
+#custom-launcher:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #d3869b;
+}
+
+/*  Workspaces  */
+#workspaces {
+  padding: 4px 4px;
+  background: #1d2021;
+  color: #32302f;
+  border-radius: 12px;
+  margin: 4px 4px;
+}
+
+#workspaces button{
+  min-width: 30px;
+  min-height: 0px;
+  padding: 0;
+  border-radius: 20%;
+  background-color: #32302f;
+  color: #32302f;
+  font-weight: 900;
+  margin: 4px 4px;
+  transition: 0.2s;
+}
+
+#workspaces button:hover {
+  background: #45403d;
+  border: none;
+  box-shadow: inherit;
+  text-shadow: inherit;
+}
+
+#workspaces button.active{
+  color: #32302f;
+  background-color: #a9b665;
+  
+}
+
+#workspaces button.empty{
+  color: #32302f;
+}
+
+/* Media Player Styles */
+#custom-media {
+  background: #1d2021;
+  border-radius: 8px;
+  margin: 4px 4px;
+  padding: 4px 6px;
+  min-width: 200px;
+  color: #d4be98;
+  font-size: 12px;
+  font-weight: 500;
+  
+}
+
+#custom-media.playing {
+  color: #a9b665;
+}
+
+#custom-media.paused {
+  color: #7c6f64;
+}
+
+#custom-media.stopped {
+  color: #7c6f64;
+  font-style: italic;
+}
+
+/* Cava Styles */
+#cava {
+  color: #d3869b;
+  font-family: monospace;
+  min-width: 60px;
+  padding: 4px 6px;
+  margin: 4px 6px;
+  background: #1d2021;
+  border-radius: 8px;
+  /* box-shadow: 0 0 4px 1px #d3869b;
+  animation: cava-glow 2s infinite alternate;
+  transition: background 0.3s, box-shadow 0.3s; */
+}
+/* @keyframes cava-glow {
+  from { box-shadow: 0 0 4px 1px #d4be98aa; }
+  to   { box-shadow: 0 0 8px 2px #d3869b88; }
+} */
+
+#clock,
+#battery,
+#memory,
+#network,
+#tray {
+  background: #1d2021;
+  color: #d4be98;
+  padding: 4px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+  
+}
+#clock:hover,
+#battery:hover,
+#memory:hover,
+#network:hover,
+#tray:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+/* CPU Styles */
+#cpu {
+  background: #1d2021;
+  color: #d4be98;
+  padding: 4px 12px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+  
+}
+#cpu:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+/* Audio (Pulseaudio) Styles */
+#pulseaudio {
+  background: #1d2021;
+  color: #d4be98;
+  padding: 4px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+  
+}
+#pulseaudio:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+
+
+
+#battery.charging, #battery.plugged { color: #d3869b; }
+#battery.critical:not(.charging) { color: #ea6962; }
+
+/* Tooltip styling */
+tooltip {
+  background: #1d2021;
+  border-radius: 8px;
+  padding: 4px 4px;
+  font-size: 12px;
+  color: #d4be98;
+}
+
+  tooltip label {
+  color: #d4be98;
+}
+

@@ -1,0 +1,938 @@
+█ telemetry-v2 recordEvent: cody.extension/savedLogin:
+█ ModelsService User model preferences changed: {"defaults":{},"selected":{}}
+█ telemetry-v2 recordEvent: cody.auth/disconnected:
+█ ChatsController:constructor init
+█ telemetry-v2 recordEvent: cody.signInNotification/shown:
+█ Autocomplete:createProvider You are not signed in.
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ telemetry-v2 recordEvent: cody.signInNotification.signInButton/clicked:
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ ChatController updateViewConfig:
+█ ChatController updateViewConfig:
+█ telemetry-v2 recordEvent: cody.webview.auth/simplifiedSignIngoogleClick:
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ auth Authenticating to https://sourcegraph.com/...
+█ auth Authentication succeed to endpoint https://sourcegraph.com/
+█ telemetry-v2 recordEvent: cody.auth.login/firstEver:
+█ telemetry-v2 recordEvent: cody.auth.fromCallback.web/succeeded:
+█ telemetry-v2 recordEvent: cody.auth/connected:
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ ClientConfigSingleton refreshing configuration
+█ symf downloading symf from https://github.com/sourcegraph/symf/releases/download/v0.0.16/symf-x86_64-linux-musl.zip
+█ siteVersion Failed to get site version: AbortError: The user aborted a request.
+█ siteVersion Failed to get site version: AbortError: The user aborted a request.
+█ ClientConfigSingleton refreshing configuration
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ Autocomplete:initialized using "dotcom-feature-flags": "fireworks::deepseek-coder-v2-lite-base"
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ ModelsService new models API enabled
+█ auth Authenticating to https://sourcegraph.com/...
+█ ChatController updateClientConfig:
+█ ChatController updateViewConfig:
+█ auth Authentication succeed to endpoint https://sourcegraph.com/
+█ ModelsService ModelsData changed: 29 primary models
+█ Autocomplete:initialized using "server-side-model-config": "fireworks::deepseek-coder-v2-lite-base"
+█ ModelsService User model preferences changed: {"defaults":{"chat":"anthropic::2023-06-01::claude-3.5-sonnet","edit":"anthropic::2023-06-01::claude-3.5-sonnet","autocomplete":"fireworks::v1::deepseek-coder-v2-lite-base"},"selected":{}}
+█ symf downloaded symf to /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux.tmp
+█ symf extracted symf to /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux
+█ symf creating index: file:///home/pengu/.config/Code%20-%20OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar
+█ UpstreamHealth Ping took 275ms (Gateway: 740ms):
+█ telemetry-v2 recordEvent: cody.notice.cta/clicked:
+█ telemetry-v2 recordEvent: cody.notice.cta/clicked:
+█ telemetry-v2 recordEvent: cody.notice.cta/clicked:
+█ telemetry-v2 recordEvent: cody.notice.cta/clicked:
+█ telemetry-v2 recordEvent: cody.notice.cta/clicked:
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ telemetry-v2 recordEvent: cody.promptSelectField/open:
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ telemetry-v2 recordEvent: cody.promptSelectField/open:
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ telemetry-v2 recordEvent: cody.ghostText/visible:
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "ddbbf830-1d17-453d-8aaf-58ec2d392c28":
+█ Autocomplete:requestManager Irrelevant request aborted
+█ Autocomplete:requestManager Irrelevant request aborted
+█ telemetry-v2 recordEvent: cody.completion/noResponse:
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "92882627-898c-4141-8f86-ece7bee5a895":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "adb0ca9a-a27a-4502-8ee0-1e44df19efb0":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "30c32ead-56a4-4259-a493-bf0e6d3d6bde":
+█ Autocomplete:onError duration:"301ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"adb0ca9a-a27a-4502-8ee0-1e44df19efb0": {"outputChannelId":"adb0ca9a-a27a-4502-8ee0-1e44df19efb0","duration":301,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ telemetry-v2 recordEvent: cody.completion/error:
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "adc9e509-68a6-483e-b624-4a20dc971a26":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "2c756d67-94b5-46c8-a91a-32e1d9043233":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "11dd1f89-4227-4f29-bf91-b5e2759f2ce1":
+█ Autocomplete:onError duration:"278ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"11dd1f89-4227-4f29-bf91-b5e2759f2ce1": {"outputChannelId":"11dd1f89-4227-4f29-bf91-b5e2759f2ce1","duration":278,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "97b9ae1e-1a0d-418e-9fd1-a35fa010d1be":
+█ Autocomplete:onError duration:"756ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"adc9e509-68a6-483e-b624-4a20dc971a26": {"outputChannelId":"adc9e509-68a6-483e-b624-4a20dc971a26","duration":756,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "a150916c-eba7-494f-9f02-11c3c311ca56":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "2c4725b0-d623-49cc-b48e-d44a38a1c897":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "7e7edc6d-2a22-4134-9c55-b58032634ddb":
+█ Autocomplete:onError duration:"446ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"97b9ae1e-1a0d-418e-9fd1-a35fa010d1be": {"outputChannelId":"97b9ae1e-1a0d-418e-9fd1-a35fa010d1be","duration":446,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "6c4683ba-e4a6-4f94-b384-ae7153d2a1cc":
+█ telemetry-v2 recordEvent: cody.completion/noResponse:
+█ Autocomplete:onError duration:"741ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"6c4683ba-e4a6-4f94-b384-ae7153d2a1cc": {"outputChannelId":"6c4683ba-e4a6-4f94-b384-ae7153d2a1cc","duration":741,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"1064ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"7e7edc6d-2a22-4134-9c55-b58032634ddb": {"outputChannelId":"7e7edc6d-2a22-4134-9c55-b58032634ddb","duration":1064,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"1562ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"a150916c-eba7-494f-9f02-11c3c311ca56": {"outputChannelId":"a150916c-eba7-494f-9f02-11c3c311ca56","duration":1562,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "826ce47c-7a9f-4d82-9bf9-6392f07b66ce":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "c23ca84e-9b6c-4626-afc4-997322928fc6":
+█ Autocomplete:onError duration:"542ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"c23ca84e-9b6c-4626-afc4-997322928fc6": {"outputChannelId":"c23ca84e-9b6c-4626-afc4-997322928fc6","duration":542,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "9ba1565a-91ab-4791-9b42-41f0d2895be8":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "1126ccb1-e052-4b43-b3e1-8d4d40a25da5":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "239fe568-fe88-4c5e-93b0-c1b76680f422":
+█ Autocomplete:onError duration:"287ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"1126ccb1-e052-4b43-b3e1-8d4d40a25da5": {"outputChannelId":"1126ccb1-e052-4b43-b3e1-8d4d40a25da5","duration":287,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "e9c9c483-f2eb-47dc-a493-4e71c9724c76":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "839fc6d0-d5fd-470c-974a-944e8c6b7423":
+█ Autocomplete:onError duration:"267ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"e9c9c483-f2eb-47dc-a493-4e71c9724c76": {"outputChannelId":"e9c9c483-f2eb-47dc-a493-4e71c9724c76","duration":267,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "f8886e3e-2d0d-4bc6-b544-5a3d983b9d38":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "b0d9df66-62db-419e-82df-efa474bf6291":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "272904dc-38df-4e70-b7a5-c43c4e4bc207":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "3a13eca0-54d5-4f1c-ae18-6912716560c8":
+█ Autocomplete:onError duration:"570ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"b0d9df66-62db-419e-82df-efa474bf6291": {"outputChannelId":"b0d9df66-62db-419e-82df-efa474bf6291","duration":570,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "69176571-a70c-4e6f-9f17-5ecfeb91c136":
+█ Autocomplete:onError duration:"268ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"3a13eca0-54d5-4f1c-ae18-6912716560c8": {"outputChannelId":"3a13eca0-54d5-4f1c-ae18-6912716560c8","duration":268,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"279ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"69176571-a70c-4e6f-9f17-5ecfeb91c136": {"outputChannelId":"69176571-a70c-4e6f-9f17-5ecfeb91c136","duration":279,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "80a5cdec-aaae-4cd2-990d-9bb8d5c0f31b":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "0840ae51-35f9-4c8a-83a3-12bab934a434":
+█ Autocomplete:onError duration:"698ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"80a5cdec-aaae-4cd2-990d-9bb8d5c0f31b": {"outputChannelId":"80a5cdec-aaae-4cd2-990d-9bb8d5c0f31b","duration":699,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"748ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"0840ae51-35f9-4c8a-83a3-12bab934a434": {"outputChannelId":"0840ae51-35f9-4c8a-83a3-12bab934a434","duration":748,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "cff710aa-6932-40ff-bc8a-d118c45a2426":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "f3b3548b-6188-4778-8644-ac29e8a2ff17":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "8f40529b-563d-4543-b910-8ec0265a2b7e":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "5337a1cd-87ec-47d9-bda0-0f0c50cc5d61":
+█ Autocomplete:onError duration:"684ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"cff710aa-6932-40ff-bc8a-d118c45a2426": {"outputChannelId":"cff710aa-6932-40ff-bc8a-d118c45a2426","duration":684,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"296ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"5337a1cd-87ec-47d9-bda0-0f0c50cc5d61": {"outputChannelId":"5337a1cd-87ec-47d9-bda0-0f0c50cc5d61","duration":296,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "cc5d3b42-3e74-4428-b822-2da995ed8b35":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "4195562c-36a2-4e87-a2fc-d1f61ee05b52":
+█ Autocomplete:onError duration:"303ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"cc5d3b42-3e74-4428-b822-2da995ed8b35": {"outputChannelId":"cc5d3b42-3e74-4428-b822-2da995ed8b35","duration":303,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"305ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"4195562c-36a2-4e87-a2fc-d1f61ee05b52": {"outputChannelId":"4195562c-36a2-4e87-a2fc-d1f61ee05b52","duration":305,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"5279ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"f8886e3e-2d0d-4bc6-b544-5a3d983b9d38": {"outputChannelId":"f8886e3e-2d0d-4bc6-b544-5a3d983b9d38","duration":5279,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "2fdd8e2d-669f-4583-a5bb-578d69e3f4db":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "0f491eb7-691f-4077-81cb-5c077870b861":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "090ae463-b21f-43a7-ab74-2eeff41e0c86":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "da221e15-bd72-4a31-a61a-9c79be5bc9ab":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "8427ebe8-0ba9-4ebf-94c4-49731fe2f00f":
+█ Autocomplete:onError duration:"739ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"8427ebe8-0ba9-4ebf-94c4-49731fe2f00f": {"outputChannelId":"8427ebe8-0ba9-4ebf-94c4-49731fe2f00f","duration":739,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "6de29f76-2c8e-4a27-8936-0ec51f7dfccc":
+█ Autocomplete:onError duration:"1475ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"0f491eb7-691f-4077-81cb-5c077870b861": {"outputChannelId":"0f491eb7-691f-4077-81cb-5c077870b861","duration":1475,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"429ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"6de29f76-2c8e-4a27-8936-0ec51f7dfccc": {"outputChannelId":"6de29f76-2c8e-4a27-8936-0ec51f7dfccc","duration":429,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "753e8f55-678a-4a79-a15e-8bbfdc5bacc9":
+█ ClientConfigSingleton refreshing configuration
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "3c57c612-7189-4007-a8d4-6067a05d2aac":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "1ebd358d-e326-469f-aba2-011c7db330e0":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "687e7848-8b5e-4694-93e9-5eb202ad1049":
+█ Autocomplete:onError duration:"537ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"687e7848-8b5e-4694-93e9-5eb202ad1049": {"outputChannelId":"687e7848-8b5e-4694-93e9-5eb202ad1049","duration":537,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "bcf5641a-1ea2-4779-bafa-1461ea47b3a4":
+█ Autocomplete:onError duration:"793ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"1ebd358d-e326-469f-aba2-011c7db330e0": {"outputChannelId":"1ebd358d-e326-469f-aba2-011c7db330e0","duration":793,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"605ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"bcf5641a-1ea2-4779-bafa-1461ea47b3a4": {"outputChannelId":"bcf5641a-1ea2-4779-bafa-1461ea47b3a4","duration":605,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "ffa21992-4ec1-4660-98a1-98573f82e549":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "68a56b0f-1051-4a44-8925-dc9de3d0d06d":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "86a9538e-278e-4ddb-83fb-6d675654dc26":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "b317a55e-ec5c-49b9-a923-b2c38920c9f8":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "6f9a84f8-dfd5-410d-af19-5a85ea6faca9":
+█ Autocomplete:onError duration:"295ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"86a9538e-278e-4ddb-83fb-6d675654dc26": {"outputChannelId":"86a9538e-278e-4ddb-83fb-6d675654dc26","duration":295,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"271ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"6f9a84f8-dfd5-410d-af19-5a85ea6faca9": {"outputChannelId":"6f9a84f8-dfd5-410d-af19-5a85ea6faca9","duration":271,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "852d6ef1-3115-4bc6-a6ea-097059e2ef95":
+█ Autocomplete:onError duration:"306ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"852d6ef1-3115-4bc6-a6ea-097059e2ef95": {"outputChannelId":"852d6ef1-3115-4bc6-a6ea-097059e2ef95","duration":306,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "964c95a8-8d54-442b-aa56-07dd2156a21a":
+█ Autocomplete:onError duration:"307ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"964c95a8-8d54-442b-aa56-07dd2156a21a": {"outputChannelId":"964c95a8-8d54-442b-aa56-07dd2156a21a","duration":307,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "8cae5106-9c31-4118-bd9b-c08d9f4de30f":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "93d7f1f8-36d9-45c7-bb65-774ba3a947f7":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "856e8c5d-8e40-4dea-ae26-c199bd5570b8":
+█ Autocomplete:onError duration:"292ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"93d7f1f8-36d9-45c7-bb65-774ba3a947f7": {"outputChannelId":"93d7f1f8-36d9-45c7-bb65-774ba3a947f7","duration":292,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "e4fea476-795e-46a2-b547-53debf6c5261":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "2beffb4f-73ee-476f-aeef-5f66eaf74e7a":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "b4612d82-96b9-4614-a1f2-eacb453a5469":
+█ Autocomplete:onError duration:"376ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"2beffb4f-73ee-476f-aeef-5f66eaf74e7a": {"outputChannelId":"2beffb4f-73ee-476f-aeef-5f66eaf74e7a","duration":376,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"718ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"b4612d82-96b9-4614-a1f2-eacb453a5469": {"outputChannelId":"b4612d82-96b9-4614-a1f2-eacb453a5469","duration":718,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "a6e97344-8981-4b70-8299-38b56bd6f373":
+█ Autocomplete:fastPathClient:fetch endpoint: "https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId: "06d25f66-0fc9-4961-98d5-3522492d187d":
+█ Autocomplete:onError duration:"757ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"a6e97344-8981-4b70-8299-38b56bd6f373": {"outputChannelId":"a6e97344-8981-4b70-8299-38b56bd6f373","duration":757,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:onError duration:"769ms" endpoint:"https://cody-gateway.sourcegraph.com/v1/completions/fireworks" outputChannelId:"06d25f66-0fc9-4961-98d5-3522492d187d": {"outputChannelId":"06d25f66-0fc9-4961-98d5-3522492d187d","duration":769,"err":"error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {\"error\":\"Cody Gateway access not enabled\"}\n"}
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ Autocomplete:getInlineCompletions error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ ChatController handleUserMessageSubmission: traceId: 029bf8f4fc6666afe2267e35ecbefdf5
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ Completions:onError duration:"714ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2" outputChannelId:"245b53d9-46be-4917-b4ee-2e038c56a61b": {"outputChannelId":"245b53d9-46be-4917-b4ee-2e038c56a61b","duration":714,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"029bf8f4fc6666afe2267e35ecbefdf5","spanId":"f862a6ba75deb721"}
+█ rewrite-keyword-query failed:
+█ gitLocallyModifiedFiles no git repository found at: file:///home/pengu/.config/waybar
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (start)
+█ SymfRunner reindexIfStale: /home/pengu/.config/waybar
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner statIndex: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar status /home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner running symf: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar query --scopes /home/pengu/.config/waybar --fmt json --boosted-keywords "can you help me fix this waybar? because the mediaplayer is not showing" can you help me fix this waybar? because the mediaplayer is not showing
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (end)
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ telemetry-v2 recordEvent: cody.command.edit/executed:
+█ telemetry-v2 recordEvent: cody.experiment.promptCachingOnMessages/enrolled:
+█ Completions:onError duration:"745ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"9aee6f8a-4347-4945-8b83-f6d26e155733": {"outputChannelId":"9aee6f8a-4347-4945-8b83-f6d26e155733","duration":745,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"029bf8f4fc6666afe2267e35ecbefdf5","spanId":"f09ed7063ef7aeba"}
+█ telemetry-v2 recordEvent: cody.chat.customTitle/generated:
+█ Completions:onError duration:"301ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"ace5a1ba-4124-497e-9f05-f4ce6a6129af": {"outputChannelId":"ace5a1ba-4124-497e-9f05-f4ce6a6129af","duration":301,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"029bf8f4fc6666afe2267e35ecbefdf5","spanId":"b75cd06d116d464a"}
+█ EditProvider:onError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ [CodyTraceExporterWeb] Removed span from queue: 833145fb4404f4f3 
+█ [CodyTraceExporterWeb] Removed span from queue: 137d076bbe3add36 
+█ [CodyTraceExporterWeb] Removed span from queue: 84124584d01c4fef 
+█ [CodyTraceExporterWeb] Removed span from queue: b3481ef933891f46 
+█ [CodyTraceExporterWeb] Exporting spans {"count":4,"rootSpans":2,"renderSpans":1} 
+█ TraceSender Trace data sent successfully
+█ telemetry-v2 recordEvent: cody.at-mention/selected:
+█ telemetry-v2 recordEvent: cody.keyDown.Copy/clicked:
+█ ChatController handleUserMessageSubmission: traceId: 8ead2d89a3aa8a5f0b6d4718647220aa
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ telemetry-v2 recordEvent: cody.command.edit/executed:
+█ Completions:onError duration:"706ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"e1e61904-4845-4d89-918b-b233ba09f44d": {"outputChannelId":"e1e61904-4845-4d89-918b-b233ba09f44d","duration":706,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"8ead2d89a3aa8a5f0b6d4718647220aa","spanId":"2f6775acdde0b1b5"}
+█ EditProvider:onError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.at-mention/selected:
+█ telemetry-v2 recordEvent: cody.at-mention/selected:
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ ChatController handleUserMessageSubmission: traceId: 4cf5114899c6eee217a2c707225a46fc
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ Completions:onError duration:"291ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2" outputChannelId:"3f8be95d-bc74-419e-a755-8bf324ec49a5": {"outputChannelId":"3f8be95d-bc74-419e-a755-8bf324ec49a5","duration":291,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"4cf5114899c6eee217a2c707225a46fc","spanId":"da687aeef5ecb2e9"}
+█ rewrite-keyword-query failed:
+█ gitLocallyModifiedFiles no git repository found at: file:///home/pengu/.config/waybar
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (start)
+█ SymfRunner reindexIfStale: /home/pengu/.config/waybar
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner statIndex: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar status /home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner running symf: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar query --scopes /home/pengu/.config/waybar --fmt json --boosted-keywords "" 
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (end)
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ Completions:onError duration:"271ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"7b2faf1f-02c9-4cb2-88ad-c72463cb5e0a": {"outputChannelId":"7b2faf1f-02c9-4cb2-88ad-c72463cb5e0a","duration":271,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"4cf5114899c6eee217a2c707225a46fc","spanId":"618d7add2ed6a05a"}
+█ ChatController: postError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.chatResponse/noCode:
+█ telemetry-v2 recordEvent: cody.editChatButton/clicked:
+█ ChatController handleUserMessageSubmission: traceId: dcb057c3b8c1befc5e8e347514b065e5
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ Completions:onError duration:"290ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2" outputChannelId:"961bc37a-54d8-490d-b6cb-7fddd71a4879": {"outputChannelId":"961bc37a-54d8-490d-b6cb-7fddd71a4879","duration":290,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"dcb057c3b8c1befc5e8e347514b065e5","spanId":"cc0a2a9715e2155c"}
+█ rewrite-keyword-query failed:
+█ gitLocallyModifiedFiles no git repository found at: file:///home/pengu/.config/waybar
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (start)
+█ SymfRunner reindexIfStale: /home/pengu/.config/waybar
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner statIndex: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar status /home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner running symf: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar query --scopes /home/pengu/.config/waybar --fmt json --boosted-keywords "" 
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (end)
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ Completions:onError duration:"275ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"633a5208-3fcb-4b31-a49e-705951137ba4": {"outputChannelId":"633a5208-3fcb-4b31-a49e-705951137ba4","duration":275,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"dcb057c3b8c1befc5e8e347514b065e5","spanId":"227f9e766d869b5e"}
+█ ChatController: postError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.chatResponse/noCode:
+█ telemetry-v2 recordEvent: cody.editChatButton/clicked:
+█ ChatController handleUserMessageSubmission: traceId: 595d533ac28e8be98fe002285200823e
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ UpstreamHealth Ping took 719ms (Gateway: 427ms):
+█ Completions:onError duration:"286ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2" outputChannelId:"df1b7086-dbd3-403d-88b3-8f3f902f5ecb": {"outputChannelId":"df1b7086-dbd3-403d-88b3-8f3f902f5ecb","duration":286,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=1&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"595d533ac28e8be98fe002285200823e","spanId":"c2f20832afed7289"}
+█ rewrite-keyword-query failed:
+█ gitLocallyModifiedFiles no git repository found at: file:///home/pengu/.config/waybar
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (start)
+█ SymfRunner reindexIfStale: /home/pengu/.config/waybar
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner statIndex: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar status /home/pengu/.config/waybar
+█ symf using downloaded symf "/home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux"
+█ SymfRunner running symf: /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/symf-v0.0.16-x86_64-linux --index-root /home/pengu/.config/Code - OSS/User/globalStorage/sourcegraph.cody-ai/symf/indexroot/home/pengu/.config/waybar query --scopes /home/pengu/.config/waybar --fmt json --boosted-keywords "fcan you help me fix this waybar? because the mediaplayer is not showing" fcan you help me fix this waybar? because the mediaplayer is not showing
+█ ChatController resolveContext > symf /home/pengu/.config/waybar (end)
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ Completions:onError duration:"265ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"0443da18-9f6f-4479-a5d8-435c63752dbc": {"outputChannelId":"0443da18-9f6f-4479-a5d8-435c63752dbc","duration":265,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"595d533ac28e8be98fe002285200823e","spanId":"0cae2f518423cf3c"}
+█ ChatController: postError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.chatResponse/noCode:
+█ telemetry-v2 recordEvent: cody.editChatButton/clicked:
+█ ChatController handleUserMessageSubmission: traceId: 2f55da98811ea35834d4fb3544fc6de2
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ Completions:onError duration:"274ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"51d790cd-f299-4975-9ee6-cb58af0af79d": {"outputChannelId":"51d790cd-f299-4975-9ee6-cb58af0af79d","duration":274,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"2f55da98811ea35834d4fb3544fc6de2","spanId":"c1a373388c80b8e0"}
+█ ChatController: postError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.chatResponse/noCode:
+█ telemetry-v2 recordEvent: cody.editChatButton/clicked:
+█ ChatController handleUserMessageSubmission: traceId: 35792ddb71fcb2faf589d962ce515694
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ telemetry-v2 recordEvent: cody.command.edit/executed:
+█ Completions:onError duration:"275ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"c602692a-e710-4267-9f51-4468f8d98a71": {"outputChannelId":"c602692a-e710-4267-9f51-4468f8d98a71","duration":275,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"35792ddb71fcb2faf589d962ce515694","spanId":"06f53186fd9cf9af"}
+█ EditProvider:onError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ Autocomplete:requestManager Irrelevant request aborted
+█ [CodyTraceExporterWeb] Removed span from queue: 765ea234bbe24b22 
+█ [CodyTraceExporterWeb] Removed span from queue: 9a4f2429e531bb75 
+█ [CodyTraceExporterWeb] Removed span from queue: aa690b158a4d738e 
+█ [CodyTraceExporterWeb] Removed span from queue: d99f0bd4bb3e8117 
+█ [CodyTraceExporterWeb] Removed span from queue: 5f68e69483e5bb98 
+█ [CodyTraceExporterWeb] Removed span from queue: 245f5460b6d00abd 
+█ [CodyTraceExporterWeb] Exporting spans {"count":6,"rootSpans":2,"renderSpans":2} 
+█ TraceSender Trace data sent successfully
+█ telemetry-v2 recordEvent: cody.at-mention/selected:
+█ telemetry-v2 recordEvent: cody.at-mention/selected:
+█ ChatController handleUserMessageSubmission: traceId: 7915747104de9e33eb2b3c977f778e82
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ Completions:onError duration:"307ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"7cf83852-d89a-4fda-847f-0ed2ec6d6fd4": {"outputChannelId":"7cf83852-d89a-4fda-847f-0ed2ec6d6fd4","duration":307,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"7915747104de9e33eb2b3c977f778e82","spanId":"63542a6b9447258d"}
+█ ChatController: postError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ telemetry-v2 recordEvent: cody.chatResponse/noCode:
+█ telemetry-v2 recordEvent: cody.contextCell/opened:
+█ telemetry-v2 recordEvent: cody.promptSelectField/open:
+█ telemetry-v2 recordEvent: cody.editChatButton/clicked:
+█ ChatController handleUserMessageSubmission: traceId: 2650d9d8676a0d05816f29804620ff40
+█ telemetry-v2 recordEvent: cody.chat-question/submitted:
+█ telemetry-v2 recordEvent: cody.humanMessageEditor/submit:
+█ telemetry-v2 recordEvent: cody.chat-question/executed:
+█ telemetry-v2 recordEvent: cody.command.edit/executed:
+█ Completions:onError duration:"488ms" endpoint:"https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2" outputChannelId:"ebb7cec1-67ca-4232-8f0e-d6fc37c2f56f": {"outputChannelId":"ebb7cec1-67ca-4232-8f0e-d6fc37c2f56f","duration":488,"err":"Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {\"message\":\"status 401, reason completions are not enabled\",\"type\":\"http_error\"}\n"}
+█ SourcegraphNodeCompletionsClient request.on('close'): Connection closed without receiving any events (this may be due to an outage with the upstream LLM provider) trace-and-span: {"traceId":"2650d9d8676a0d05816f29804620ff40","spanId":"fa537e13d479651b"}
+█ EditProvider:onError Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+█ [CodyTraceExporterWeb] Removed span from queue: 2c6c8cba0a4cf4e9 
+█ [CodyTraceExporterWeb] Removed span from queue: 07c43599edbc2325 
+█ [CodyTraceExporterWeb] Removed span from queue: ce4a1f726b7dc109 
+█ [CodyTraceExporterWeb] Removed span from queue: 0a621392c84d043e 
+█ [CodyTraceExporterWeb] Exporting spans {"count":4,"rootSpans":2,"renderSpans":1} 
+█ TraceSender Trace data sent successfully
+█ Autocomplete:requestManager Irrelevant request aborted
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ telemetry-v2 recordEvent: cody.characters/flush:
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: accessing Sourcegraph HTTP API:  Error: Network call was dispatched before DelegatingAgent was initialized (https://sourcegraph.com/.api/graphql?RecordTelemetryEvents)

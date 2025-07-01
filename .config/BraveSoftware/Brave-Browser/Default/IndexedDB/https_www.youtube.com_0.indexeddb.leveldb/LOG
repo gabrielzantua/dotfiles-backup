@@ -1,0 +1,15 @@
+2025/07/01-16:19:27.409 12e2 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/01-16:19:27.409 12e2 Recovering log #75
+2025/07/01-16:19:27.481 12e2 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000075.log 
+2025/07/01-17:01:20.478 12d1 Level-0 table #81: started
+2025/07/01-17:01:20.538 12d1 Level-0 table #81: 552057 bytes OK
+2025/07/01-17:01:20.625 12d1 Delete type=0 #75
+2025/07/01-17:01:20.626 12d1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/01-17:01:20.626 12d1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0f\x02\x1f\x03\x00 1\x1cQ|yB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 45461 : 1
+2025/07/01-17:01:20.626 12d1 Compacting 1@1 + 1@2 files
+2025/07/01-17:01:20.692 12d1 Generated table #82@1: 310 keys, 77098 bytes
+2025/07/01-17:01:20.692 12d1 Compacted 1@1 + 1@2 files => 77098 bytes
+2025/07/01-17:01:20.783 12d1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/01-17:01:20.783 12d1 Delete type=2 #78
+2025/07/01-17:01:20.783 12d1 Delete type=2 #81
+2025/07/01-17:01:20.783 12d1 Manual compaction at level-1 from '\x00\x0f\x02\x1f\x03\x00 1\x1cQ|yB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 45461 : 1 .. (end); will stop at (end)

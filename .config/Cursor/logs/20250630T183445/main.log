@@ -1,0 +1,26 @@
+2025-06-30 18:34:46.584 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.1.6/aa8f15731b86b6feb3dbf9fb67187e2c7f1c4b3f21db6c456c0f2cf771cb0a46/stable
+2025-06-30 18:34:46.584 [info] update#setState idle
+2025-06-30 18:34:50.121 [error] vscode-file: Refused to load resource /tmp/.mount_CursorCbIa62/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_CursorCbIa62/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-06-30 18:35:11.082 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:35:16.383 [info] update#setState checking for updates
+2025-06-30 18:35:16.619 [info] update#setState idle
+2025-06-30 18:35:53.252 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:36:38.765 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:36:55.278 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:37:54.633 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:38:09.799 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:38:37.854 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:38:55.969 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:39:58.296 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:41:00.081 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:41:10.711 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:41:20.712 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:41:59.809 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:43:11.510 [error] ptyHost terminated unexpectedly with code 15
+2025-06-30 18:43:11.511 [warning] [UtilityProcess type: ptyHost, pid: 3168]: unable to kill the process
+2025-06-30 18:43:11.517 [error] [UtilityProcess type: shared-process, pid: 3193]: crashed with code 15 and reason 'killed'
+2025-06-30 18:43:11.518 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-06-30 18:43:11.518 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 3195]: crashed with code 15 and reason 'killed'
+2025-06-30 18:43:11.520 [info] Extension host with pid 3178 exited with code: 15, signal: unknown.
+2025-06-30 18:43:11.520 [error] [UtilityProcess id: 1, type: extensionHost, pid: 3178]: crashed with code 15 and reason 'killed'
+2025-06-30 18:43:11.528 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

@@ -1,0 +1,77 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b7a3604d24140649c2da0bcdaf17e0afcfe98c57fab8f6eb110ca2f0f2b8966e",
+    "telemetry.devDeviceId": "65d7fadd-79b8-44ed-a8a9-6dccaf2c170d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/pengu/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/pengu/.config/waybar": "__default__profile__",
+            "file:///home/pengu/.config": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282828",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ebdbb2",
+            "background": "#282828",
+            "editorBackground": "#282828",
+            "titleBarBackground": "#282828",
+            "activityBarBackground": "#282828",
+            "activityBarBorder": "#3c3836",
+            "sideBarBackground": "#282828",
+            "sideBarBorder": "#3c3836",
+            "statusBarBackground": "#282828",
+            "statusBarBorder": "#3c3836",
+            "statusBarNoFolderBackground": "#282828"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 423,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/pengu/.config",
+            "backupPath": "/home/pengu/.config/Windsurf/Backups/b403fbf82d040d9aa528df38f2a83391",
+            "uiState": {
+                "mode": 1,
+                "x": 17,
+                "y": 69,
+                "width": 1886,
+                "height": 994
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                423,
+                [
+                    "6f0df84ac40b22d0bccd684ca880025d",
+                    "b3f7f9e361d8a8ae8b8ba98bc06f9acb",
+                    "3361968e74b77cf7c08176d81c48bb3a"
+                ]
+            ]
+        }
+    }
+}

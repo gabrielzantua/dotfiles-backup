@@ -1,0 +1,142 @@
+/* Modern Enhanced Waybar Theme */
+* {
+  border: none;
+  border-radius: 0;
+  font-family: "JetBrainsMono Nerd Font Mono", monospace;
+  font-weight: 500;
+  font-size: 14px;
+  min-height: 0;
+}
+
+window#waybar {
+  background: rgba(30, 32, 48, 0.85);
+  color: #cad3f5;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+  border: 1.5px solid rgba(202, 211, 245, 0.12);
+  transition: background 0.4s cubic-bezier(.4,2,.6,1), box-shadow 0.3s;
+  padding: 4px 12px;
+}
+
+#workspaces {
+  background: rgba(36, 39, 58, 0.85);
+  margin: 4px 8px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px 0 rgba(30, 32, 48, 0.10);
+  transition: background 0.3s;
+}
+
+#workspaces button {
+  color: #a5adcb;
+  padding: 4px 10px;
+  background: transparent;
+  border-radius: 8px;
+  margin: 0 2px;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  font-weight: 600;
+}
+#workspaces button:hover {
+  background: rgba(180, 190, 254, 0.18);
+  color: #b4befe;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 250, 0.10);
+}
+#workspaces button.active {
+  color: #24273a;
+  background: #b4befe;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 250, 0.18);
+}
+#workspaces button.urgent {
+  color: #f38ba8;
+  background: rgba(243, 139, 168, 0.18);
+}
+
+#clock,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#tray,
+#idle_inhibitor {
+  background: rgba(36, 39, 58, 0.85);
+  color: #cad3f5;
+  padding: 6px 14px;
+  margin: 4px 4px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 rgba(30, 32, 48, 0.10);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+}
+#clock:hover,
+#cpu:hover,
+#memory:hover,
+#network:hover,
+#pulseaudio:hover,
+#tray:hover,
+#idle_inhibitor:hover {
+  background: rgba(180, 190, 254, 0.18);
+  color: #b4befe;
+  box-shadow: 0 4px 16px 0 rgba(137, 180, 250, 0.10);
+}
+
+#custom-launcher {
+  color: #b4befe;
+  background: rgba(36, 39, 58, 0.85);
+  font-size: 18px;
+  padding: 4px 12px;
+  margin: 4px 8px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 250, 0.10);
+  transition: background 0.3s, color 0.2s;
+}
+#custom-launcher:hover {
+  background: rgba(180, 190, 254, 0.18);
+  color: #a6e3a1;
+}
+
+#cpu { color: #a6e3a1; }
+#memory { color: #f9e2af; }
+#network { color: #89b4fa; }
+
+#mpris {
+  color: #b4befe;
+  min-width: 180px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-size: 15px;
+  padding: 8px 18px 8px 54px;
+  border-radius: 14px;
+  background: rgba(36, 39, 58, 0.95);
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 250, 0.10);
+}
+
+#cava {
+  color: #a6e3a1;
+  font-family: monospace;
+  min-width: 80px;
+  padding: 4px 10px;
+  background: rgba(36, 39, 58, 0.85);
+  border-radius: 10px;
+  box-shadow: 0 0 8px 2px #a6e3a1aa;
+  animation: cava-glow 2s infinite alternate;
+  transition: background 0.3s, box-shadow 0.3s;
+}
+@keyframes cava-glow {
+  from { box-shadow: 0 0 8px 2px #a6e3a1aa; }
+  to   { box-shadow: 0 0 16px 4px #b4befe88; }
+}
+
+/* Tooltip styling */
+tooltip {
+  background: rgba(36, 39, 58, 0.98);
+  border: 1.5px solid #b4befe;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 250, 0.10);
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #cad3f5;
+}
+tooltip label {
+  color: #cad3f5;
+}
+

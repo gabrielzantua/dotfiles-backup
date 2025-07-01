@@ -1,0 +1,12 @@
+[Unit]
+Description=Waybar Media Control Server
+PartOf=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=%h/.config/waybar/media_control_server.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

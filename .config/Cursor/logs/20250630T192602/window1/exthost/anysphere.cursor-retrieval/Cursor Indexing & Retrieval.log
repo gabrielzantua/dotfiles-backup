@@ -1,0 +1,89 @@
+2025-06-30 19:26:06.471 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-06-30 19:26:06.471 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-06-30 19:26:06.471 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:524:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:524:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-06-30 19:26:06.471 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-06-30 19:26:06.471 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-06-30 19:26:06.471 [warning] Failed to get symbolic ref: Failed to execute git
+2025-06-30 19:26:06.471 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/pengu/.config/hypr/conf/.git/HEAD')
+2025-06-30 19:26:06.504 [warning] Failed to get branches from remote: Failed to execute git
+2025-06-30 19:26:06.514 [info] Using existing keys for an index
+2025-06-30 19:26:06.514 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-06-30 19:26:06.518 [info] Using existing keys for an index
+2025-06-30 19:26:06.518 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-06-30 19:26:06.549 [warning] Failed to get default branch from git config: Failed to execute git
+2025-06-30 19:26:06.680 [info] Setting global status from status tracker: synced
+2025-06-30 19:26:06.680 [info] Doing a startup handshake.
+2025-06-30 19:26:06.815 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-06-30 19:26:07.038 [error] Error getting git status: Failed to execute git
+2025-06-30 19:26:07.064 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-06-30 19:26:07.198 [info] Finished computing merkle tree in 11.317666000000372 ms.
+2025-06-30 19:26:07.199 [info] Doing the initial handshake with hash: a25a40ef4ba950ba39bb37e85394d0d9390ad565bf11504e0c2e4af823816cd0
+2025-06-30 19:26:07.202 [info] Computed simhash vector of length: 256
+2025-06-30 19:26:07.202 [info] Path key hash: 3a134f41d9bd3bb6d3bc324ab302a9211c38c2dde52287ea5fe48fb412ce6250
+2025-06-30 19:26:07.202 [info] Handshake start
+2025-06-30 19:26:08.628 [info] Handshake timing: 1428.2743499999997, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"85e09333-07b0-4f83-ba7f-fea93109a519","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-06-30 19:26:08.629 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"85e09333-07b0-4f83-ba7f-fea93109a519","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-06-30 19:26:08.629 [info] Starting fast remote sync.
+2025-06-30 19:26:08.629 [info] Total num embeddable files: 12
+2025-06-30 19:26:08.630 [info] Root hash: a25a40ef4ba950ba39bb37e85394d0d9390ad565bf11504e0c2e4af823816cd0
+2025-06-30 19:26:08.630 [info] In the out of sync case.
+2025-06-30 19:26:08.632 [info] Waiting on semaphore to be released 1
+2025-06-30 19:26:08.832 [info] Waiting on semaphore to be released 1
+2025-06-30 19:26:09.033 [info] setting numJobsToGo to 1
+2025-06-30 19:26:09.033 [info] [startSync]: numJobs: 1
+2025-06-30 19:26:09.033 [info] Uploading 1 files.
+2025-06-30 19:26:09.034 [info] Total number of files to embed: 12
+2025-06-30 19:26:09.034 [info] Not aborted
+2025-06-30 19:26:09.034 [info] Starting while loop.
+2025-06-30 19:26:11.178 [info] Completed job successfully: 85e09333-07b0-4f83-ba7f-fea93109a519 ./keybinding.conf
+2025-06-30 19:26:11.435 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-06-30 19:26:11.946 [info] Finished indexing repository.
+2025-06-30 19:26:11.946 [info] Indexing job successfully done or aborted.
+2025-06-30 19:26:15.149 [error] Error getting git status: Failed to execute git
+2025-06-30 19:26:49.451 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:28.345 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:32.470 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:33.033 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:39.770 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:49.290 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:52.040 [error] Error getting git status: Failed to execute git
+2025-06-30 19:27:53.076 [error] Error getting git status: Failed to execute git
+2025-06-30 19:31:03.981 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-06-30 19:31:06.679 [info] multiCodebaseIndexingJob dispose
+2025-06-30 19:31:06.679 [info] Aborting indexing job.
+2025-06-30 19:31:06.679 [info] Setting global status from status tracker: synced
+2025-06-30 19:31:06.679 [info] Doing a startup handshake.
+2025-06-30 19:31:06.681 [info] Finished computing merkle tree in 1.0730079999775626 ms.
+2025-06-30 19:31:06.682 [info] Doing the initial handshake with hash: a25a40ef4ba950ba39bb37e85394d0d9390ad565bf11504e0c2e4af823816cd0
+2025-06-30 19:31:06.683 [info] Computed simhash vector of length: 256
+2025-06-30 19:31:06.683 [info] Path key hash: 3a134f41d9bd3bb6d3bc324ab302a9211c38c2dde52287ea5fe48fb412ce6250
+2025-06-30 19:31:06.683 [info] Handshake start
+2025-06-30 19:31:07.293 [error] Error getting git status: Failed to execute git
+2025-06-30 19:31:10.687 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-06-30 19:31:10.687 [info] Handshake start
+2025-06-30 19:31:18.689 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-06-30 19:31:18.689 [info] Handshake start
+2025-06-30 19:31:34.692 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-06-30 19:31:34.692 [info] Handshake start
+2025-06-30 19:32:06.694 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-06-30 19:32:06.694 [info] Handshake start
+2025-06-30 19:32:52.664 [info] multiCodebaseIndexingJob dispose
+2025-06-30 19:32:52.664 [info] Aborting indexing job.
+2025-06-30 19:32:52.664 [info] Indexing job successfully done or aborted.

@@ -1,0 +1,9 @@
+█ ChatsController:constructor init
+█ telemetry-v2 recordEvent: cody.extension/savedLogin:
+█ telemetry-v2 recordEvent: cody.signInNotification/shown:
+█ ModelsService User model preferences changed: {"defaults":{},"selected":{}}
+█ telemetry-v2 recordEvent: cody.auth/disconnected:
+█ Autocomplete:createProvider You are not signed in.
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ telemetry-v2 recordEvent: cody.characters/flush:

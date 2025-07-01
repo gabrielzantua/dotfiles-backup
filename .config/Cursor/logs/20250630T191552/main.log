@@ -1,0 +1,20 @@
+2025-06-30 19:15:53.037 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.1.6/aa8f15731b86b6feb3dbf9fb67187e2c7f1c4b3f21db6c456c0f2cf771cb0a46/stable
+2025-06-30 19:15:53.037 [info] update#setState idle
+2025-06-30 19:15:54.458 [error] vscode-file: Refused to load resource /tmp/.mount_Cursor2Hxg1g/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_Cursor2Hxg1g/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-06-30 19:16:17.563 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:16:23.140 [info] update#setState checking for updates
+2025-06-30 19:16:26.621 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:16:28.452 [info] update#setState idle
+2025-06-30 19:16:59.522 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:17:57.009 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:18:59.059 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:19:40.196 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:20:45.926 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:20:53.445 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:20:59.902 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:21:59.164 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:23:01.148 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:23:07.691 [info] Extension host with pid 29647 exited with code: 0, signal: unknown.
+2025-06-30 19:23:12.345 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:23:24.447 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:23:30.914 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 29658]: crashed with code 15 and reason 'killed'

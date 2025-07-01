@@ -1,0 +1,688 @@
+2025-06-30 20:46:54.680 [info] Extension host with pid 58581 started
+2025-06-30 20:46:54.798 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-30 20:46:54.858 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-30 20:46:54.893 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-30 20:46:54.967 [info] Eager extensions activated
+2025-06-30 20:46:54.971 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:46:54.973 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:47:03.850 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:47:03.855 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:47:03.905 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:47:03.942 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:52:05.646 [info] ExtensionService#_doActivateExtension sourcegraph.cody-ai, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:52:07.585 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:52:07.585 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:53:09.645 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-30 20:53:09.662 [info] Extension host with pid 58581 exiting with code 0
+2025-06-30 20:53:11.091 [info] Extension host with pid 58860 started
+2025-06-30 20:53:11.091 [info] Skipping acquiring lock for /home/pengu/.config/Code - OSS/User/workspaceStorage/3d98befa5abdff29b2c5df23661245a6.
+2025-06-30 20:53:11.183 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:53:11.199 [info] ExtensionService#_doActivateExtension sourcegraph.cody-ai, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:53:11.870 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-06-30 20:53:11.949 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-30 20:53:12.120 [info] Eager extensions activated
+2025-06-30 20:53:12.123 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:53:12.125 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:53:13.124 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:53:13.124 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:53:14.970 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-06-30 20:53:23.797 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-30 20:53:23.805 [info] Extension host with pid 58860 exiting with code 0
+2025-06-30 20:53:25.264 [info] Extension host with pid 58912 started
+2025-06-30 20:53:25.264 [info] Skipping acquiring lock for /home/pengu/.config/Code - OSS/User/workspaceStorage/6f0df84ac40b22d0bccd684ca880025d.
+2025-06-30 20:53:25.366 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:53:25.381 [info] ExtensionService#_doActivateExtension sourcegraph.cody-ai, startup: false, activationEvent: 'onLanguage'
+2025-06-30 20:53:25.990 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: sourcegraph.cody-ai
+2025-06-30 20:53:26.036 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: sourcegraph.cody-ai
+2025-06-30 20:53:26.149 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-06-30 20:53:26.325 [info] Eager extensions activated
+2025-06-30 20:53:26.326 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:53:26.328 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 20:53:27.326 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:53:27.327 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:53:39.953 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:54:19.363 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:54:19.377 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:54:19.422 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-30 20:54:19.617 [error] Error: command 'cody.command.prompt-document-code' already exists
+	at Xb.registerCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:40218)
+	at Object.registerCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:96463)
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:276537:32
+	at Object.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:21275:25)
+	at notifySubscription (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18341:14)
+	at onNotify (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18380:3)
+	at SubscriptionObserver.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18423:9)
+	at notifySubscription (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18341:14)
+	at onNotify (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18380:3)
+	at SubscriptionObserver.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18423:9)
+	at MulticastSubject.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18929:20)
+	at Object.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:21341:21)
+	at notifySubscription (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18341:14)
+	at onNotify (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18380:3)
+	at SubscriptionObserver.next (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:18423:9)
+	at AsyncSerialScheduler4.<anonymous> (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:21038:32)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:20998:28)
+2025-06-30 20:54:20.625 [error] Error: command 'authStatus.update' not found
+    at mYe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1328)
+    at mYe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1855:1260)
+2025-06-30 20:54:38.887 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-06-30 21:00:04.399 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:04.399 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:04.944 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:04.944 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.180 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:05.180 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.180 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:05.180 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.421 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.434 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:05.434 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.944 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:06.294 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:06.294 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:06.478 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:06.478 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:07.295 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:07.753 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:08.579 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:08.579 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:09.327 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:09.327 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:09.580 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:09.710 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:09.710 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:10.327 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:10.564 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:10.564 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:10.719 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:10.768 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:10.768 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:10.992 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:10.992 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:11.565 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:11.769 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:11.992 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:12.372 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:12.372 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:12.822 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:12.822 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:13.831 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:13.973 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:13.973 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:14.236 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:14.236 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:15.102 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:15.102 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:15.202 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:15.202 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:15.894 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:16.103 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:18.633 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:18.633 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:19.018 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:19.018 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:19.401 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:19.401 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:19.633 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:20.556 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:20.556 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:20.729 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:20.729 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:21.325 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:00:21.325 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:26.254 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-06-30 21:00:53.204 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-06-30 21:00:53.435 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-06-30 21:00:53.488 [error] Activating extension ms-python.debugpy failed due to an error:
+2025-06-30 21:00:53.488 [error] Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+	at L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:29606)
+	at Object.registerPortAttributesProvider (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:115632)
+	at t.registerDebugger (/home/pengu/.vscode-oss/extensions/ms-python.debugpy-2025.6.0-linux-x64/dist/extension.js:2:846640)
+	at e.activate (/home/pengu/.vscode-oss/extensions/ms-python.debugpy-2025.6.0-linux-x64/dist/extension.js:2:1098056)
+	at ky.kb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:124:15268)
+	at ky.jb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:124:14975)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:124:13133
+	at async Wb.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:13382)
+	at async Wb.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:13345)
+	at async Wb.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:12801)
+2025-06-30 21:00:54.647 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:29606)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:99396)
+	at C.activate (/home/pengu/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/pengu/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/pengu/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)
+2025-06-30 21:01:07.994 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:07.994 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:08.174 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:08.174 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:08.174 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:08.174 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:32.588 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:32.588 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:32.644 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:33.589 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:35.149 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:35.149 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:35.679 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:35.679 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:36.096 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:36.096 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:36.149 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:37.029 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:37.029 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:37.096 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:37.330 [error] [sourcegraph.cody-ai] provider FAILED
+2025-06-30 21:01:37.330 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:38.029 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:38.330 [error] Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:05:20.860 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 21:05:20.870 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 21:05:24.644 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-06-30 21:08:41.848 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-30 21:08:41.869 [info] Extension host with pid 58912 exiting with code 0

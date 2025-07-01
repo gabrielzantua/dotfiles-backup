@@ -1,0 +1,37 @@
+2025-07-01 15:37:13.425 [info] Extension host with pid 34456 started
+2025-07-01 15:37:13.425 [info] Skipping acquiring lock for /home/pengu/.config/Windsurf/User/workspaceStorage/3361968e74b77cf7c08176d81c48bb3a.
+2025-07-01 15:37:13.436 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-01 15:37:13.511 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-01 15:37:13.525 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-01 15:37:13.591 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-01 15:37:13.845 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: true, activationEvent: '*'
+2025-07-01 15:37:23.511 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-01 15:37:23.558 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-01 15:37:23.675 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-07-01 15:37:30.626 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3466549)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3617029)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-01 15:37:44.702 [info] Eager extensions activated
+2025-07-01 15:51:20.187 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-01 15:51:20.195 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-01 15:51:20.246 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-01 15:54:05.705 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/pengu/.config/hypr/conf/keybinding.conf
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3858724)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3859120)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3865771)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3465111
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3864107)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3851970)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2307683)
+2025-07-01 15:54:11.874 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/pengu/.config/hypr/conf/windowrule.conf
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3858724)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3859120)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3865771)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3465111
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3864107)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3851970)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2307683)

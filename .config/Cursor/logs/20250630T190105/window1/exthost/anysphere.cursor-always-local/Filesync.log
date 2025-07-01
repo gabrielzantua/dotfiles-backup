@@ -1,0 +1,101 @@
+2025-06-30 19:01:10.743 [error] Failed to check if file sync is enabled for user {}
+2025-06-30 19:01:10.743 [error] Failed to fetch fsConfig File sync is disabled
+2025-06-30 19:01:10.743 [error] Failed to fetch fsConfig File sync is disabled
+2025-06-30 19:01:10.743 [info] [registerEventListeners] Registering event listeners
+2025-06-30 19:01:12.041 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:01:12.455 [info] Fetched fsConfig in 413.578485ms
+2025-06-30 19:01:12.455 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:01:13.308 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:01:13.897 [info] Starting sync of visible tabs
+2025-06-30 19:01:14.225 [info] Uploaded file /home/pengu/.config/waybar/config modelVersion=1 in 326.7380639999992ms
+2025-06-30 19:01:14.225 [info] Synced all visible tabs in 329.0733730000002ms
+2025-06-30 19:01:14.392 [info] Fetched fsConfig in 1084.2833499999997ms
+2025-06-30 19:01:14.392 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:01:14.392 [info] File sync enabled status: true
+2025-06-30 19:01:14.392 [info] Starting sync of visible tabs
+2025-06-30 19:01:14.392 [info] Synced all visible tabs in 0.23152900000059162ms
+2025-06-30 19:01:14.393 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:01:14.805 [info] Fetched fsConfig in 411.9603010000001ms
+2025-06-30 19:01:14.805 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:01:53.941 [info] Handled visible editors change in 0.2699519999951008ms
+2025-06-30 19:01:54.249 [info] Uploaded file monitors.conf modelVersion=1 in 214.3157330000031ms
+2025-06-30 19:01:54.249 [info] Handled visible editors change in 271.7111120000045ms
+2025-06-30 19:01:55.033 [info] Handled visible editors change in 0.21892499999376014ms
+2025-06-30 19:01:55.047 [info] Handled visible editors change in 0.3555449999985285ms
+2025-06-30 19:01:56.605 [info] Handled visible editors change in 0.39926700000069104ms
+2025-06-30 19:01:56.935 [info] Uploaded file /home/pengu/.config/kitty/kitty.conf modelVersion=1 in 216.95540799999435ms
+2025-06-30 19:01:56.935 [info] Handled visible editors change in 289.36703699999634ms
+2025-06-30 19:01:58.250 [info] Handled visible editors change in 0.20679199999722186ms
+2025-06-30 19:01:58.262 [info] Handled visible editors change in 0.35074499999609543ms
+2025-06-30 19:02:26.697 [info] Synced file /home/pengu/.config/waybar/config modelVersion=2 in 223.7741309999983ms
+2025-06-30 19:02:28.243 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:02:28.642 [info] Fetched fsConfig in 398.27728500000376ms
+2025-06-30 19:02:28.642 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:02:28.642 [info] File sync enabled status: true
+2025-06-30 19:02:28.642 [info] Starting sync of visible tabs
+2025-06-30 19:02:28.642 [info] Synced all visible tabs in 0.08016199999838136ms
+2025-06-30 19:02:55.760 [info] Synced file /home/pengu/.config/waybar/config modelVersion=4 in 216.47137400000065ms
+2025-06-30 19:03:25.683 [info] Synced file /home/pengu/.config/waybar/config modelVersion=6 in 230.15401499997824ms
+2025-06-30 19:03:26.007 [info] Synced file /home/pengu/.config/waybar/config modelVersion=7 in 210.47924999997485ms
+2025-06-30 19:04:35.943 [info] Synced file /home/pengu/.config/waybar/config modelVersion=8 in 619.8175879999762ms
+2025-06-30 19:04:36.239 [info] Synced file /home/pengu/.config/waybar/config modelVersion=8 in 208.75984899999457ms
+2025-06-30 19:04:36.876 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:04:37.296 [info] Fetched fsConfig in 419.7479900000035ms
+2025-06-30 19:04:37.296 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:04:37.296 [info] File sync enabled status: true
+2025-06-30 19:04:37.296 [info] Starting sync of visible tabs
+2025-06-30 19:04:37.296 [info] Synced all visible tabs in 0.0788110000139568ms
+2025-06-30 19:05:20.262 [info] Synced file /home/pengu/.config/waybar/config modelVersion=9 in 212.44221800001105ms
+2025-06-30 19:05:35.684 [info] Synced file /home/pengu/.config/waybar/config modelVersion=10 in 217.67673900001682ms
+2025-06-30 19:05:36.736 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:05:37.145 [info] Fetched fsConfig in 409.5856389999972ms
+2025-06-30 19:05:37.145 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:05:37.145 [info] File sync enabled status: true
+2025-06-30 19:05:37.145 [info] Starting sync of visible tabs
+2025-06-30 19:05:37.145 [info] Synced all visible tabs in 0.0663969999877736ms
+2025-06-30 19:05:38.938 [info] Handled visible editors change in 0.2329959999769926ms
+2025-06-30 19:06:29.057 [info] Uploaded file /home/pengu/.config/waybar/style.css modelVersion=1 in 212.67451199999778ms
+2025-06-30 19:06:29.058 [info] Handled visible editors change in 269.91694900003495ms
+2025-06-30 19:06:30.262 [info] Handled visible editors change in 0.27732100000139326ms
+2025-06-30 19:06:30.276 [info] Handled visible editors change in 0.32899900001939386ms
+2025-06-30 19:06:35.615 [info] Synced file /home/pengu/.config/waybar/config modelVersion=12 in 216.36453100002836ms
+2025-06-30 19:06:35.950 [info] Synced file /home/pengu/.config/waybar/config modelVersion=13 in 215.95855300000403ms
+2025-06-30 19:06:36.879 [info] Synced file /home/pengu/.config/waybar/config modelVersion=15 in 213.80219100002432ms
+2025-06-30 19:06:47.934 [info] Synced file /home/pengu/.config/waybar/config modelVersion=17 in 516.0048879999667ms
+2025-06-30 19:06:58.598 [info] Synced file /home/pengu/.config/waybar/config modelVersion=19 in 211.32868400000734ms
+2025-06-30 19:07:04.288 [info] Synced file /home/pengu/.config/waybar/config modelVersion=21 in 212.07037699996727ms
+2025-06-30 19:07:22.630 [info] Synced file /home/pengu/.config/waybar/config modelVersion=24 in 212.40202700003283ms
+2025-06-30 19:07:48.404 [info] Synced file /home/pengu/.config/waybar/config modelVersion=27 in 216.33160499995574ms
+2025-06-30 19:07:49.378 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:07:49.779 [info] Fetched fsConfig in 400.95907199999783ms
+2025-06-30 19:07:49.779 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:07:49.779 [info] File sync enabled status: true
+2025-06-30 19:07:49.779 [info] Starting sync of visible tabs
+2025-06-30 19:07:49.779 [info] Synced all visible tabs in 0.07705700001679361ms
+2025-06-30 19:08:00.286 [info] Synced file /home/pengu/.config/waybar/config modelVersion=30 in 217.49071500002174ms
+2025-06-30 19:08:37.973 [info] Synced file /home/pengu/.config/waybar/config modelVersion=33 in 208.78595200000564ms
+2025-06-30 19:08:53.953 [info] Synced file /home/pengu/.config/waybar/config modelVersion=36 in 227.07546199997887ms
+2025-06-30 19:08:54.373 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:08:54.791 [info] Fetched fsConfig in 418.0637320000096ms
+2025-06-30 19:08:54.791 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:08:54.791 [info] File sync enabled status: true
+2025-06-30 19:08:54.791 [info] Starting sync of visible tabs
+2025-06-30 19:08:54.791 [info] Synced all visible tabs in 0.0617680000141263ms
+2025-06-30 19:09:20.928 [info] Handled visible editors change in 0.1871779999928549ms
+2025-06-30 19:09:20.947 [info] Handled visible editors change in 0.3524629999883473ms
+2025-06-30 19:11:24.101 [info] Synced file /home/pengu/.config/waybar/style.css modelVersion=4 in 840.5496069999645ms
+2025-06-30 19:11:24.171 [info] Synced file /home/pengu/.config/waybar/style.css modelVersion=4 in 215.6494449999882ms
+2025-06-30 19:11:24.981 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:11:25.396 [info] Fetched fsConfig in 415.06275500007905ms
+2025-06-30 19:11:25.396 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:11:25.396 [info] File sync enabled status: true
+2025-06-30 19:11:25.397 [info] Starting sync of visible tabs
+2025-06-30 19:11:25.397 [info] Synced all visible tabs in 0.11768500006292015ms
+2025-06-30 19:14:04.549 [info] Synced file /home/pengu/.config/waybar/style.css modelVersion=5 in 656.4181300000055ms
+2025-06-30 19:14:06.016 [info] Synced file /home/pengu/.config/waybar/style.css modelVersion=6 in 211.91330000001471ms
+2025-06-30 19:14:07.466 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-06-30 19:14:07.889 [info] Fetched fsConfig in 423.38686200010125ms
+2025-06-30 19:14:07.889 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-06-30 19:14:07.889 [info] File sync enabled status: true
+2025-06-30 19:14:07.889 [info] Starting sync of visible tabs
+2025-06-30 19:14:07.889 [info] Synced all visible tabs in 0.07879000005777925ms

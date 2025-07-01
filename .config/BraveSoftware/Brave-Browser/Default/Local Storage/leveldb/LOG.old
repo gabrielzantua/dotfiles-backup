@@ -1,0 +1,15 @@
+2025/07/01-16:04:23.916 4 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/01-16:04:23.919 4 Recovering log #51
+2025/07/01-16:04:23.919 4 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000051.log 
+2025/07/01-16:04:33.192 5 Level-0 table #55: started
+2025/07/01-16:04:33.331 5 Level-0 table #55: 26337 bytes OK
+2025/07/01-16:04:33.405 5 Delete type=0 #51
+2025/07/01-16:04:33.405 5 Compacting 4@0 + 1@1 files
+2025/07/01-16:04:33.509 5 Generated table #56@0: 360 keys, 384695 bytes
+2025/07/01-16:04:33.509 5 Compacted 4@0 + 1@1 files => 384695 bytes
+2025/07/01-16:04:33.583 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/01-16:04:33.583 5 Delete type=2 #47
+2025/07/01-16:04:33.583 5 Delete type=2 #50
+2025/07/01-16:04:33.583 5 Delete type=2 #52
+2025/07/01-16:04:33.583 5 Delete type=2 #45
+2025/07/01-16:04:33.583 5 Delete type=2 #55

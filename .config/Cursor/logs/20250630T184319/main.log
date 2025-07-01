@@ -1,0 +1,46 @@
+2025-06-30 18:43:20.198 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.1.6/aa8f15731b86b6feb3dbf9fb67187e2c7f1c4b3f21db6c456c0f2cf771cb0a46/stable
+2025-06-30 18:43:20.198 [info] update#setState idle
+2025-06-30 18:43:21.818 [error] vscode-file: Refused to load resource /tmp/.mount_Cursorwyc8G1/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_Cursorwyc8G1/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-06-30 18:43:36.510 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:43:50.102 [info] update#setState checking for updates
+2025-06-30 18:43:50.779 [info] update#setState idle
+2025-06-30 18:44:28.454 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:45:02.848 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:45:31.661 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:46:30.165 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:46:40.186 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:47:28.312 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:47:34.750 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:48:14.289 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:48:24.248 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:48:30.816 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:48:40.969 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:48:49.165 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:49:20.292 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:49:28.585 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:50:44.599 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:50:54.486 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:51:28.042 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:52:05.762 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:52:28.322 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:53:14.624 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:53:21.610 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:53:49.987 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:54:28.891 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:54:36.716 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:55:29.397 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:56:25.453 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:56:43.715 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:57:30.258 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:58:23.798 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:58:31.898 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:59:32.416 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:59:44.207 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 18:59:45.340 [error] ptyHost terminated unexpectedly with code 15
+2025-06-30 18:59:45.340 [warning] [UtilityProcess type: ptyHost, pid: 5595]: unable to kill the process
+2025-06-30 18:59:45.347 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-06-30 18:59:45.347 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5556]: crashed with code 15 and reason 'killed'
+2025-06-30 18:59:45.348 [error] [UtilityProcess type: shared-process, pid: 5555]: crashed with code 15 and reason 'killed'
+2025-06-30 18:59:45.350 [info] Extension host with pid 5545 exited with code: 15, signal: unknown.
+2025-06-30 18:59:45.350 [error] [UtilityProcess id: 1, type: extensionHost, pid: 5545]: crashed with code 15 and reason 'killed'
+2025-06-30 18:59:45.352 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

@@ -1,0 +1,125 @@
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-06-30 18:43:21.628 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.628 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.628 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.628 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.628 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "memoriesEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:21.629 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-06-30 18:43:22.092 [info] Started local extension host with pid 5545.
+2025-06-30 18:43:23.214 [error] [Extension Host] (node:5545) ExperimentalWarning: Use `importAttributes` instead of `importAssertions`
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-06-30 18:43:26.020 [info] [perf] Render performance baseline is 16ms
+2025-06-30 18:47:57.033 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at uH.deltaDecorations (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:4111)
+    at pHs.clearDecorationsFast (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:13433)
+    at pHs.clearSuggestions (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:13509)
+    at pHs.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:12159)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6763:25665)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.C (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2468)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2532)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15766)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at reo.r (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30236)
+    at reo.emitOutgoingEvent (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:29990)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:59499)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at OZr.y (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:16063)
+    at OZr.endDeferredEmit (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:15533)
+    at uH.deltaDecorations (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:4256)
+    at MQi.X (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4187:6625)
+    at MQi.removeAllInEditorNotModel (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4191:3809)
+    at MQi.update (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4191:3081)
+    at mbe.update (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4193:3080)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4193:717)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.C (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2468)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2686)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15513)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at reo.r (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30236)
+    at reo.endEmitViewEvents (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30739)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4024
+    at Object.batchChanges (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:14708)
+    at jeo.U (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3938)
+    at jeo.setCursorStates (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:1929)
+    at a.runCoreEditorCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:87:18825)
+    at a.runEditorCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:87:11487)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:10659
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:10568
+    at mVs.invokeFunction (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5069:676)
+    at O0.invokeWithinContext (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:12643)
+    at hjs.runEditorCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:10493)
+    at a.runCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:10606)
+    at handler (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:9171)
+    at mVs.invokeFunction (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5069:676)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4787:1538
+    at A8 (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:45248)
+    at Qxs.n (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4787:1431)
+    at Qxs.executeCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4787:1146)
+    at tAt.M (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4770:17782)
+    at tAt.J (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4770:15464)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4771:2430 Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-06-30 18:54:52.423 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at uH.deltaDecorations (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:4111)
+    at pHs.clearDecorationsFast (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:13433)
+    at pHs.clearSuggestions (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:13509)
+    at pHs.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6780:12159)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6763:25665)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.C (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2468)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2532)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15766)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at reo.r (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30236)
+    at reo.emitOutgoingEvent (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:29990)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:59499)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at OZr.y (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:16063)
+    at OZr.endDeferredEmit (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:15533)
+    at uH.deltaDecorations (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:4256)
+    at MQi._updateLineModificationDecorations (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4187:9396)
+    at MQi.showChangesAutoCompleteInline (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4190:1583)
+    at MQi._updateTextContentImpl (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4191:2508)
+    at MQi._updateTextContent (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4191:1039)
+    at MQi.update (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4191:3686)
+    at mbe.update (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4193:3080)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4193:717)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.C (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2468)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2686)
+    at Spt.value (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15513)
+    at ye.B (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2398)
+    at ye.fire (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:2617)
+    at reo.r (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30236)
+    at reo.endEmitViewEvents (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:30739)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4024
+    at Object.batchChanges (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:14708)
+    at jeo.U (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3938)
+    at jeo.setCursorStates (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:1929)
+    at e.runCoreEditorCommand (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:87:15064)
+    at vJr.moveTo (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:94:6841)
+    at vJr.dispatchMouse (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:94:6697)
+    at oJr.G (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:51866)
+    at oJr.start (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:50210)
+    at mJr.G (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:48595)
+    at vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:46195
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/tmp/.mount_CursorCqpvep/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:88:27306) Invoking deltaDecorations recursively could lead to leaking decorations.

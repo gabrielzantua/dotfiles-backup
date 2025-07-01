@@ -1,0 +1,281 @@
+2025-06-30 20:46:53.565 [info] Started local extension host with pid 58581.
+2025-06-30 20:46:53.587 [info] Started initializing default profile extensions in extensions installation folder. file:///home/pengu/.vscode-oss/extensions
+2025-06-30 20:46:53.593 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-30 20:46:53.661 [info] ComputeTargetPlatform: linux-x64
+2025-06-30 20:46:54.177 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/pengu/.vscode-oss/extensions
+2025-06-30 20:46:56.541 [info] [perf] Render performance baseline is 18ms
+2025-06-30 20:52:05.555 [info] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-06-30 20:52:06.281 [error] [Extension Host] (node:58581) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-30 20:52:06.478 [error] [Extension Host] DelegatingProxy: Loaded 150 CA certs from noxide
+2025-06-30 20:52:07.586 [error] command 'authStatus.update' not found
+2025-06-30 20:53:10.558 [info] Started local extension host with pid 58860.
+2025-06-30 20:53:10.793 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-30 20:53:11.053 [info] ComputeTargetPlatform: linux-x64
+2025-06-30 20:53:11.075 [info] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-06-30 20:53:11.810 [error] [Extension Host] (node:58860) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-30 20:53:11.835 [error] [Extension Host] DelegatingProxy: Loaded 150 CA certs from noxide
+2025-06-30 20:53:13.125 [error] command 'authStatus.update' not found
+2025-06-30 20:53:13.246 [info] [perf] Render performance baseline is 18ms
+2025-06-30 20:53:14.587 [error] Error while getting the latest version for the extension sourcegraph.cody-ai. Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-06-30 20:53:14.949 [info] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-06-30 20:53:24.612 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-30 20:53:24.612 [info] Started local extension host with pid 58912.
+2025-06-30 20:53:24.631 [info] ComputeTargetPlatform: linux-x64
+2025-06-30 20:53:25.249 [info] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-06-30 20:53:25.947 [error] [Extension Host] (node:58912) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-30 20:53:25.971 [error] [Extension Host] DelegatingProxy: Loaded 150 CA certs from noxide
+2025-06-30 20:53:27.213 [info] [perf] Render performance baseline is 18ms
+2025-06-30 20:53:27.327 [error] command 'authStatus.update' not found
+2025-06-30 20:53:28.223 [error] Error while getting the latest version for the extension sourcegraph.cody-ai. Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-06-30 20:53:39.954 [error] command 'authStatus.update' not found
+2025-06-30 20:54:19.617 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 20:54:20.626 [error] command 'authStatus.update' not found
+2025-06-30 21:00:05.181 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:05.422 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:07.296 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:08.580 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:09.584 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:10.720 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:10.993 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:11.566 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:12.823 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:13.831 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:14.237 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:15.895 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:18.634 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:19.634 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:00:20.556 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:00:53.062 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-30 21:00:53.063 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-30 21:00:53.066 [info] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-06-30 21:00:53.068 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-06-30 21:00:54.648 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:01:08.175 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:32.588 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:32.645 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:01:36.097 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:36.150 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:01:37.330 [error] error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+: Error: error parsing streaming CodeCompletionResponse: Error: Request to https://cody-gateway.sourcegraph.com/v1/completions/fireworks failed with 403 Forbidden: {"error":"Cody Gateway access not enabled"}
+
+	at /home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263628:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async generatorWithTimeout (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211254:31)
+	at async generatorWithErrorObserver (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211230:21)
+	at async fetchAndProcessDynamicMultilineCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:263063:62)
+	at async Promise.all (index 0)
+	at async zipGenerators (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:211219:17)
+	at async generateCompletions (/home/pengu/.vscode-oss/extensions/sourcegraph.cody-ai-1.106.2-universal/dist/extension.node.js:261232:26)
+2025-06-30 21:01:38.030 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-30 21:03:32.550 [error] [Extension Host] Completion request failed: Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+2025-06-30 21:04:06.594 [error] [Extension Host] Completion request failed: Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+2025-06-30 21:05:03.368 [error] [Extension Host] Completion request failed: Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+2025-06-30 21:06:02.326 [error] [Extension Host] Completion request failed: Request to https://sourcegraph.com/.api/completions/stream?api-version=9&client-name=vscode&client-version=1.106.2 failed with 401 Unauthorized: {"message":"status 401, reason completions are not enabled","type":"http_error"}
+
+2025-06-30 21:08:41.869 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pengu/.config/waybar/zuripanget.py 

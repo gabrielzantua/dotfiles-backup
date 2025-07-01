@@ -1,0 +1,6 @@
+2025/06/30-22:01:09.510 5b1 Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2025/06/30-22:01:10.034 5b1 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-22:51:59.911 5b0 Level-0 table #5: started
+2025/06/30-22:52:00.093 5b0 Level-0 table #5: 240567 bytes OK
+2025/06/30-22:52:00.187 5b0 Delete type=0 #3
+2025/06/30-22:52:00.188 5b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

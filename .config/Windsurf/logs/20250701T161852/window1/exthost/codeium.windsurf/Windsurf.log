@@ -1,0 +1,129 @@
+2025-07-01 16:18:55.865 [info] 2025/07/01 16:18:55 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2025-07-01 16:18:56.010 [info] I0701 16:18:56.010471  4651 main.go:602] Setting GOMAXPROCS to 4
+2025-07-01 16:18:56.010 [info] I0701 16:18:56.010610  4651 main.go:817] Starting language server process with pid 4651
+2025-07-01 16:18:56.010 [info] I0701 16:18:56.010732  4651 server.go:292] Language server will attempt to listen on host 127.0.0.1
+2025-07-01 16:18:56.011 [info] I0701 16:18:56.010901  4651 server.go:299] Language server listening on random port at 44921
+2025-07-01 16:18:56.606 [info] I0701 16:18:56.606540  4651 server.go:420] Created extension server client at port 35727
+2025-07-01 16:18:56.756 [info] I0701 16:18:56.756422  4651 server.go:948] Local search is enabled, will index local files.
+2025-07-01 16:18:56.756 [info] I0701 16:18:56.756446  4651 server.go:952] Using 3 indexer workers
+2025-07-01 16:18:57.281 [info] (Windsurf) 2025-07-01 16:18:57.278 [INFO]: Language server started
+2025-07-01 16:18:57.351 [info] (Windsurf) 2025-07-01 16:18:57.351 [INFO]: LS lspClient started successfully
+2025-07-01 16:18:57.648 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-01 16:18:57.649 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-01 16:18:57.649 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-01 16:46:51.067 [info] (Windsurf) 2025-07-01 16:46:51.067 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-01 16:47:34.761 [info] (Windsurf) 2025-07-01 16:47:34.761 [INFO]: [Cascade Manager] Opening diff zones for: config.jsonc
+2025-07-01 16:47:41.819 [info] E0701 16:47:41.819602  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/fastfetch/config.jsonc
+2025-07-01 16:59:22.215 [info] (Windsurf) 2025-07-01 16:59:22.215 [INFO]: [Cascade Manager] Opening diff zones for: .zshrc
+2025-07-01 16:59:23.537 [info] E0701 16:59:23.536778  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.zshrc
+2025-07-01 17:04:06.933 [info] (Windsurf) 2025-07-01 17:04:06.933 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-07-01 17:05:38.965 [info] (Windsurf) 2025-07-01 17:05:38.965 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:05:41.449 [info] E0701 17:05:41.449392  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:08:46.226 [info] (Windsurf) 2025-07-01 17:08:46.226 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:10:42.733 [info] E0701 17:10:42.733252  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/cava/config
+2025-07-01 17:11:23.597 [info] (Windsurf) 2025-07-01 17:11:23.597 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:11:25.655 [info] E0701 17:11:25.655647  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/cava/config
+2025-07-01 17:13:07.179 [info] (Windsurf) 2025-07-01 17:13:07.179 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:13:11.757 [info] E0701 17:13:11.756961  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/cava/config
+2025-07-01 17:15:17.645 [info] (Windsurf) 2025-07-01 17:15:17.645 [INFO]: [Cascade Manager] Opening diff zones for: btop.conf
+2025-07-01 17:15:29.393 [info] E0701 17:15:29.392976  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/btop/btop.conf
+2025-07-01 17:17:20.676 [info] (Windsurf) 2025-07-01 17:17:20.676 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:17:23.174 [info] E0701 17:17:23.174263  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:18:01.481 [info] (Windsurf) 2025-07-01 17:18:01.481 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:18:16.853 [info] E0701 17:18:16.853566  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:19:40.582 [info] (Windsurf) 2025-07-01 17:19:40.582 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:19:43.499 [info] E0701 17:19:43.498782  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:19:55.835 [info] (Windsurf) 2025-07-01 17:19:55.835 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:19:57.779 [info] E0701 17:19:57.779353  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:20:18.101 [info] (Windsurf) 2025-07-01 17:20:18.101 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:20:50.227 [info] (Windsurf) 2025-07-01 17:20:50.227 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:21:26.093 [info] (Windsurf) 2025-07-01 17:21:26.093 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:32:12.563 [info] (Windsurf) 2025-07-01 17:32:12.563 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:32:35.717 [info] E0701 17:32:35.717503  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 17:47:03.608 [info] (Windsurf) 2025-07-01 17:47:03.607 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 17:47:11.786 [info] (Windsurf) 2025-07-01 17:47:11.786 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:47:19.164 [info] E0701 17:47:19.164184  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 17:47:37.591 [info] (Windsurf) 2025-07-01 17:47:37.591 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:48:11.009 [info] E0701 17:48:11.009605  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 17:53:24.667 [info] (Windsurf) 2025-07-01 17:53:24.667 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:53:30.305 [info] E0701 17:53:30.305676  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 17:53:48.833 [info] (Windsurf) 2025-07-01 17:53:48.833 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:53:52.053 [info] E0701 17:53:52.053842  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 17:54:08.121 [info] (Windsurf) 2025-07-01 17:54:08.121 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:54:50.158 [info] (Windsurf) 2025-07-01 17:54:50.158 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:54:55.693 [info] E0701 17:54:55.693718  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 17:56:01.581 [info] (Windsurf) 2025-07-01 17:56:01.581 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:56:18.678 [info] (Windsurf) 2025-07-01 17:56:18.678 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:59:11.850 [info] E0701 17:59:11.850622  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1177: invalid offset 1177
+2025-07-01 17:59:11.851 [info] E0701 17:59:11.850941  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1177: invalid offset 1177
+2025-07-01 17:59:29.628 [info] (Windsurf) 2025-07-01 17:59:29.628 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 17:59:30.647 [info] E0701 17:59:30.646874  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:00:08.661 [info] E0701 18:00:08.660968  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:01:52.770 [info] (Windsurf) 2025-07-01 18:01:52.770 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:03:57.139 [info] (Windsurf) 2025-07-01 18:03:57.139 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:04:27.704 [info] E0701 18:04:27.703909  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 18:08:03.116 [info] (Windsurf) 2025-07-01 18:08:03.116 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 18:08:05.764 [info] E0701 18:08:05.764384  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 18:10:29.168 [info] (Windsurf) 2025-07-01 18:10:29.168 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 18:10:52.081 [info] (Windsurf) 2025-07-01 18:10:52.081 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 18:10:54.119 [info] E0701 18:10:54.119677  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 18:12:54.415 [info] (Windsurf) 2025-07-01 18:12:54.415 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:13:05.219 [info] (Windsurf) 2025-07-01 18:13:05.218 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:13:15.804 [info] (Windsurf) 2025-07-01 18:13:15.804 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:13:26.624 [info] E0701 18:13:26.624150  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 18:18:23.742 [info] (Windsurf) 2025-07-01 18:18:23.742 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:25:37.762 [info] E0701 18:25:37.762560  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:25:52.178 [info] E0701 18:25:52.177952  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:25:53.840 [info] E0701 18:25:53.840277  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:30:41.965 [info] E0701 18:30:41.965211  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:31:33.458 [info] E0701 18:31:33.458170  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:31:35.469 [info] E0701 18:31:35.468818  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:32:56.913 [info] E0701 18:32:56.912758  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:33:01.332 [info] E0701 18:33:01.332468  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:33:13.853 [info] E0701 18:33:13.853239  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:33:14.374 [info] E0701 18:33:14.374740  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:33:29.353 [info] E0701 18:33:29.353541  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:33:30.011 [info] E0701 18:33:30.011740  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:34:14.220 [info] E0701 18:34:14.217054  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:36:45.394 [info] (Windsurf) 2025-07-01 18:36:45.393 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:36:47.853 [info] E0701 18:36:47.853653  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 18:38:29.737 [info] E0701 18:38:29.737476  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1340: invalid offset 1340
+2025-07-01 18:38:29.737 [info] E0701 18:38:29.737547  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1340: invalid offset 1340
+2025-07-01 18:38:30.994 [info] E0701 18:38:30.994211  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:39:04.024 [info] E0701 18:39:04.023889  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:48:54.330 [info] (Windsurf) 2025-07-01 18:48:54.330 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 18:48:56.471 [info] E0701 18:48:56.470916  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 18:51:05.851 [info] E0701 18:51:05.851116  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:51:15.235 [info] E0701 18:51:15.235469  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:51:15.754 [info] E0701 18:51:15.753939  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:51:19.433 [info] E0701 18:51:19.433005  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): failed to mend json: invalid character 'U' in string escape code
+2025-07-01 18:55:25.606 [info] (Windsurf) 2025-07-01 18:55:25.606 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 18:55:29.453 [info] E0701 18:55:29.453271  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 19:09:26.360 [info] (Windsurf) 2025-07-01 19:09:26.360 [INFO]: [Cascade Manager] Opening diff zones for: windowrule.conf
+2025-07-01 19:09:38.840 [info] E0701 19:09:38.840590  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/hypr/conf/windowrule.conf
+2025-07-01 19:11:21.495 [info] (Windsurf) 2025-07-01 19:11:21.495 [INFO]: [Cascade Manager] Opening diff zones for: windowrule.conf
+2025-07-01 19:11:33.498 [info] E0701 19:11:33.498017  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/hypr/conf/windowrule.conf
+2025-07-01 19:22:44.338 [info] (Windsurf) 2025-07-01 19:22:44.337 [INFO]: [Cascade Manager] Opening diff zones for: keybinding.conf
+2025-07-01 19:25:19.559 [info] E0701 19:25:19.559231  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1459: invalid offset 1459
+2025-07-01 19:36:29.001 [info] (Windsurf) 2025-07-01 19:36:29.001 [INFO]: [Cascade Manager] Opening diff zones for: cascade.rasi
+2025-07-01 19:36:31.372 [info] E0701 19:36:31.372602  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/rofi/cascade.rasi
+2025-07-01 20:00:01.559 [info] (Windsurf) 2025-07-01 20:00:01.559 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-07-01 20:09:56.190 [info] (Windsurf) 2025-07-01 20:09:56.190 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-01 20:10:35.043 [info] (Windsurf) 2025-07-01 20:10:35.042 [INFO]: [Cascade Manager] Opening diff zones for: backup_to_github.sh
+2025-07-01 20:12:43.740 [info] (Windsurf) 2025-07-01 20:12:43.739 [INFO]: [Terminal] Command completed: undefined                                                                     pengu                                            ┌────────────────────── Info System ──────────────────────┐                     ./o.                   ./sssso-                       PC: MS-7C52 (2.0)                 `:osssssss+-                     Distro: EndeavourOS x86_64               `:+sssssssssso/.                   CPU: AMD Ryzen 5 5600G (12) @ 4.46 GHz             `-/ossssssssssssso/.                 GPU: AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]           `-/+sssssssssssssssso+:`               Ram: 2.16 GiB / 13.54 GiB (16%)         `-:/+sssssssssssssssssso+/.              Disco: 25.74 GiB / 899.19 GiB (3%) - ext4       `.://osssssssssssssssssssso++-             Terminal: electron      .://+ssssssssssssssssssssssso++:            Shell: zsh 5.9    .:///ossssssssssssssssssssssssso++:           Pacotes: 1115 (pacman)  `:////ssssssssssssssssssssssssssso+++.          Tempo de atividade: 10 mins`-////+ssssssssssssssssssssssssssso++++- `..-+oosssssssssssssssssssssssso+++++/`    └─────────────────────────────────────────────────────────┘   ./++++++++++++++++++++++++++++++/:.        ● ● ● ● ● ● ● ●  `:::::::::::::::::::::::::------``  cd /home/pengu/CascadeProjects/backup_script exit code 0
+2025-07-01 21:35:27.928 [info] (Windsurf) 2025-07-01 21:35:27.928 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-01 21:36:36.061 [info] (Windsurf) 2025-07-01 21:36:36.061 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 21:37:59.865 [info] E0701 21:37:59.865209  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/style.css
+2025-07-01 21:39:37.122 [info] (Windsurf) 2025-07-01 21:39:37.122 [INFO]: [Cascade Manager] Opening diff zones for: style.css
+2025-07-01 21:45:22.904 [info] (Windsurf) 2025-07-01 21:45:22.904 [INFO]: [Cascade Manager] Opening diff zones for: config
+2025-07-01 21:45:57.343 [info] E0701 21:45:57.343654  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/waybar/config
+2025-07-01 21:48:04.266 [info] (Windsurf) 2025-07-01 21:48:04.266 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-01 21:50:03.078 [info] (Windsurf) 2025-07-01 21:50:03.078 [INFO]: [Cascade Manager] Opening diff zones for: backup_to_github.sh
+2025-07-01 21:50:25.180 [info] E0701 21:50:25.180792  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/CascadeProjects/backup_script/backup_to_github.sh
+2025-07-01 22:36:37.048 [info] E0701 22:36:37.047915  4651 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 3616: offset 3616 out of range [0, 3615]
+2025-07-01 22:44:34.805 [info] (Windsurf) 2025-07-01 22:44:34.805 [INFO]: [Cascade Manager] Opening diff zones for: backup_to_github.sh
+2025-07-01 23:08:10.653 [info] (Windsurf) 2025-07-01 23:08:10.653 [INFO]: [Terminal] Command completed: undefined                                                                     pengu                                            ┌────────────────────── Info System ──────────────────────┐                     ./o.                   ./sssso-                       PC: MS-7C52 (2.0)                 `:osssssss+-                     Distro: EndeavourOS x86_64               `:+sssssssssso/.                   CPU: AMD Ryzen 5 5600G (12) @ 4.46 GHz             `-/ossssssssssssso/.                 GPU: AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]           `-/+sssssssssssssssso+:`               Ram: 2.16 GiB / 13.54 GiB (16%)         `-:/+sssssssssssssssssso+/.              Disco: 25.74 GiB / 899.19 GiB (3%) - ext4       `.://osssssssssssssssssssso++-             Terminal: electron      .://+ssssssssssssssssssssssso++:            Shell: zsh 5.9    .:///ossssssssssssssssssssssssso++:           Pacotes: 1115 (pacman)  `:////ssssssssssssssssssssssssssso+++.          Tempo de atividade: 10 mins`-////+ssssssssssssssssssssssssssso++++- `..-+oosssssssssssssssssssssssso+++++/`    └─────────────────────────────────────────────────────────┘   ./++++++++++++++++++++++++++++++/:.        ● ● ● ● ● ● ● ●  `:::::::::::::::::::::::::------``  cd /home/pengu/CascadeProjects/backup_script  cd /home/pengu exit code 0
+2025-07-01 23:12:46.082 [info] (Windsurf) 2025-07-01 23:12:46.082 [INFO]: [Terminal] Command completed: undefined                                                                     pengu                                            ┌────────────────────── Info System ──────────────────────┐                     ./o.                   ./sssso-                       PC: MS-7C52 (2.0)                 `:osssssss+-                     Distro: EndeavourOS x86_64               `:+sssssssssso/.                   CPU: AMD Ryzen 5 5600G (12) @ 4.46 GHz             `-/ossssssssssssso/.                 GPU: AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]           `-/+sssssssssssssssso+:`               Ram: 2.16 GiB / 13.54 GiB (16%)         `-:/+sssssssssssssssssso+/.              Disco: 25.74 GiB / 899.19 GiB (3%) - ext4       `.://osssssssssssssssssssso++-             Terminal: electron      .://+ssssssssssssssssssssssso++:            Shell: zsh 5.9    .:///ossssssssssssssssssssssssso++:           Pacotes: 1115 (pacman)  `:////ssssssssssssssssssssssssssso+++.          Tempo de atividade: 10 mins`-////+ssssssssssssssssssssssssssso++++- `..-+oosssssssssssssssssssssssso+++++/`    └─────────────────────────────────────────────────────────┘   ./++++++++++++++++++++++++++++++/:.        ● ● ● ● ● ● ● ●  `:::::::::::::::::::::::::------``  cd /home/pengu/CascadeProjects/backup_script  cd /home/pengu  cd /home/pengu/CascadeProjects/backup_script exit code 0

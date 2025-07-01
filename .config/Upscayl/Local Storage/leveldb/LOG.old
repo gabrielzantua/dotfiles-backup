@@ -1,0 +1,9 @@
+2025/07/01-15:01:27.275 4611 Reusing MANIFEST /home/pengu/.config/Upscayl/Local Storage/leveldb/MANIFEST-000001
+2025/07/01-15:01:27.298 4611 Recovering log #3
+2025/07/01-15:01:27.336 4611 Reusing old log /home/pengu/.config/Upscayl/Local Storage/leveldb/000003.log 
+2025/07/01-15:20:00.220 4612 Level-0 table #5: started
+2025/07/01-15:20:00.485 4612 Level-0 table #5: 15979 bytes OK
+2025/07/01-15:20:00.572 4612 Delete type=0 #3
+2025/07/01-15:55:15.219 4612 Level-0 table #7: started
+2025/07/01-15:55:15.272 4612 Level-0 table #7: 17979 bytes OK
+2025/07/01-15:55:15.358 4612 Delete type=0 #4

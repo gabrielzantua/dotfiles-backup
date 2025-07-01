@@ -1,0 +1,93 @@
+{
+  "config": {
+    "configuration": {
+      "net": {
+        "mode": "auto",
+        "proxy": {
+          "endpoint": "",
+          "cacert": "",
+          "skipCertValidation": false
+        },
+        "vscode": "{\"useLocalProxyConfiguration\":true,\"electronFetch\":false,\"proxy\":\"\",\"proxyStrictSSL\":true,\"proxyKerberosServicePrincipal\":\"\",\"noProxy\":[],\"proxyAuthorization\":null,\"proxySupport\":\"override\",\"systemCertificates\":true,\"experimental\":{\"systemCertificatesV2\":false},\"fetchAdditionalSupport\":true}"
+      },
+      "codebase": "",
+      "serverEndpoint": "",
+      "customHeaders": {},
+      "debugVerbose": false,
+      "debugFilter": null,
+      "telemetryLevel": "all",
+      "autocomplete": true,
+      "autocompleteLanguages": {
+        "*": true
+      },
+      "commandCodeLenses": false,
+      "autocompleteAdvancedProvider": "default",
+      "autocompleteCompleteSuggestWidgetSelection": true,
+      "autocompleteFormatOnAccept": false,
+      "autocompleteDisableInsideComments": false,
+      "codeActions": true,
+      "commandHints": true,
+      "agenticContextExperimentalOptions": {},
+      "chatAgenticContext": true,
+      "authExternalProviders": [],
+      "internalUnstable": false,
+      "internalDebugContext": false,
+      "internalDebugState": false,
+      "internalDebugTokenUsage": false,
+      "autocompleteAdvancedModel": null,
+      "autocompleteExperimentalGraphContext": null,
+      "experimentalNoodle": false,
+      "experimentalTracing": false,
+      "experimentalSupercompletions": false,
+      "experimentalAutoEditEnabled": false,
+      "experimentalAutoEditRendererTesting": false,
+      "experimentalNoxideEnabled": true,
+      "rulesEnabled": false,
+      "autocompleteExperimentalOllamaOptions": {
+        "url": "http://localhost:11434",
+        "model": "codellama:7b-code"
+      },
+      "isRunningInsideAgent": false,
+      "hasNativeWebview": true,
+      "agentHasPersistentStorage": false,
+      "autocompleteFirstCompletionTimeout": 3500
+    },
+    "clientState": {
+      "lastUsedEndpoint": null,
+      "anonymousUserID": "60e92bb5-126c-459e-9d68-5989629daaaf",
+      "lastUsedChatModality": "sidebar",
+      "modelPreferences": {
+        "https://sourcegraph.com/": {
+          "defaults": {},
+          "selected": {}
+        }
+      }
+    },
+    "auth": {
+      "serverEndpoint": "https://sourcegraph.com/"
+    },
+    "isReinstall": false
+  },
+  "authStatus": {
+    "id": "VXNlcjo4ODM3OTg=",
+    "hasVerifiedEmail": false,
+    "displayName": "Gazffx",
+    "username": "gazprogaming30-zgklm",
+    "avatarURL": "https://lh3.googleusercontent.com/a/ACg8ocK6S8uk77_1o__uPJyYiW0JjWNltHY_Y50lggCPpRxNDezXqbAk=s96-c",
+    "primaryEmail": "gazprogaming30@gmail.com",
+    "organizations": [],
+    "endpoint": "https://sourcegraph.com/",
+    "authenticated": true,
+    "requiresVerifiedEmail": true,
+    "pendingValidation": false,
+    "isFireworksTracingEnabled": false
+  },
+  "clientCapabilities": {
+    "edit": "enabled",
+    "agentIDE": "VSCode",
+    "isVSCode": true,
+    "isCodyWeb": false,
+    "agentExtensionVersion": "1.106.2"
+  },
+  "version": "1.106.2"
+}

@@ -1,0 +1,21 @@
+2025/07/01-16:11:46.846 e0b Reusing MANIFEST /home/pengu/.config/Windsurf/Local Storage/leveldb/MANIFEST-000001
+2025/07/01-16:11:47.442 e0b Recovering log #446
+2025/07/01-16:11:47.493 e0b Reusing old log /home/pengu/.config/Windsurf/Local Storage/leveldb/000446.log 
+2025/07/01-16:13:20.939 e0b Level-0 table #450: started
+2025/07/01-16:13:21.128 e0b Level-0 table #450: 26789 bytes OK
+2025/07/01-16:13:21.211 e0b Delete type=0 #446
+2025/07/01-16:15:21.830 e0b Level-0 table #452: started
+2025/07/01-16:15:22.023 e0b Level-0 table #452: 26792 bytes OK
+2025/07/01-16:15:22.107 e0b Delete type=0 #449
+2025/07/01-16:15:22.107 e0b Compacting 4@0 + 1@1 files
+2025/07/01-16:15:22.166 e0b Generated table #453@0: 3 keys, 13517 bytes
+2025/07/01-16:15:22.166 e0b Compacted 4@0 + 1@1 files => 13517 bytes
+2025/07/01-16:15:22.254 e0b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/01-16:15:22.254 e0b Delete type=2 #447
+2025/07/01-16:15:22.254 e0b Delete type=2 #445
+2025/07/01-16:15:22.254 e0b Delete type=2 #452
+2025/07/01-16:15:22.254 e0b Delete type=2 #442
+2025/07/01-16:15:22.254 e0b Delete type=2 #450
+2025/07/01-16:17:21.716 e0b Level-0 table #455: started
+2025/07/01-16:17:21.768 e0b Level-0 table #455: 26733 bytes OK
+2025/07/01-16:17:21.846 e0b Delete type=0 #451

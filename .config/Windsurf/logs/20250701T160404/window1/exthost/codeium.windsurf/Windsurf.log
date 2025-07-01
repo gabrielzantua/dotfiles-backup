@@ -1,0 +1,16 @@
+2025-07-01 16:04:07.892 [info] 2025/07/01 16:04:07 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2025-07-01 16:04:08.025 [info] I0701 16:04:08.025316 40258 main.go:602] Setting GOMAXPROCS to 4
+2025-07-01 16:04:08.025 [info] I0701 16:04:08.025434 40258 main.go:817] Starting language server process with pid 40258
+2025-07-01 16:04:08.025 [info] I0701 16:04:08.025541 40258 server.go:292] Language server will attempt to listen on host 127.0.0.1
+2025-07-01 16:04:08.025 [info] I0701 16:04:08.025725 40258 server.go:299] Language server listening on random port at 41483
+2025-07-01 16:04:08.657 [info] I0701 16:04:08.657640 40258 server.go:420] Created extension server client at port 43873
+2025-07-01 16:04:08.803 [info] I0701 16:04:08.803591 40258 server.go:948] Local search is enabled, will index local files.
+2025-07-01 16:04:08.803 [info] I0701 16:04:08.803611 40258 server.go:952] Using 3 indexer workers
+2025-07-01 16:04:09.401 [info] (Windsurf) 2025-07-01 16:04:09.398 [INFO]: Language server started
+2025-07-01 16:04:09.482 [info] (Windsurf) 2025-07-01 16:04:09.482 [INFO]: LS lspClient started successfully
+2025-07-01 16:04:09.753 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-01 16:04:09.754 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-01 16:04:09.754 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+

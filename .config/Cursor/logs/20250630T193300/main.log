@@ -1,0 +1,48 @@
+2025-06-30 19:33:00.579 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.1.6/aa8f15731b86b6feb3dbf9fb67187e2c7f1c4b3f21db6c456c0f2cf771cb0a46/stable
+2025-06-30 19:33:00.579 [info] update#setState idle
+2025-06-30 19:33:30.578 [info] update#setState checking for updates
+2025-06-30 19:33:30.797 [info] update#setState idle
+2025-06-30 19:34:05.158 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:42:07.645 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:43:08.025 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:44:09.476 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:45:10.377 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:45:17.136 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:45:31.461 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:46:09.999 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:46:50.267 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:47:09.214 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:48:11.055 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:48:21.169 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:48:41.159 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:49:10.149 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:49:25.066 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:49:39.531 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:49:46.294 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:50:05.905 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:50:15.591 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:51:11.361 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:51:47.941 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:52:11.690 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:53:12.873 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:54:04.372 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:54:16.071 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:54:26.478 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:55:09.745 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:56:10.564 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:56:25.045 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:56:54.895 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:57:01.986 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:57:12.143 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:57:47.185 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:58:11.565 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:59:00.537 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 19:59:12.198 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:00:14.156 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:00:49.271 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:01:13.207 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:02:12.416 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:02:17.045 [info] Extension host with pid 33609 exited with code: 0, signal: unknown.
+2025-06-30 20:02:28.801 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:02:40.148 [warning] No ptyHost heartbeat after 6 seconds
+2025-06-30 20:02:40.861 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 33589]: crashed with code 15 and reason 'killed'

@@ -1,0 +1,13 @@
+[Info  - 5:08:18 PM] windsurfPyright language server 1.28.0 starting
+[Info  - 5:08:18 PM] Server root directory: file:///home/pengu/.windsurf/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 5:08:18 PM] Starting service instance ".config"
+Received pythonPath from Python extension: /bin/python
+[Info  - 5:08:18 PM] Setting pythonPath for service ".config": "/bin/python"
+[Info  - 5:08:18 PM] No include entries specified; assuming /home/pengu/.config
+[Info  - 5:08:18 PM] Auto-excluding **/node_modules
+[Info  - 5:08:18 PM] Auto-excluding **/__pycache__
+[Info  - 5:08:18 PM] Auto-excluding **/.*
+[Info  - 5:08:18 PM] Assuming Python version 3.13.5.final.0
+[Info  - 5:08:18 PM] Found 9 source files
+[Info  - 5:08:19 PM] Background analysis(1) root directory: file:///home/pengu/.windsurf/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 5:08:19 PM] Background analysis(1) started

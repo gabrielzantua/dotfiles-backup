@@ -1,0 +1,31 @@
+2025-06-30 19:15:55.969 [info] Extension host with pid 29647 started
+2025-06-30 19:15:55.969 [info] Skipping acquiring lock for /home/pengu/.config/Cursor/User/workspaceStorage/d379ebb9138b3d8303a66581e3c1f1ba.
+2025-06-30 19:15:56.176 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-30 19:15:56.192 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-06-30 19:15:56.442 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-30 19:15:56.445 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-30 19:15:56.495 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-30 19:15:56.567 [info] Eager extensions activated
+2025-06-30 19:15:56.586 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:56.752 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:56.791 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:57.010 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:57.388 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:57.530 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:15:57.533 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-30 19:16:03.089 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 19:16:03.098 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 19:16:03.108 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 19:16:03.156 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-06-30 19:23:07.670 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-30 19:23:07.689 [error] Error: Channel has been closed
+	at n (file:///home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:2439)
+	at Object.appendLine (file:///home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:2578)
+	at c (/home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1735951)
+	at t.deactivate (/home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1737607)
+	at /home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:311004
+	at t.deactivate (/home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:311063)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 2)
+	at async ege.$ (file:///home/pengu/Applications/squashfs-root/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10212)
+2025-06-30 19:23:07.690 [info] Extension host with pid 29647 exiting with code 0
