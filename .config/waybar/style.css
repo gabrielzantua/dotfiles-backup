@@ -53,10 +53,9 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  background: #45403d;
-  border: none;
-  box-shadow: inherit;
-  text-shadow: inherit;
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
 #workspaces button.active{
@@ -95,6 +94,12 @@ window#waybar {
   font-style: italic;
 }
 
+#custom-media:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
 /* Cava Styles */
 #cava {
   color: #d3869b;
@@ -112,6 +117,12 @@ window#waybar {
   from { box-shadow: 0 0 4px 1px #d4be98aa; }
   to   { box-shadow: 0 0 8px 2px #d3869b88; }
 } */
+
+#cava:hover {
+  background: rgba(137, 180, 130, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
 
 #clock,
 #battery,

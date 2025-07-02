@@ -91,7 +91,8 @@ alias clock='tty-clock -s -c -t -r -n -C 7'
 alias clear="cd && clear && fastfetch"
 alias update="sudo pacman -Syyu"
 alias udpate="sudo pacman -Syuu"
-
+alias zedit="nano ~/.zshrc"
+alias syncdots="sh ~/CascadeProjects/backup_script/backup_to_github.sh"
 
 # Setup bat (better than cat)
 export BAT_THEME="base16"
