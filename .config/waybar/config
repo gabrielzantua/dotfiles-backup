@@ -25,8 +25,8 @@
     },
 
     "network": {
-        "format-wifi": "<span font='18' rise='-3000'></span> {essid}",
-        "format-ethernet": "<span font='18' rise='-3000'>󰈀</span> {ifname}",
+        "format-wifi": "<span font='18' rise='-3000'></span> {bandwidthDownBits} ↓ {bandwidthUpBits} ↑",
+        "format-ethernet": "<span font='18' rise='-3000'>󰈀</span> {bandwidthDownBits} ↓ {bandwidthUpBits} ↑",
         "format-disconnected": "<span font='18' rise='-3000'>󰖪</span> Disconnected",
         "tooltip-format": "{ifname} via {gwaddr} ",
         "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
@@ -109,7 +109,7 @@
     },
 "pulseaudio": {
 	"format": "<span font='20' rise='-4000'>{icon}</span> {volume}%",
-	"format-bluetooth": "{icon} 󰂰 {volume}%",
+	"format-bluetooth": "{icon} {volume}%",
 	"format-icons": {
 		"headphone": "",
 		"hands-free": "",

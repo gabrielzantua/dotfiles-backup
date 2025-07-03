@@ -75,7 +75,6 @@ fi
 '
 
 # Setup alias
-# Setup icons for files/folders in terminal
 alias ls='eza --icons --color=always'
 alias ll='eza --icons --color=always -l'
 alias la='eza --icons --color=always -a'
@@ -93,6 +92,8 @@ alias update="sudo pacman -Syyu"
 alias udpate="sudo pacman -Syuu"
 alias zedit="nano ~/.zshrc"
 alias syncdots="sh ~/CascadeProjects/backup_script/backup_to_github.sh"
+alias grub-update="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+alias editgrub="sudo nano /etc/default/grub"
 
 # Setup bat (better than cat)
 export BAT_THEME="base16"

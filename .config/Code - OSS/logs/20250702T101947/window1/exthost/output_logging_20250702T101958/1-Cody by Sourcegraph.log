@@ -1,0 +1,16 @@
+█ telemetry-v2 recordEvent: cody.extension/savedLogin:
+█ auth Authenticating to https://sourcegraph.com/...
+█ ModelsService User model preferences changed: {"defaults":{"chat":"anthropic::2023-06-01::claude-3.5-sonnet","edit":"anthropic::2023-06-01::claude-3.5-sonnet","autocomplete":"fireworks::v1::deepseek-coder-v2-lite-base"},"selected":{}}
+█ ChatsController:constructor init
+█ auth Authentication succeed to endpoint https://sourcegraph.com/
+█ telemetry-v2 recordEvent: cody.auth/connected:
+█ SymfRunner unsafeEnsureIndex: file:///home/pengu/.config/waybar
+█ ClientConfigSingleton refreshing configuration
+█ ClientConfigSingleton refreshed: {"codyEnabled":false,"chatEnabled":true,"autoCompleteEnabled":true,"customCommandsEnabled":true,"attributionEnabled":false,"attribution":"none","smartContextWindowEnabled":true,"modelsAPIEnabled":false,"latestSupportedCompletionsStreamAPIVersion":9}
+█ Autocomplete:initialized using "dotcom-feature-flags": "fireworks::deepseek-coder-v2-lite-base"
+█ ModelsService new models API enabled
+█ auth Authenticating to https://sourcegraph.com/...
+█ auth Authentication succeed to endpoint https://sourcegraph.com/
+█ ModelsService ModelsData changed: 29 primary models
+█ telemetry-v2 recordEvent: cody.characters/flush:
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: accessing Sourcegraph HTTP API:  Error: Network call was dispatched before DelegatingAgent was initialized (https://sourcegraph.com/.api/graphql?RecordTelemetryEvents)

@@ -1,12 +1,3 @@
-2025/07/01-19:54:51.422 1b477 Reusing MANIFEST /home/pengu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/01-19:54:51.422 1b477 Recovering log #4
-2025/07/01-19:54:51.425 1b477 Reusing old log /home/pengu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000004.log 
-2025/07/01-19:55:06.574 1b4d5 Level-0 table #8: started
-2025/07/01-19:55:06.678 1b4d5 Level-0 table #8: 1394681 bytes OK
-2025/07/01-19:55:06.753 1b4d5 Delete type=0 #4
-2025/07/01-19:57:06.802 1b478 Compacting 1@1 + 1@2 files
-2025/07/01-19:57:07.082 1b478 Generated table #9@1: 4174 keys, 1583158 bytes
-2025/07/01-19:57:07.082 1b478 Compacted 1@1 + 1@2 files => 1583158 bytes
-2025/07/01-19:57:07.356 1b478 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/01-19:57:07.356 1b478 Delete type=2 #5
-2025/07/01-19:57:07.356 1b478 Delete type=2 #8
+2025/07/01-22:34:52.907 21f1f Reusing MANIFEST /home/pengu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/01-22:34:52.907 21f1f Recovering log #7
+2025/07/01-22:34:52.984 21f1f Reusing old log /home/pengu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000007.log 

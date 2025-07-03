@@ -6,17 +6,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/pengu/.config/waybar/scripts"
-            },
-            {
                 "folderUri": "file:///home/pengu/.config/waybar"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1751287611995"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -65,9 +58,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 17,
-                "y": 64,
-                "width": 1886,
-                "height": 999
+                "y": 69,
+                "width": 935,
+                "height": 994
             }
         },
         "openedWindows": []
@@ -82,6 +75,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "6f0df84ac40b22d0bccd684ca880025d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b3f7f9e361d8a8ae8b8ba98bc06f9acb": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

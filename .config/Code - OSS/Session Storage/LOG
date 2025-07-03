@@ -1,2 +1,3 @@
-2025/06/30-21:08:41.903 e45c Creating DB /home/pengu/.config/Code - OSS/Session Storage since it was missing.
-2025/06/30-21:08:42.877 e45c Reusing MANIFEST /home/pengu/.config/Code - OSS/Session Storage/MANIFEST-000001
+2025/07/02-10:20:13.203 171a Reusing MANIFEST /home/pengu/.config/Code - OSS/Session Storage/MANIFEST-000001
+2025/07/02-10:20:13.203 171a Recovering log #3
+2025/07/02-10:20:13.242 171a Reusing old log /home/pengu/.config/Code - OSS/Session Storage/000003.log 
