@@ -17,7 +17,7 @@ window#waybar {
 
 /*  Launcher  */
 #custom-launcher {
-  color: #a9b665;
+  color: #FB4934;
   background: #1d2021;
   font-size: 32px;
   padding: 0px 14px 0px 16px;
@@ -53,20 +53,31 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  background: rgba(137, 180, 130, 0.12);
-  color: #a9b665;
+  background: #ff8827;
+  color: #32302f;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
 #workspaces button.active{
   color: #32302f;
-  background-color: #a9b665;
-  
+  background-color: #ff8827;
 }
 
-#workspaces button.empty{
+#workspaces button.occupied{
+  color: #32302f;
+  background-color: #ff8827;
+}
+
+#workspaces button.visible {
+  background: #ff8827;
   color: #32302f;
 }
+
+#workspaces button.empty:hover{
+  background: #32302f;
+  color: #ff0000;
+}
+
 
 /* Media Player Styles */
 #custom-media {
