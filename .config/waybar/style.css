@@ -10,7 +10,7 @@
 }
 
 window#waybar {
-  background: #2D2D2D;
+  background: #222421;
   color: #d4be98;
   transition: background 0.4s cubic-bezier(.4,2,.6,1);
 }

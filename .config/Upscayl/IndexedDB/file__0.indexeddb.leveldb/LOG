@@ -1,13 +1,14 @@
-2025/07/01-16:38:09.636 57e1 Reusing MANIFEST /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2025/07/01-16:38:09.636 57e1 Recovering log #7
-2025/07/01-16:38:09.648 57e1 Reusing old log /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000007.log 
-2025/07/01-16:38:11.571 57f2 Level-0 table #11: started
-2025/07/01-16:38:11.731 57f2 Level-0 table #11: 1134 bytes OK
-2025/07/01-16:38:11.902 57f2 Delete type=0 #7
-2025/07/01-16:38:11.930 57e0 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 109 : 1
-2025/07/01-16:38:11.930 57e0 Compacting 1@0 + 1@1 files
-2025/07/01-16:38:12.129 57e0 Generated table #12@0: 42 keys, 1191 bytes
-2025/07/01-16:38:12.129 57e0 Compacted 1@0 + 1@1 files => 1191 bytes
-2025/07/01-16:38:12.229 57e0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/01-16:38:12.229 57e0 Delete type=2 #11
-2025/07/01-16:38:12.229 57e0 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 109 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/03-23:15:35.634 173f0 Reusing MANIFEST /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/07/03-23:15:35.635 173f0 Recovering log #10
+2025/07/03-23:15:35.651 173f0 Reusing old log /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000010.log 
+2025/07/03-23:15:35.652 173f0 Delete type=2 #8
+2025/07/03-23:15:36.970 17403 Level-0 table #15: started
+2025/07/03-23:15:37.209 17403 Level-0 table #15: 622 bytes OK
+2025/07/03-23:15:37.335 17403 Delete type=0 #10
+2025/07/03-23:15:37.335 173ef Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 128 : 1
+2025/07/03-23:15:37.335 173ef Compacting 1@0 + 1@1 files
+2025/07/03-23:15:37.412 173ef Generated table #16@0: 42 keys, 1192 bytes
+2025/07/03-23:15:37.412 173ef Compacted 1@0 + 1@1 files => 1192 bytes
+2025/07/03-23:15:37.493 173ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/03-23:15:37.493 173ef Delete type=2 #15
+2025/07/03-23:15:37.493 173ef Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 128 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
