@@ -94,6 +94,7 @@ alias zedit="nano ~/.zshrc"
 alias syncdots="sh ~/CascadeProjects/backup_script/backup_to_github.sh"
 alias grub-update="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias editgrub="sudo nano /etc/default/grub"
+alias logout="hyprctl dispatch exit"
 
 # Setup bat (better than cat)
 export BAT_THEME="base16"

@@ -63,21 +63,10 @@ window#waybar {
   background-color: #ff8827;
 }
 
-#workspaces button.occupied{
-  color: #32302f;
-  background-color: #ff8827;
-}
-
-#workspaces button.visible {
-  background: #ff8827;
-  color: #32302f;
-}
-
 #workspaces button.empty:hover{
   background: #32302f;
   color: #ff0000;
 }
-
 
 /* Media Player Styles */
 #custom-media {
