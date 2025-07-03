@@ -20,7 +20,7 @@ ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_textur
 _attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_d
 xt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_
 control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 790896928
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 554974800
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -29,17 +29,17 @@ OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; 
 [Physics::Module] Threading Mode: Multi-Threaded
 ERROR: Shader Hidden/Universal Render Pipeline/DBufferClear shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
 Default vsync count 1
-requesting resize 1886 x 983
-requesting fullscreen 1886 x 983 at 0/1 Hz
-Setting up downscaled viewport at 1886 x 983
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0/1 Hz
 Desktop is 1920 x 1080 @ 120 Hz
 Disable old input system
 The referenced script (PlayFab.PlayFabMultiplayerAgentView) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'GameServer') is missing!
-UnloadTime: 0.148079 ms
+UnloadTime: 0.424254 ms
 [GameLoader] - Start: boot client
-[GameLoader] - BootClient: Started, spent time: 1.437
-[GameLoader] - BootClient: Load app loader screen, spent time: 0.623
+[GameLoader] - BootClient: Started, spent time: 0.907
+[GameLoader] - BootClient: Load app loader screen, spent time: 0.552
 [BundleManager] - Init start
 [BundleManager] - Init: create provider, spent time: 0
 [BundleManager] - Init: Mount StandaloneLinux64 and catalog
@@ -48,12 +48,12 @@ RenderGraph is now enabled.
 Decal DBuffer technique is not supported with OpenGL.
 Decal DBuffer technique is not supported with OpenGL.
 Decal DBuffer technique is not supported with OpenGL.
-[BundleManager] - Init: MountBundles catalog, spent time: 0.16
+[BundleManager] - Init: MountBundles catalog, spent time: 0.964
 [BundleManager] - Init: get AssetBundleManifest StandaloneLinux64
-[BundleManager] - Init: load manifest, spent time: 0
-[BundleManager] - Init: grab bundles data, spent time: 0.001
+[BundleManager] - Init: load manifest, spent time: 0.001
+[BundleManager] - Init: grab bundles data, spent time: 0.02
 [BundleManager] - Init: get catalog
-[BundleManager] - Init: load catalog, spent time: 0.012
+[BundleManager] - Init: load catalog, spent time: 0.011
 [BundleManager] - Mount All Downloaded Bundles
 [BundleManager] - MountBundles: catalog, root/audio, root/game_prefabs, root/lobby_scene, root/lobby_scene_assets, root/root, src/blueprints/all_low_24x24, src/blueprints/blueprints, src/blueprints/n0_no_collection, src/blueprints/n1_laserstrike_collection, src/blueprints/n10_polarstar_collection, src/blueprints/n11_redstorm_collection, src/blueprints/n12_racer_collection, src/blueprints/n13_desertcobra_collection, src/blueprints/n14_phoenix_collection, src/blueprints/n15_katana_collection, src/blueprints/n16_animepaws_collection, src/blueprints/n17_gulag_collection, src/blueprints/n18_lightning_collection, src/blueprints/n19_amethyst_collection, src/blueprints/n2_dino_collection, src/blueprints/n20_zombie_collection, src/blueprints/n21_redline_collection, src/blueprints/n22_graffiti_collection, src/blueprints/n23_racerred_collection, src/blueprints/n24_comixgold_collection, src/blueprints/n25_aurora_collection, src/blueprints/n26_candy_collection, src/blueprints/n27_firefighter_collection, src/blueprints/n28_tacvintage_collection, src/blueprints/n29_kkoshi_collection, src/blueprints/n3_rider_collection, src/blueprints/n30_aviator_collection, src/blueprints/n31_toxicblue_collection, src/blueprints/n32_hifashion_collection, src/blueprints/n33_crusader_collection, src/blueprints/n34_ukraine_collection, src/blueprints/n35_jaggermeister_collection, src/blueprints/n36_halloween_collection, src/blueprints/n37_dronemaster_collection, src/blueprints/n38_demon_collection, src/blueprints/n39_pilot_collection, src/blueprints/n4_lonewolf_collection, src/blueprints/n40_blackline_collection, src/blueprints/n5_cobraqueen_collection, src/blueprints/n6_starterpack_collection, src/blueprints/n7_streetfighter_collection, src/blueprints/n8_wolverine_collection, src/blueprints/n9_skullface_collection, src/first_person, src/maps/brmap_oilplatforms_s, src/maps/map_artgalery_s, src/maps/map_cargo_s, src/maps/map_cargoremaster_s, src/maps/map_caribbean_s, src/maps/map_egypt_s, src/maps/map_electro_s, src/maps/map_hangar_remaster_s, src/maps/map_hangar_s, src/maps/map_highrise_s, src/maps/map_museum_s, src/maps/map_pool_remaster_s, src/maps/map_pool_s, src/maps/map_subwaystation_s, src/maps/map_tank_cleaning_s, src/maps/map_trainyard_s, src/maps/map_warehouse_s, src/maps/maps, src/src, src/thrid_person, src/weapons/attachments, src/weapons/weapons, ui/sprites, ui/ui, ui/windows
 Decal DBuffer technique is not supported with OpenGL.
@@ -977,43 +977,294 @@ Decal DBuffer technique is not supported with OpenGL.
 Decal DBuffer technique is not supported with OpenGL.
 Decal DBuffer technique is not supported with OpenGL.
 Decal DBuffer technique is not supported with OpenGL.
-[BundleManager] - MountAllDownloadedBundles: MountBundles, spent time: 5.521
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+Decal DBuffer technique is not supported with OpenGL.
+[BundleManager] - MountAllDownloadedBundles: MountBundles, spent time: 3.186
 [BundleManager] - Init: MountAllDownloadedBundles, spent time: 0
 [BundleManager] - Init: start unused assets task
-[BundleManager] - Init: UpdateUnusedAssets, spent time: 0
+[BundleManager] - Init: UpdateUnusedAssets, spent time: 0.026
 [BundleManager] - Init: subscribe atlasRequested
 [BundleManager] - Load All Atlasses: start: _BundlePopups, _CallingCardsAtlas, _EmblemsAtlas, _LootCards, _LuckyDrawCases, !WeaponGunsmithIcons, !WeaponIcons, _WhatsNewAtlas, !CamoIcons, _ElementsAtlas, _Levels&RarityAtlas, _MatchAtlas, _TabIconsAtlas 
-[GameLoader] - BootClient: init BundleManager, spent time: 5.701
+[GameLoader] - BootClient: init BundleManager, spent time: 4.263
 [GameLoader] - BootClient: instantiateGame
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 [S_API] SteamAPI_Init(): Loaded '/home/pengu/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 2281730
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199529350377 [API loaded no]
 Unloading 5 Unused Serialized files (Serialized files now loaded: 96)
-UnloadTime: 0.540035 ms
-Unloading 1311 unused Assets to reduce memory usage. Loaded Objects now: 57231.
-Total: 19.731932 ms (FindLiveObjects: 3.534693 ms CreateObjectMapping: 1.723028 ms MarkObjects: 13.535367 ms  DeleteObjects: 0.938453 ms)
+UnloadTime: 27.168349 ms
+Unloading 1317 unused Assets to reduce memory usage. Loaded Objects now: 57231.
+Total: 19.163451 ms (FindLiveObjects: 2.404452 ms CreateObjectMapping: 1.758382 ms MarkObjects: 14.055127 ms  DeleteObjects: 0.945080 ms)
 
-requesting resize 1920 x 1080
-Using native desktop resolution 1920 x 1080
-requesting fullscreen 1920 x 1080 at 0/1 Hz
-Desktop is 1920 x 1080 @ 120 Hz
 Unloading 3 Unused Serialized files (Serialized files now loaded: 96)
-UnloadTime: 132.162355 ms
-Unloading 12782 unused Assets to reduce memory usage. Loaded Objects now: 113171.
-Total: 75.669567 ms (FindLiveObjects: 5.910648 ms CreateObjectMapping: 4.935055 ms MarkObjects: 55.330954 ms  DeleteObjects: 9.492299 ms)
+UnloadTime: 93.031048 ms
+Unloading 11268 unused Assets to reduce memory usage. Loaded Objects now: 74346.
+Total: 39.747322 ms (FindLiveObjects: 3.536432 ms CreateObjectMapping: 2.959721 ms MarkObjects: 26.968886 ms  DeleteObjects: 6.281862 ms)
 
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 The referenced script on this Behaviour (Game Object '<null>') is missing!
-Unloading 2 Unused Serialized files (Serialized files now loaded: 96)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 96)
 Can not play a disabled audio source
 Can not play a disabled audio source
-UnloadTime: 79.669794 ms
-Unloading 98150 unused Assets to reduce memory usage. Loaded Objects now: 164264.
-Total: 144.142619 ms (FindLiveObjects: 12.183717 ms CreateObjectMapping: 11.934439 ms MarkObjects: 82.875749 ms  DeleteObjects: 37.148243 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+UnloadTime: 75.607465 ms
+Unloading 81471 unused Assets to reduce memory usage. Loaded Objects now: 208014.
+Total: 160.902668 ms (FindLiveObjects: 13.672991 ms CreateObjectMapping: 12.466061 ms MarkObjects: 111.041119 ms  DeleteObjects: 23.722016 ms)
 
-Can't add 'RectMask2D' to Title because a 'RectMask2D' is already added to the game object!
-Can't add 'RectMask2D' to Title because a 'RectMask2D' is already added to the game object!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 96)
+UnloadTime: 141.339369 ms
+Unloading 10372 unused Assets to reduce memory usage. Loaded Objects now: 160089.
+Total: 134.769388 ms (FindLiveObjects: 6.830059 ms CreateObjectMapping: 7.561217 ms MarkObjects: 111.374744 ms  DeleteObjects: 9.002906 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 96)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+UnloadTime: 41.524479 ms
+Unloading 61105 unused Assets to reduce memory usage. Loaded Objects now: 208360.
+Total: 171.592214 ms (FindLiveObjects: 14.519286 ms CreateObjectMapping: 12.455181 ms MarkObjects: 120.898045 ms  DeleteObjects: 23.719201 ms)
+
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.

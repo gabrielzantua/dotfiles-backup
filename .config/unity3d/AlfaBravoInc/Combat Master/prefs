@@ -1,7 +1,7 @@
 <unity_prefs version_major="1" version_minor="1">
 	<pref name="BRZoneInfoBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="COMBAT MASTER_DISABLE_GLOBAL_CHAT" type="int">0</pref>
-	<pref name="AS0LLlvDsTQ6JxYDVsOwND8t" type="string">TlM0ZWZoUUVBUHhZbHY0PQ==</pref>
+	<pref name="AS0LLlvDsTQ6JxYDVsOwND8t" type="string">eWRGaGZoUUVBSVVqVTlNPQ==</pref>
 	<pref name="RightJoystickMultiplayer_Alpha_V1" type="float">0</pref>
 	<pref name="ButtonWeaponBashMultiplayer_Alpha_V1" type="float">0</pref>
 	<pref name="ButtonWeaponBashMultiplayer_Position_Y_V1" type="float">949</pref>
@@ -9,13 +9,14 @@
 	<pref name="ButtonParachuteBattleRoyale_Alpha_V1" type="float">0</pref>
 	<pref name="BRMiniMapBattleRoyale_Position_Y_V1" type="float">-180</pref>
 	<pref name="CheckWatchMultiplayer_Alpha_V1" type="float">0</pref>
-	<pref name="AykKNV7Dpyw2Oyk0VsOoKScx" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="AykKNV7Dpyw2Oyk0VsOoKScx" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
 	<pref name="ESkMNVvDoQ0mOxEiYcOrLCYlHQ==" type="string">VTBoNFFSUUVBR25aMWdnPQ==</pref>
 	<pref name="BRArmorMultiplayer_Position_Y_V1" type="float">-750.002686</pref>
 	<pref name="CancelMultiplayer_Position_X_V1" type="float">502.999878</pref>
 	<pref name="VehicleExitBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="RightJoystickMultiplayer_Position_X_V1" type="float">2090</pref>
 	<pref name="ButtonParachuteBattleRoyale_Position_X_V1" type="float">-154.000244</pref>
+	<pref name="HD0MLV7DqiUDJws1Z8O2LzAtCzI=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CrosshairBattleRoyale_Scale_V1" type="float">0.5</pref>
 	<pref name="VehicleExitBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="ReloadMultiplayer_Scale_V1" type="float">0</pref>
@@ -27,13 +28,14 @@
 	<pref name="LoadoutMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="ScoreInfoMultiplayer_Color_V1" type="string">RkZENTAw</pref>
 	<pref name="BRPeopleStatsBattleRoyale_Position_X_V1" type="float">540</pref>
-	<pref name="HiEIDFbDtBEmKRQoQ8O9" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="HiEIDFbDtBEmKRQoQ8O9" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="KillStreakBadgeMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="HighlightIconBattleRoyale_Position_X_V1" type="float">104</pref>
 	<pref name="BRPlayerStatsBattleRoyale_Position_Y_V1" type="float">-120</pref>
 	<pref name="BRGulagInfoBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="ESkMNVvDoQE9PBEAW8OtISAhFiZow7Jy" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="BRGasMasksBattleRoyale_Scale_V1" type="float">1</pref>
+	<pref name="ESkMNVvDoRQ2MAw0RcOhESYpFChDw70=" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
 	<pref name="ScoreInfoBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="Screenmanager Window Position X" type="int">0</pref>
 	<pref name="WHATS_NEW_VERSION_0.25_WAS_SHOWN" type="int">1</pref>
@@ -42,12 +44,14 @@
 	<pref name="BRMenuBattleRoyale_Scale_V1" type="float">1</pref>
 	<pref name="LeftTriggerMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="RightTrigger_V1Multiplayer_Scale_V1" type="float">0</pref>
+	<pref name="ESccOHTDpS0DJws1Z8O2LzAtCzI=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CrouchMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="FSEdLVPDiyYFIR02f8OlLjc7" type="string">VTBqWUF4UUVBRnhWTm5FPQ==</pref>
 	<pref name="BattlePerksVMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="RightTrigger_V1Multiplayer_Position_X_V1" type="float">-397.759949</pref>
 	<pref name="BRArmorMultiplayer_Position_X_V1" type="float">589.245728</pref>
 	<pref name="ScoreInfoMultiplayer_Alpha_V1" type="float">1</pref>
+	<pref name="ESQXLlPDgS4yKhQkUw==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CrouchMultiplayer_Position_Y_V1" type="float">133</pref>
 	<pref name="COMBAT MASTER_ENABLE_ADS_AFTER_MATCH" type="int">0</pref>
 	<pref name="RightTrigger_V1Multiplayer_Position_Y_V1" type="float">714</pref>
@@ -56,16 +60,16 @@
 	<pref name="COMBAT MASTER_PLAYFAB_ID" type="string">RjJGQ0Q3MjcwODJGNTQ3OQ==</pref>
 	<pref name="BattlePerksVMultiplayer_Position_X_V1" type="float">-12.000488</pref>
 	<pref name="BRZoneInfoBattleRoyale_Scale_V1" type="float">1</pref>
-	<pref name="HycaI07DhS4nITktXsOlMzomHx5BwrY=" type="string">VVVoNFFRVUVBSmFCZEI4PQ==</pref>
-	<pref name="AS0LLlvDsTQ6JxYSVMOlLDY=" type="string">VTBqNGZoUUVBTHB6YlhZPQ==</pref>
-	<pref name="GiUILkTDsC8hOzUgT8OAKSA8GS9Uw6E=" type="string">QzBwNFFRVUVBT0R2UENzPQ==</pref>
+	<pref name="HycaI07DhS4nITktXsOlMzomHx5BwrY=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
+	<pref name="AS0LLlvDsTQ6JxYSVMOlLDY=" type="string">bm9RMGZoUUVBRFNCUDFBPQ==</pref>
+	<pref name="GiUILkTDsC8hOzUgT8OAKSA8GS9Uw6E=" type="string">bTBoNFFRVUVBS09qd25jPQ==</pref>
 	<pref name="BRMenuBattleRoyale_Position_Y_V1" type="float">82</pref>
 	<pref name="BRMiniMapBattleRoyale_Alpha_V1" type="float">0.7</pref>
 	<pref name="BRArmorBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRGulagInfoBattleRoyale_Position_Y_V1" type="float">-332</pref>
 	<pref name="HighlightIconMultiplayer_Scale_V1" type="float">1</pref>
-	<pref name="HycaI07DlygyLBc2RA==" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
-	<pref name="unity.player_session_count" type="string">Mg==</pref>
+	<pref name="HycaI07DlygyLBc2RA==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
+	<pref name="unity.player_session_count" type="string">Mw==</pref>
 	<pref name="MenuMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="LoadoutBattleRoyale_Position_Y_V1" type="float">-70.000122</pref>
 	<pref name="BRArmorBattleRoyale_Position_X_V1" type="float">589.245728</pref>
@@ -80,18 +84,19 @@
 	<pref name="Screenmanager Resolution Height Default" type="int">720</pref>
 	<pref name="FSEdLVPDiyYFIR02YMOrMj8s" type="string">VTBpd0F4UUVBRHhha1ljPQ==</pref>
 	<pref name="ESccOHTDpS0AKQw0RcOlNDonFg==" type="string">VTBqNGZoUUVBTHB6YlhZPQ==</pref>
-	<pref name="GiUILkTDsC8hOzUgT8OWJSEtFiVSw7YQNjo+M1bDqSU=" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="GiUILkTDsC8hOzUgT8OWJSEtFiVSw7YQNjo+M1bDqSU=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="COMBAT MASTER_DISABLE_PUBLIC_ROOM" type="int">0</pref>
-	<pref name="BRMiniMapBattleRoyale_Position_X_V1" type="float">180</pref>
 	<pref name="KillStreakBadgeBattleRoyale_Scale_V1" type="float">1</pref>
+	<pref name="BRMiniMapBattleRoyale_Position_X_V1" type="float">180</pref>
 	<pref name="LeftJoystickMultiplayer_Scale_V1" type="float">0</pref>
 	<pref name="Screenmanager Window Position Y" type="int">0</pref>
 	<pref name="AdsMultiplayer_Position_Y_V1" type="float">729.000061</pref>
 	<pref name="HighlightIconMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="Multiplayer_GENERAL_ALPHA_V1" type="float">1</pref>
-	<pref name="FiYOKEXDqy4+LRY1c8OhIzIkCw==" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
+	<pref name="FiYOKEXDqy4+LRY1c8OhIzIkCw==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="InputKeyMap_BindingOverrides" type="string">eyJiaW5kaW5ncyI6W3siYWN0aW9uIjoiZ2FtZXBsYXkvdXNlX2FkcyIsImlkIjoiMzBkMmIyMDAtZTBkMC00MjBlLWE0YzctYWIwOTk5ZTNhOTc4IiwicGF0aCI6IiIsImludGVyYWN0aW9ucyI6Im51bGwiLCJwcm9jZXNzb3JzIjoibnVsbCJ9LHsiYWN0aW9uIjoiZ2FtZXBsYXkvYmFzaCIsImlkIjoiMTI3ZjAxZTItN2ZkMC00N2JlLTk4YzctZDNlOGIxNmFlZTg2IiwicGF0aCI6IjxNb3VzZT4vZm9yd2FyZEJ1dHRvbiIsImludGVyYWN0aW9ucyI6Im51bGwiLCJwcm9jZXNzb3JzIjoibnVsbCJ9LHsiYWN0aW9uIjoiZ2FtZXBsYXkvdXNlX2xldGhhbF93ZWFwb24iLCJpZCI6IjdmYTIyNTBhLWU3YmUtNGIzMy04MGE1LWRjMjQ2NDFkMmVkYSIsInBhdGgiOiI8TW91c2U+L2JhY2tCdXR0b24iLCJpbnRlcmFjdGlvbnMiOiJudWxsIiwicHJvY2Vzc29ycyI6Im51bGwifSx7ImFjdGlvbiI6ImdhbWVwbGF5L3VzZV9iYXNpY19hZHMiLCJpZCI6ImZhZWE0YmU1LTU5MjktNDNiOC1hOTBhLTcwYzAyOTQ2ZDVlZCIsInBhdGgiOiI8TW91c2U+L3JpZ2h0QnV0dG9uIiwiaW50ZXJhY3Rpb25zIjoibnVsbCIsInByb2Nlc3NvcnMiOiJudWxsIn1dfQ==</pref>
 	<pref name="ButtonWeaponBashMultiplayer_Scale_V1" type="float">0</pref>
+	<pref name="HykLJEXDiCk0IAw=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="RightJoystickMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="COMBAT MASTER_BATTLE_PASS_INFINITY" type="int">1</pref>
 	<pref name="ButtonWeaponBashMultiplayer_Position_X_V1" type="float">-227.000061</pref>
@@ -101,7 +106,7 @@
 	<pref name="ScoreMultiplayer_Scale_V1" type="float">1</pref>
 	<pref name="ParamotorBattleRoyale_Position_X_V1" type="float">458</pref>
 	<pref name="BRZoneInfoBattleRoyale_Position_X_V1" type="float">32</pref>
-	<pref name="GiUILkTDsC8hOywkT8OwNSEtKTRWw6gpJzE=" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="GiUILkTDsC8hOywkT8OwNSEtKTRWw6gpJzE=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="ParamotorBattleRoyale_Scale_V1" type="float">1</pref>
 	<pref name="CrouchMultiplayer_Alpha_V1" type="float">0</pref>
 	<pref name="COMBAT_MASTER_UNIQUE_DEVICE_ID" type="string">NmEyODcxZDYtYjIxMy00M2Q4LTliMTItMmQ1OTI0ZDkxOWUz</pref>
@@ -112,8 +117,8 @@
 	<pref name="BRGasMasksBattleRoyale_Position_X_V1" type="float">729</pref>
 	<pref name="ScoreMultiplayer_Position_X_V1" type="float">397.993652</pref>
 	<pref name="VehicleExitBattleRoyale_Position_X_V1" type="float">662.999878</pref>
-	<pref name="LAST_SHOWED_PROMO_BUNDLE_ID" type="int">50397205</pref>
-	<pref name="LAST_SHOWED_HARD_PROMO_POPUP_TYPE" type="int">3</pref>
+	<pref name="LAST_SHOWED_PROMO_BUNDLE_ID" type="int">50397192</pref>
+	<pref name="LAST_SHOWED_HARD_PROMO_POPUP_TYPE" type="int">2</pref>
 	<pref name="RightTrigger_V1Multiplayer_Alpha_V1" type="float">0</pref>
 	<pref name="ScoreMultiplayer_Position_Y_V1" type="float">-84.655334</pref>
 	<pref name="BRArmorMultiplayer_Scale_V1" type="float">1</pref>
@@ -122,7 +127,7 @@
 	<pref name="ButtonParachuteBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="LoadoutMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRGulagInfoBattleRoyale_Position_X_V1" type="float">178</pref>
-	<pref name="Fy0LNUXDsSMnIRotUsOUMjw4Cw==" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
+	<pref name="Fy0LNUXDsSMnIRotUsOUMjw4Cw==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CrosshairBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="EiYRMljDsDI8OBEiccOtLCctCihZw6M=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CheckWatchMultiplayer_Scale_V1" type="float">0</pref>
@@ -131,23 +136,23 @@
 	<pref name="MenuMultiplayer_Position_X_V1" type="float">82</pref>
 	<pref name="HycaI07DiTUgIRsXWMOoNT4t" type="string">VTBoNFFSUUVBR25aMWdnPQ==</pref>
 	<pref name="UnityInstallationId" type="string">ZDBkMzM2MmYwNzQ0M2EyNTM4YjljMTU1OTQ2MWU2ZWQ=</pref>
-	<pref name="FScfBFnDpSI/LRw=" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
+	<pref name="FScfBFnDpSI/LRw=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="BRArmorBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="ScoreInfoBattleRoyale_Position_X_V1" type="float">220</pref>
 	<pref name="ParamotorMultiplayer_Scale_V1" type="float">1</pref>
+	<pref name="BRMiniMapBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRCompassBattleRoyale_Position_Y_V1" type="float">-5</pref>
 	<pref name="BRArmorBattleRoyale_Position_Y_V1" type="float">-750.002686</pref>
-	<pref name="BRMiniMapBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="MenuMultiplayer_Scale_V1" type="float">1</pref>
 	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
 	<pref name="CrouchMultiplayer_Position_X_V1" type="float">-450.000061</pref>
-	<pref name="JumpMultiplayer_Scale_V1" type="float">0</pref>
 	<pref name="VehicleExitBattleRoyale_Position_Y_V1" type="float">883</pref>
+	<pref name="ScoreInfoBattleRoyale_Scale_V1" type="float">1</pref>
+	<pref name="JumpMultiplayer_Scale_V1" type="float">0</pref>
 	<pref name="ParamotorMultiplayer_Position_X_V1" type="float">458</pref>
 	<pref name="BRPlayerStatsBattleRoyale_Position_X_V1" type="float">493</pref>
-	<pref name="ScoreInfoBattleRoyale_Scale_V1" type="float">1</pref>
-	<pref name="CrosshairBattleRoyale_Position_X_V1" type="float">0</pref>
 	<pref name="ParamotorBattleRoyale_Position_Y_V1" type="float">-750</pref>
+	<pref name="CrosshairBattleRoyale_Position_X_V1" type="float">0</pref>
 	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
 	<pref name="BattleRoyale_GENERAL_SCALE_V1" type="float">1</pref>
 	<pref name="InspectMultiplayer_Scale_V1" type="float">0</pref>
@@ -159,7 +164,7 @@
 	<pref name="BRPeopleStatsBattleRoyale_Scale_V1" type="float">1</pref>
 	<pref name="KillStreakBadgeBattleRoyale_Position_Y_V1" type="float">220</pref>
 	<pref name="InspectMultiplayer_Position_Y_V1" type="float">133</pref>
-	<pref name="GiUILkTDsC8hOyokRcOhLjctCgBZw6MsNg==" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="GiUILkTDsC8hOyokRcOhLjctCgBZw6MsNg==" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
 	<pref name="BRPlayerStatsBattleRoyale_Scale_V1" type="float">1</pref>
 	<pref name="BRMenuBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRPeopleStatsBattleRoyale_Position_Y_V1" type="float">-50</pref>
@@ -168,12 +173,12 @@
 	<pref name="ASkfJVjDqCw=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="BRArmorMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="KillStreakBadgeBattleRoyale_Alpha_V1" type="float">1</pref>
-	<pref name="AS0WJVLDthEmKRQoQ8O9" type="string">VUVoNFFRVUVBSGVzcm9BPQ==</pref>
+	<pref name="AS0WJVLDthEmKRQoQ8O9" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="CheckWatchMultiplayer_Position_X_V1" type="float">634</pref>
-	<pref name="ACsKJFLDqhMwKRQkdcOlNCckHQ==" type="string">TlM0ZWZoUUVBUHhZbHY0PQ==</pref>
+	<pref name="ACsKJFLDqhMwKRQkdcOlNCckHQ==" type="string">WUh0TGZoUUVBTnZrWVBvPQ==</pref>
 	<pref name="HighlightIconMultiplayer_Position_X_V1" type="float">104</pref>
 	<pref name="JumpMultiplayer_Position_X_V1" type="float">-227.000061</pref>
-	<pref name="unity.player_sessionid" type="string">OTE5NTcyNDY2NjI2NDc2NDEzNQ==</pref>
+	<pref name="unity.player_sessionid" type="string">NDM3NDM3OTc4NDY5MjM2NDczOA==</pref>
 	<pref name="LeftJoystickMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="unity.cloud_userid" type="string">ZDBkMzM2MmYwNzQ0M2EyNTM4YjljMTU1OTQ2MWU2ZWQ=</pref>
 	<pref name="BRPlayerStatsBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
@@ -195,8 +200,8 @@
 	<pref name="ScoreInfoMultiplayer_Position_X_V1" type="float">220</pref>
 	<pref name="KillStreakBadgeMultiplayer_Color_V1" type="string">RkYzNjM2</pref>
 	<pref name="ScoreMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
-	<pref name="ESkMNVvDoQw6LxA1" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
-	<pref name="ESkMNVvDoRM7KRwuQMO3" type="string">VVVoNFFRVUVBSmFCZEI4PQ==</pref>
+	<pref name="ESkMNVvDoQw6LxA1" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
+	<pref name="ESkMNVvDoRM7KRwuQMO3" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="KillStreakBadgeMultiplayer_Position_Y_V1" type="float">220</pref>
 	<pref name="COMBAT MASTER_DISABLE_HUB" type="int">0</pref>
 	<pref name="BRGasMasksBattleRoyale_Alpha_V1" type="float">1</pref>
@@ -215,10 +220,11 @@
 	<pref name="CrosshairMultiplayer_Scale_V1" type="float">0.5</pref>
 	<pref name="JumpMultiplayer_Position_Y_V1" type="float">435</pref>
 	<pref name="CrosshairMultiplayer_Position_Y_V1" type="float">0</pref>
-	<pref name="HycaI07DiCk0IAw=" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
+	<pref name="HycaI07DiCk0IAw=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="LethalWeaponMultiplayer_Alpha_V1" type="float">0</pref>
 	<pref name="HighlightIconBattleRoyale_Position_Y_V1" type="float">-85</pref>
 	<pref name="BRGasMasksBattleRoyale_Position_Y_V1" type="float">-750</pref>
+	<pref name="ASkMJHbDtDAeKRYgUMOhMgwLFzRZw7AlIQ==" type="string">VVVoNFFRVUVBSmFCZEI4PQ==</pref>
 	<pref name="BRGasMasksMultiplayer_Scale_V1" type="float">1</pref>
 	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
 	<pref name="RightJoystickMultiplayer_Scale_V1" type="float">0</pref>
@@ -230,13 +236,14 @@
 	<pref name="BattlePerksVMultiplayer_Alpha_V1" type="float">1</pref>
 	<pref name="BRPeopleStatsBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="LethalWeaponMultiplayer_Scale_V1" type="float">0</pref>
+	<pref name="ECcVI1bDsBo8Jh0CW8OrNTc7PSdRw6EjJw==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="LoadoutBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="BattlePerksVMultiplayer_Scale_V1" type="float">1</pref>
 	<pref name="LoadoutBattleRoyale_Scale_V1" type="float">1</pref>
 	<pref name="InspectMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRGasMasksMultiplayer_Position_X_V1" type="float">729</pref>
 	<pref name="Screenmanager Resolution Width Default" type="int">1280</pref>
-	<pref name="AS0LLlvDsTQ6JxYNWMOmIio=" type="string">TlM0ZWZoUUVBUHhZbHY0PQ==</pref>
+	<pref name="AS0LLlvDsTQ6JxYNWMOmIio=" type="string">eWRGaGZoUUVBSVVqVTlNPQ==</pref>
 	<pref name="AdsMultiplayer_Scale_V1" type="float">0</pref>
 	<pref name="BRPlayerStatsBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="BRGasMasksBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
@@ -247,15 +254,17 @@
 	<pref name="BRPeopleStatsBattleRoyale_Alpha_V1" type="float">1</pref>
 	<pref name="LeftTriggerMultiplayer_Position_X_V1" type="float">147</pref>
 	<pref name="KillStreakBadgeBattleRoyale_Position_X_V1" type="float">0</pref>
+	<pref name="FSkULXXDqDUhGBcyQ8OUMjwrHTJE" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="JumpMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="BRCompassBattleRoyale_Scale_V1" type="float">1</pref>
+	<pref name="FjAILVjDtyk8JjwkVMOlLCA=" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="LethalWeaponMultiplayer_Position_X_V1" type="float">-792</pref>
 	<pref name="LoadoutBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="LeftJoystickMultiplayer_Position_X_V1" type="float">310.800781</pref>
 	<pref name="CrosshairBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="ReloadMultiplayer_Position_X_V1" type="float">-655</pref>
 	<pref name="ButtonWeaponBashMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
-	<pref name="By0KM1bDrS4XLQwgXsOoMwI9GS1ew7A5" type="string">VVVoNFFRVUVBSmFCZEI4PQ==</pref>
+	<pref name="By0KM1bDrS4XLQwgXsOoMwI9GS1ew7A5" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="BRsBL1Q=" type="string">VWtoNFFRVUVBSk4ydS9NPQ==</pref>
 	<pref name="LeftJoystickMultiplayer_Position_Y_V1" type="float">235.799805</pref>
 	<pref name="AdsMultiplayer_Position_X_V1" type="float">-622.000122</pref>
@@ -266,7 +275,7 @@
 	<pref name="Multiplayer_GENERAL_SCALE_V1" type="float">1</pref>
 	<pref name="BRArmorMultiplayer_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="EAc1A3bDkGAeCSsVcsOWHwsYJwN4w4sTBxc8AGPDhQ==" type="string">S0dvTUtDNHFJalFrSmdKM2NHUm1jbXB0TnpFNU9Td2liWFZzZEdsd2JHbGxjbkZ5U205ek1nOEVBRDRySHJzPQ==</pref>
-	<pref name="Fy0bIFvDtw==" type="string">VVVoNFFRVUVBSmFCZEI4PQ==</pref>
+	<pref name="Fy0bIFvDtw==" type="string">VTBoNFFRVUVBR25aMWdnPQ==</pref>
 	<pref name="BRMenuBattleRoyale_Position_X_V1" type="float">82</pref>
 	<pref name="ParamotorBattleRoyale_Color_V1" type="string">RkZGRkZG</pref>
 	<pref name="LeftTriggerMultiplayer_Alpha_V1" type="float">0</pref>

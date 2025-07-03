@@ -9,8 +9,8 @@ import math
 device_dpi = 800
 screen_dpi = 90  # assuming 1920x1080 @ 24.5"
 screen_scaling_factor = 1
-sample_point_count = 50
-sensitivity_factor = 1.0  # reduced from 3.0 to reduce overshoot feel
+sample_point_count = 100
+sensitivity_factor = 2.0  # reduced from 3.0 to reduce overshoot feel
 
 # Device name as seen in `hyprctl devices`
 if len(sys.argv) < 2:
