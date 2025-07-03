@@ -27,7 +27,7 @@ window#waybar {
   transition: background 0.3s, color 0.2s;
 }
 #custom-launcher:hover {
-  background: rgba(137, 180, 130, 0.12);
+  background: rgba(251, 73, 52, 0.12);
   color: #d3869b;
 }
 
@@ -39,7 +39,6 @@ window#waybar {
   border-radius: 12px;
   margin: 4px 4px;
 }
-
 #workspaces button{
   min-width: 30px;
   min-height: 0px;
@@ -51,18 +50,15 @@ window#waybar {
   margin: 4px 4px;
   transition: 0.2s;
 }
-
 #workspaces button:hover {
   background: #ff8827;
   color: #32302f;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
-
 #workspaces button.active{
   color: #32302f;
   background-color: #ff8827;
 }
-
 #workspaces button.empty:hover{
   background: #32302f;
   color: #ff0000;
@@ -75,76 +71,89 @@ window#waybar {
   margin: 4px 4px;
   padding: 4px 6px;
   min-width: 200px;
-  color: #d4be98;
+  color: #EDB42E;
   font-size: 12px;
   font-weight: 500;
-  
 }
-
 #custom-media.playing {
   color: #a9b665;
 }
-
 #custom-media.paused {
   color: #7c6f64;
 }
-
 #custom-media.stopped {
   color: #7c6f64;
   font-style: italic;
 }
-
 #custom-media:hover {
-  background: rgba(137, 180, 130, 0.12);
+  background: rgba(237, 180, 46, 0.12);
   color: #a9b665;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
 /* Cava Styles */
 #cava {
-  color: #d3869b;
+  color: #B1B327;
   font-family: monospace;
   min-width: 60px;
   padding: 4px 6px;
   margin: 4px 6px;
   background: #1d2021;
   border-radius: 8px;
-  /* box-shadow: 0 0 4px 1px #d3869b;
-  animation: cava-glow 2s infinite alternate;
-  transition: background 0.3s, box-shadow 0.3s; */
 }
-/* @keyframes cava-glow {
-  from { box-shadow: 0 0 4px 1px #d4be98aa; }
-  to   { box-shadow: 0 0 8px 2px #d3869b88; }
-} */
-
 #cava:hover {
-  background: rgba(137, 180, 130, 0.12);
+  background: rgba(177, 179, 39, 0.12);
   color: #a9b665;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
-#clock,
-#battery,
-#memory,
-#network,
-#tray {
+/* Clock Styles */
+#clock {
   background: #1d2021;
-  color: #d4be98;
+  color: #8EC07C;
   padding: 4px 16px;
   margin: 4px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
   font-weight: 500;
-  
 }
-#clock:hover,
-#battery:hover,
-#memory:hover,
-#network:hover,
+#clock:hover {
+  background: rgba(142, 192, 124, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+/* Tray Styles */
+#tray {
+  background: #1d2021;
+  color: #83A598;
+  padding: 4px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+}
 #tray:hover {
-  background: rgba(137, 180, 130, 0.12);
+  background: rgba(131, 165, 152, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+/* Audio (Pulseaudio) Styles */
+#pulseaudio {
+  background: #1d2021;
+  color: #83A598;
+  padding: 4px 12px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+}
+#pulseaudio:hover {
+  background: rgba(131, 165, 152, 0.12);
   color: #a9b665;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
@@ -152,7 +161,7 @@ window#waybar {
 /* CPU Styles */
 #cpu {
   background: #1d2021;
-  color: #d4be98;
+  color: #D3869B;
   padding: 4px 12px;
   margin: 4px 4px;
   border-radius: 8px;
@@ -162,31 +171,63 @@ window#waybar {
   
 }
 #cpu:hover {
-  background: rgba(137, 180, 130, 0.12);
+  background: rgba(211, 134, 155, 0.12);
   color: #a9b665;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
-/* Audio (Pulseaudio) Styles */
-#pulseaudio {
+/* Memory Styles */
+#memory {
   background: #1d2021;
-  color: #d4be98;
-  padding: 4px 12px;
+  color: #CF5B10;
+  padding: 4px 16px;
   margin: 4px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
   font-weight: 500;
 }
-
-#pulseaudio:hover {
-  background: rgba(137, 180, 130, 0.12);
+#memory:hover {
+  background: rgba(207, 91, 16, 0.12);
   color: #a9b665;
   box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
 }
 
+/* Battery Styles */
+#battery {
+  background: #1d2021;
+  color: #8EC07C;
+  padding: 4px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+}
 #battery.charging, #battery.plugged { color: #d3869b; }
 #battery.critical:not(.charging) { color: #ea6962; }
+#battery:hover {
+  background: rgba(142, 192, 124, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
+
+/* Network Styles */
+#network {
+  background: #1d2021;
+  color: #689D6A;
+  padding: 4px 16px;
+  margin: 4px 4px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
+  transition: background 0.3s, color 0.2s, box-shadow 0.2s;
+  font-weight: 500;
+}
+#network:hover {
+  background: rgba(104, 157, 106, 0.12);
+  color: #a9b665;
+  box-shadow: 0 2px 8px 0 rgba(137, 180, 130, 0.08);
+}
 
 /* Tooltip styling */
 tooltip {
