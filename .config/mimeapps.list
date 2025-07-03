@@ -1,6 +1,7 @@
 [Added Associations]
 text/plain=windsurf.desktop;
 text/x-csrc=windsurf.desktop;
+application/json=windsurf.desktop;
 
 [Default Applications]
 text/x-csrc=windsurf.desktop

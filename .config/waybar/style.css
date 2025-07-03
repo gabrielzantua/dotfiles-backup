@@ -21,10 +21,12 @@ window#waybar {
   background: #1d2021;
   font-size: 32px;
   padding: 0px 14px 0px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(137, 180, 130, 0.08);
   transition: background 0.3s, color 0.2s;
+  border-bottom: 3px solid #FB4934;
+  border-right: 3px solid #FB4934;
 }
 #custom-launcher:hover {
   background: rgba(251, 73, 52, 0.12);
@@ -37,7 +39,9 @@ window#waybar {
   background: #1d2021;
   color: #32302f;
   border-radius: 12px;
-  margin: 4px 4px;
+  margin: 8px 4px;
+  border-bottom: 3px solid #ff8827;
+  border-right: 3px solid #ff8827;
 }
 #workspaces button{
   min-width: 30px;
@@ -67,8 +71,10 @@ window#waybar {
 /* Media Player Styles */
 #custom-media {
   background: #1d2021;
+  border-bottom: 3px solid #EDB42E;
+  border-right: 3px solid #EDB42E;
   border-radius: 8px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   padding: 4px 6px;
   min-width: 200px;
   color: #EDB42E;
@@ -94,10 +100,12 @@ window#waybar {
 /* Cava Styles */
 #cava {
   color: #B1B327;
+  border-bottom: 3px solid #B1B327;
+  border-right: 3px solid #B1B327;
   font-family: monospace;
   min-width: 60px;
   padding: 4px 6px;
-  margin: 4px 6px;
+  margin: 8px 6px;
   background: #1d2021;
   border-radius: 8px;
 }
@@ -110,9 +118,11 @@ window#waybar {
 /* Clock Styles */
 #clock {
   background: #1d2021;
+  border-bottom: 3px solid #8EC07C;
+  border-right: 3px solid #8EC07C;
   color: #8EC07C;
   padding: 4px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -127,9 +137,11 @@ window#waybar {
 /* Tray Styles */
 #tray {
   background: #1d2021;
+  border-bottom: 3px solid #83A598;
+  border-right: 3px solid #83A598;
   color: #83A598;
   padding: 4px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -144,9 +156,11 @@ window#waybar {
 /* Audio (Pulseaudio) Styles */
 #pulseaudio {
   background: #1d2021;
+  border-bottom: 3px solid #83A598;
+  border-right: 3px solid #83A598;
   color: #83A598;
   padding: 4px 12px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -161,9 +175,11 @@ window#waybar {
 /* CPU Styles */
 #cpu {
   background: #1d2021;
+  border-bottom: 3px solid #D3869B;
+  border-right: 3px solid #D3869B;
   color: #D3869B;
   padding: 4px 12px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -179,9 +195,11 @@ window#waybar {
 /* Memory Styles */
 #memory {
   background: #1d2021;
+  border-bottom: 3px solid #CF5B10;
+  border-right: 3px solid #CF5B10;
   color: #CF5B10;
   padding: 4px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -196,9 +214,11 @@ window#waybar {
 /* Battery Styles */
 #battery {
   background: #1d2021;
+  border-bottom: 3px solid #8EC07C;
+  border-right: 3px solid #8EC07C;
   color: #8EC07C;
   padding: 4px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
@@ -215,9 +235,11 @@ window#waybar {
 /* Network Styles */
 #network {
   background: #1d2021;
+  border-bottom: 3px solid #689D6A;
+  border-right: 3px solid #689D6A;
   color: #689D6A;
   padding: 4px 16px;
-  margin: 4px 4px;
+  margin: 8px 4px;
   border-radius: 8px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s, color 0.2s, box-shadow 0.2s;
