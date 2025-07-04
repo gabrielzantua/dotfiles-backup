@@ -1,14 +1,14 @@
-2025/07/03-23:15:35.634 173f0 Reusing MANIFEST /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2025/07/03-23:15:35.635 173f0 Recovering log #10
-2025/07/03-23:15:35.651 173f0 Reusing old log /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000010.log 
-2025/07/03-23:15:35.652 173f0 Delete type=2 #8
-2025/07/03-23:15:36.970 17403 Level-0 table #15: started
-2025/07/03-23:15:37.209 17403 Level-0 table #15: 622 bytes OK
-2025/07/03-23:15:37.335 17403 Delete type=0 #10
-2025/07/03-23:15:37.335 173ef Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 128 : 1
-2025/07/03-23:15:37.335 173ef Compacting 1@0 + 1@1 files
-2025/07/03-23:15:37.412 173ef Generated table #16@0: 42 keys, 1192 bytes
-2025/07/03-23:15:37.412 173ef Compacted 1@0 + 1@1 files => 1192 bytes
-2025/07/03-23:15:37.493 173ef compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/03-23:15:37.493 173ef Delete type=2 #15
-2025/07/03-23:15:37.493 173ef Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 128 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/04-17:37:21.426 1a59e Reusing MANIFEST /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/07/04-17:37:21.426 1a59e Recovering log #14
+2025/07/04-17:37:21.456 1a59e Reusing old log /home/pengu/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000014.log 
+2025/07/04-17:37:21.456 1a59e Delete type=2 #12
+2025/07/04-17:37:23.017 1a5b3 Level-0 table #19: started
+2025/07/04-17:37:23.177 1a5b3 Level-0 table #19: 1152 bytes OK
+2025/07/04-17:37:23.304 1a5b3 Delete type=0 #14
+2025/07/04-17:37:23.304 1a59d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 159 : 1
+2025/07/04-17:37:23.304 1a59d Compacting 1@0 + 1@1 files
+2025/07/04-17:37:23.358 1a59d Generated table #20@0: 42 keys, 1204 bytes
+2025/07/04-17:37:23.358 1a59d Compacted 1@0 + 1@1 files => 1204 bytes
+2025/07/04-17:37:23.472 1a59d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/04-17:37:23.472 1a59d Delete type=2 #19
+2025/07/04-17:37:23.473 1a59d Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 159 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
