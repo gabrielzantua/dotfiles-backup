@@ -74,17 +74,17 @@
       "on-scroll-down": "hyprctl dispatch workspace +1",
       "on-click": "activate",
       "sort-by-number": true,
-      "format": "{icon}",
+      "format": "<span font='12'>{icon}</span>",
       "format-icons": {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "",
-        "urgent": "",
-        "active": "",
-        "occupied": "",
-        "default": ""
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "urgent": "",
+        "active": "",
+        "occupied": "",
+        "default": ""
        },
       "persistent-workspaces":
       {
