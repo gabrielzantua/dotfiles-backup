@@ -52,7 +52,7 @@ window#waybar {
   color: #32302f;
   font-weight: 900;
   margin: 4px 4px;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 #workspaces button:hover {
   background: #ff8827;
