@@ -25,9 +25,10 @@ configuration {
     background:                  #222421;
     background-alt:              #1d2021;
     foreground:                  #d4be98;
-    selected:                    #32302f;
-    active:                      #ff8827;
-    urgent:                      #FB4934;
+    foreground-alt:              #222421;
+    selected:                    #DDA72A;
+    active:                      #d3869b;
+    urgent:                      #fb4934;
 }
 
 /*****----- Main Window -----*****/
@@ -60,7 +61,7 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/Pictures/backgrounds/uptrees.png", height);
+    background-image:            url("~/Pictures/backgrounds/pixelart-colors.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
@@ -119,7 +120,7 @@ button {
 }
 button selected {
     background-color:            @selected;
-    text-color:                  @foreground;
+    text-color:                  @foreground-alt;
 }
 
 /*****----- Listview -----*****/
@@ -165,7 +166,7 @@ element normal.active {
 }
 element selected.normal {
     background-color:            @selected;
-    text-color:                  @foreground;
+    text-color:                  @foreground-alt;
 }
 element selected.urgent {
     background-color:            @urgent;
