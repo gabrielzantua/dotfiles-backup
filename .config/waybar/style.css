@@ -66,7 +66,7 @@ window#waybar {
   padding: 4px 6px;
 }
 #workspaces button.empty:hover{
-  background: #B97688;
+  background: #ffae6c;
   color: #ff0000;
 }
 
