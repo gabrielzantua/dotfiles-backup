@@ -217,7 +217,7 @@ path = /tmp/cava.txt
 
 [color]
 gradient = 0
-foreground = '#7E9E92'
+foreground = '#FABD2F'
 
 # gradient_color_1 = '#98971a'
 # gradient_color_2 = '#d79921'
