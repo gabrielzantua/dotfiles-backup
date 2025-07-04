@@ -21,13 +21,13 @@ configuration {
 
 /*****----- Global Properties -----*****/
 * {
-    font:                        "JetBrains Mono Nerd Font 10";
-    background:                  #282828;
-    background-alt:              #3c3836;
-    foreground:                  #ebdbb2;
-    selected:                    #504945;
-    active:                      #83a598;
-    urgent:                      #fb4934;
+    font:                        "JetBrainsMono Nerd Font Mono 10";
+    background:                  #222421;
+    background-alt:              #1d2021;
+    foreground:                  #d4be98;
+    selected:                    #32302f;
+    active:                      #ff8827;
+    urgent:                      #FB4934;
 }
 
 /*****----- Main Window -----*****/
@@ -60,7 +60,7 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/Pictures/backgrounds/upsilenthill.png", height);
+    background-image:            url("~/Pictures/backgrounds/uptrees.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
