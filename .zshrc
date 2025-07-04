@@ -81,7 +81,7 @@ alias cbonsai='cbonsai -l -i -w 1'
 
 # Personal aliases
 alias ff='cd && clear && fastfetch'
-alias clock='tty-clock -s -c -t -r -n -C 7'
+alias clock='tty-clock -s -c -t -r -n -C 3'
 alias clear="cd && clear && fastfetch"
 alias update="sudo pacman -Syyu"
 alias udpate="sudo pacman -Syuu"
