@@ -1,0 +1,19 @@
+2025/07/04-18:47:14.602 d9c Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/04-18:47:14.602 d9c Recovering log #3
+2025/07/04-18:47:14.667 d9c Level-0 table #3: started
+2025/07/04-18:47:14.854 d9c Level-0 table #3: 1159433 bytes OK
+2025/07/04-18:47:14.855 d9c Recovering log #4
+2025/07/04-18:47:14.863 d9c Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb/000004.log 
+2025/07/04-18:47:14.939 d9c Delete type=2 #5
+2025/07/04-18:47:14.939 d9c Delete type=0 #3
+2025/07/04-20:16:53.357 d9b Level-0 table #6: started
+2025/07/04-20:16:53.404 d9b Level-0 table #6: 226 bytes OK
+2025/07/04-20:16:53.478 d9b Delete type=0 #4
+2025/07/04-20:16:53.478 d9b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 63733 : 1
+2025/07/04-20:16:53.478 d9b Compacting 2@0 + 0@1 files
+2025/07/04-20:16:53.761 d9b Generated table #7@0: 19324 keys, 572346 bytes
+2025/07/04-20:16:53.762 d9b Compacted 2@0 + 0@1 files => 572346 bytes
+2025/07/04-20:16:53.834 d9b compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/04-20:16:53.834 d9b Delete type=2 #6
+2025/07/04-20:16:53.835 d9b Delete type=2 #3
+2025/07/04-20:16:53.835 d9b Manual compaction at level-0 from '\x00\x00\x00\x00\x06' @ 63733 : 1 .. (end); will stop at (end)

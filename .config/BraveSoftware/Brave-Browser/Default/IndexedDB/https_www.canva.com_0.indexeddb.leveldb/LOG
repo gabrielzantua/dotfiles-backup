@@ -1,0 +1,112 @@
+2025/07/05-14:22:45.640 f34 Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2025/07/05-14:22:46.043 f34 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/05-14:48:31.859 f33 Level-0 table #5: started
+2025/07/05-14:48:31.991 f34 Current memtable full; waiting...
+2025/07/05-14:48:32.069 f33 Level-0 table #5: 959211 bytes OK
+2025/07/05-14:48:32.156 f33 Delete type=0 #3
+2025/07/05-14:48:32.157 f33 Level-0 table #7: started
+2025/07/05-14:48:32.290 f33 Level-0 table #7: 874037 bytes OK
+2025/07/05-14:48:32.383 f33 Delete type=0 #4
+2025/07/05-14:48:32.494 f34 Level-0 table #9: started
+2025/07/05-14:48:32.633 f34 Level-0 table #9: 1087428 bytes OK
+2025/07/05-14:48:32.722 f34 Delete type=0 #6
+2025/07/05-14:48:32.893 f35 Compacting 1@1 + 1@2 files
+2025/07/05-14:48:33.259 f35 Generated table #10@1: 32866 keys, 1444449 bytes
+2025/07/05-14:48:33.259 f35 Compacted 1@1 + 1@2 files => 1444449 bytes
+2025/07/05-14:48:33.399 f35 compacted to: files[ 1 0 1 0 0 0 0 ]
+2025/07/05-14:48:33.400 f35 Delete type=2 #7
+2025/07/05-14:48:33.400 f35 Delete type=2 #5
+2025/07/05-14:48:33.704 f34 Moved #9 to level-1 1087428 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/07/05-14:48:33.994 f4d Compacting 1@1 + 1@2 files
+2025/07/05-14:48:34.239 f4d Generated table #11@1: 22356 keys, 1331911 bytes
+2025/07/05-14:48:34.239 f4d Compacted 1@1 + 1@2 files => 1331911 bytes
+2025/07/05-14:48:34.371 f4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:48:34.371 f4d Delete type=2 #10
+2025/07/05-14:48:34.371 f4d Delete type=2 #9
+2025/07/05-14:48:39.235 f34 Level-0 table #13: started
+2025/07/05-14:48:39.376 f34 Level-0 table #13: 899354 bytes OK
+2025/07/05-14:48:39.459 f34 Delete type=0 #8
+2025/07/05-14:48:39.596 f35 Compacting 1@1 + 1@2 files
+2025/07/05-14:48:39.768 f35 Generated table #14@1: 22375 keys, 1347613 bytes
+2025/07/05-14:48:39.768 f35 Compacted 1@1 + 1@2 files => 1347613 bytes
+2025/07/05-14:48:39.855 f35 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:48:39.855 f35 Delete type=2 #11
+2025/07/05-14:48:39.856 f35 Delete type=2 #13
+2025/07/05-14:48:41.233 f34 Level-0 table #16: started
+2025/07/05-14:48:41.434 f34 Level-0 table #16: 865876 bytes OK
+2025/07/05-14:48:41.605 f34 Delete type=0 #12
+2025/07/05-14:48:41.897 f4d Compacting 1@1 + 1@2 files
+2025/07/05-14:48:42.190 f4d Generated table #17@1: 22355 keys, 1352303 bytes
+2025/07/05-14:48:42.190 f4d Compacted 1@1 + 1@2 files => 1352303 bytes
+2025/07/05-14:48:42.366 f4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:48:42.366 f4d Delete type=2 #16
+2025/07/05-14:48:42.366 f4d Delete type=2 #14
+2025/07/05-14:48:44.876 f33 Level-0 table #19: started
+2025/07/05-14:48:45.052 f33 Level-0 table #19: 867032 bytes OK
+2025/07/05-14:48:45.152 f33 Delete type=0 #15
+2025/07/05-14:48:45.303 f4d Compacting 1@1 + 1@2 files
+2025/07/05-14:48:45.518 f4d Generated table #20@1: 22357 keys, 1339890 bytes
+2025/07/05-14:48:45.518 f4d Compacted 1@1 + 1@2 files => 1339890 bytes
+2025/07/05-14:48:45.621 f4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:48:48.960 f35 Level-0 table #22: started
+2025/07/05-14:48:49.102 f35 Level-0 table #22: 921159 bytes OK
+2025/07/05-14:48:49.169 f34 Current memtable full; waiting...
+2025/07/05-14:48:49.316 f35 Delete type=0 #18
+2025/07/05-14:48:49.316 f35 Delete type=2 #19
+2025/07/05-14:48:49.316 f35 Delete type=2 #17
+2025/07/05-14:48:49.318 f33 Level-0 table #24: started
+2025/07/05-14:48:49.483 f34 Current memtable full; waiting...
+2025/07/05-14:48:49.550 f33 Level-0 table #24: 873544 bytes OK
+2025/07/05-14:48:49.872 f33 Delete type=0 #21
+2025/07/05-14:48:49.873 f33 Level-0 table #26: started
+2025/07/05-14:48:50.003 f33 Level-0 table #26: 880765 bytes OK
+2025/07/05-14:48:50.014 f34 Current memtable full; waiting...
+2025/07/05-14:48:50.087 f33 Delete type=0 #23
+2025/07/05-14:48:50.088 f33 Level-0 table #28: started
+2025/07/05-14:48:50.243 f34 Current memtable full; waiting...
+2025/07/05-14:48:50.313 f33 Level-0 table #28: 886003 bytes OK
+2025/07/05-14:48:50.404 f33 Delete type=0 #25
+2025/07/05-14:48:50.405 f33 Level-0 table #30: started
+2025/07/05-14:48:50.634 f33 Level-0 table #30: 888085 bytes OK
+2025/07/05-14:48:50.767 f33 Delete type=0 #27
+2025/07/05-14:48:50.768 f33 Compacting 4@0 + 1@1 files
+2025/07/05-14:48:51.048 f33 Generated table #31@0: 45545 keys, 2198890 bytes
+2025/07/05-14:48:51.197 f33 Generated table #32@0: 26488 keys, 1522677 bytes
+2025/07/05-14:48:51.198 f33 Compacted 4@0 + 1@1 files => 3721567 bytes
+2025/07/05-14:48:51.289 f33 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/07/05-14:48:51.289 f33 Delete type=2 #24
+2025/07/05-14:48:51.289 f33 Delete type=2 #26
+2025/07/05-14:48:51.289 f33 Delete type=2 #30
+2025/07/05-14:48:51.289 f33 Delete type=2 #28
+2025/07/05-14:48:51.289 f33 Delete type=2 #22
+2025/07/05-14:48:55.278 f35 Expanding@1 1+1 (2198890+1339890 bytes) to 2+1 (3721567+1339890 bytes)
+2025/07/05-14:48:55.278 f35 Compacting 2@1 + 1@2 files
+2025/07/05-14:48:55.619 f35 Generated table #33@1: 37671 keys, 2189011 bytes
+2025/07/05-14:48:55.862 f35 Generated table #34@1: 26298 keys, 1503478 bytes
+2025/07/05-14:48:55.862 f35 Compacted 2@1 + 1@2 files => 3692489 bytes
+2025/07/05-14:48:56.003 f35 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/07/05-14:48:56.003 f35 Delete type=2 #32
+2025/07/05-14:48:56.003 f35 Delete type=2 #20
+2025/07/05-14:48:56.003 f35 Delete type=2 #31
+2025/07/05-14:51:57.472 f4d Level-0 table #36: started
+2025/07/05-14:51:57.636 f4d Level-0 table #36: 1277721 bytes OK
+2025/07/05-14:51:57.718 f4d Delete type=0 #29
+2025/07/05-14:52:00.524 f33 Compacting 1@1 + 2@2 files
+2025/07/05-14:52:00.706 f33 Generated table #37@1: 29759 keys, 1858968 bytes
+2025/07/05-14:52:00.706 f33 Compacted 1@1 + 2@2 files => 1858968 bytes
+2025/07/05-14:52:00.792 f33 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:52:00.793 f33 Delete type=2 #34
+2025/07/05-14:52:00.793 f33 Delete type=2 #33
+2025/07/05-14:52:00.793 f33 Delete type=2 #36
+2025/07/05-14:57:33.098 f4c Level-0 table #39: started
+2025/07/05-14:57:33.315 f4c Level-0 table #39: 1602861 bytes OK
+2025/07/05-14:57:33.647 f4c Delete type=0 #35
+2025/07/05-14:57:33.648 f4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/05-14:57:33.648 f4c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x011\x00U\x00A\x00F\x001\x00z\x00T\x00_\x00T\x00o\x00u\x00Y\x00-\x00B\x00A\x00E\x00p\x00U\x00Y\x00N\x00A\x00r\x00f\x00M\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 331221 : 1
+2025/07/05-14:57:33.648 f4c Compacting 1@1 + 1@2 files
+2025/07/05-14:57:33.971 f4c Generated table #40@1: 29746 keys, 1851119 bytes
+2025/07/05-14:57:33.971 f4c Compacted 1@1 + 1@2 files => 1851119 bytes
+2025/07/05-14:57:34.178 f4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-14:57:34.179 f4c Delete type=2 #39
+2025/07/05-14:57:34.179 f4c Delete type=2 #37
+2025/07/05-14:57:34.180 f35 Manual compaction at level-1 from '\x00\x03\x01\x02\x011\x00U\x00A\x00F\x001\x00z\x00T\x00_\x00T\x00o\x00u\x00Y\x00-\x00B\x00A\x00E\x00p\x00U\x00Y\x00N\x00A\x00r\x00f\x00M\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 331221 : 1 .. (end); will stop at (end)

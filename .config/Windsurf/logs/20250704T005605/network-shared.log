@@ -1,0 +1,8 @@
+2025-07-04 00:56:32.569 [error] #1: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:56:35.820 [error] #2: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:56:42.023 [error] #3: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:56:45.186 [error] #4: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:56:57.622 [error] #5: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:57:01.106 [error] #6: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:57:44.640 [error] #7: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-07-04 00:57:48.230 [error] #8: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

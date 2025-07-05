@@ -1,0 +1,23 @@
+2025-07-04 17:11:59.166 [info] 2025/07/04 17:11:59 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2025-07-04 17:11:59.362 [info] I0704 17:11:59.362203 51783 main.go:602] Setting GOMAXPROCS to 4
+2025-07-04 17:11:59.362 [info] I0704 17:11:59.362580 51783 main.go:817] Starting language server process with pid 51783
+2025-07-04 17:11:59.362 [info] I0704 17:11:59.362809 51783 server.go:292] Language server will attempt to listen on host 127.0.0.1
+2025-07-04 17:11:59.363 [info] I0704 17:11:59.363104 51783 server.go:299] Language server listening on random port at 46107
+2025-07-04 17:12:00.076 [info] I0704 17:12:00.076284 51783 server.go:420] Created extension server client at port 44767
+2025-07-04 17:12:00.250 [info] I0704 17:12:00.250646 51783 server.go:948] Local search is enabled, will index local files.
+2025-07-04 17:12:00.250 [info] I0704 17:12:00.250665 51783 server.go:952] Using 3 indexer workers
+2025-07-04 17:12:01.117 [info] (Windsurf) 2025-07-04 17:12:01.115 [INFO]: Language server started
+2025-07-04 17:12:01.161 [info] (Windsurf) 2025-07-04 17:12:01.161 [INFO]: LS lspClient started successfully
+2025-07-04 17:12:01.512 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 17:12:01.512 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 17:12:01.512 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 17:55:41.824 [info] E0704 17:55:41.823794 51783 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2535: invalid offset 2535
+2025-07-04 17:55:41.824 [info] E0704 17:55:41.823830 51783 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2535: invalid offset 2535
+2025-07-04 18:00:15.059 [info] (Windsurf) 2025-07-04 18:00:15.059 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-04 18:02:16.203 [info] (Windsurf) 2025-07-04 18:02:16.202 [INFO]: [Cascade Manager] Opening diff zones for: cascade.rasi
+2025-07-04 18:04:36.976 [info] (Windsurf) 2025-07-04 18:04:36.976 [INFO]: [Cascade Manager] Opening diff zones for: cascade.rasi
+2025-07-04 18:05:16.558 [info] E0704 18:05:16.557906 51783 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/rofi/cascade.rasi
+2025-07-04 18:58:41.960 [info] (Windsurf) 2025-07-04 18:58:41.960 [INFO]: [SupercompleteProvider] No supercomplete response

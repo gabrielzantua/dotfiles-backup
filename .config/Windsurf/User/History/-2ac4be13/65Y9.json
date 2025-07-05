@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "window.enableMenuBarMnemonics": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.layoutControl.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "breadcrumbs.showNamespaces": false,
+    "notebook.breadcrumbs.showCodeCells": false,
+    "breadcrumbs.filePath": "off",
+    "window.customMenuBarAltFocus": false,
+    "window.titleBarStyle": "native",
+}

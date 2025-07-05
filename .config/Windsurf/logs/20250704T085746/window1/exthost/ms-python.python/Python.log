@@ -1,0 +1,16 @@
+2025-07-04 08:59:16.135 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-07-04 08:59:16.135 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-07-04 08:59:16.135 [warning] Dir "/home/pengu/.config/.pixi/envs" is not watchable (directory does not exist)
+2025-07-04 08:59:16.135 [info] Python interpreter path: /bin/python
+2025-07-04 08:59:16.145 [info] > pyenv which python
+2025-07-04 08:59:16.145 [info] cwd: .
+2025-07-04 08:59:16.179 [info] Editor support is inactive since language server is set to None.
+2025-07-04 11:14:42.624 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:14:46.490 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:14:49.279 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:15:08.224 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:15:12.634 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:15:20.937 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:15:58.160 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:16:08.993 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-04 11:16:19.639 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json

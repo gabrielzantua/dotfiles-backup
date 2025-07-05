@@ -1,0 +1,6 @@
+2025/07/04-20:32:14.095 4 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/04-20:32:14.100 4 Recovering log #266
+2025/07/04-20:32:14.102 4 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000266.log 
+2025/07/04-20:32:50.929 5 Level-0 table #270: started
+2025/07/04-20:32:51.042 5 Level-0 table #270: 13174 bytes OK
+2025/07/04-20:32:51.123 5 Delete type=0 #266

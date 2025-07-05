@@ -1,0 +1,11 @@
+2025-07-05 14:01:33.061 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-07-05 14:01:33.061 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-07-05 14:01:33.061 [warning] Dir "/home/pengu/.config/.pixi/envs" is not watchable (directory does not exist)
+2025-07-05 14:01:33.061 [info] Python interpreter path: /bin/python
+2025-07-05 14:01:33.071 [info] > pyenv which python
+2025-07-05 14:01:33.071 [info] cwd: .
+2025-07-05 14:01:34.271 [info] Editor support is inactive since language server is set to None.
+2025-07-05 14:08:36.133 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json
+2025-07-05 14:15:24.260 [info] CreateEnv Trigger - Skipping for /home/pengu/.config/fastfetch/arch.py
+2025-07-05 14:15:24.801 [info] Send text to terminal: /bin/python /home/pengu/.config/fastfetch/arch.py
+2025-07-05 17:35:27.407 [info] Discover tests for workspace name: undefined - uri: /home/pengu/.config/Windsurf/User/settings.json

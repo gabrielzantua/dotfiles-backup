@@ -1,0 +1,17 @@
+2025-07-04 17:11:18.264 [info] Extension host with pid 50384 started
+2025-07-04 17:11:18.264 [info] Skipping acquiring lock for /home/pengu/.config/Windsurf/User/workspaceStorage/3361968e74b77cf7c08176d81c48bb3a.
+2025-07-04 17:11:18.464 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-04 17:11:18.525 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-04 17:11:18.531 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-04 17:11:18.568 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-04 17:11:18.648 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: true, activationEvent: '*'
+2025-07-04 17:11:19.785 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 17:11:19.792 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 17:11:19.850 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 17:11:21.962 [info] Eager extensions activated
+2025-07-04 17:11:21.972 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 17:11:21.974 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 17:11:21.990 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 17:11:22.037 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-04 17:11:53.865 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-04 17:11:53.890 [info] Extension host with pid 50384 exiting with code 0

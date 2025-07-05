@@ -1,0 +1,94 @@
+//      {
+//          "": ,
+//          "": ,
+//          "":
+//      },
+
+
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "~/.config/fastfetch/arch.gif",
+        "type": "kitty-icat",
+        "height": 15,
+        "width": 23,
+        "padding": {
+            "top": 1,
+            "left": 1
+        }
+    },
+    "modules": [
+        {
+            "type": "custom",
+            "format": "\u001b [90m┌────────────────────── Info System ──────────────────────┐",
+            "keyColor": "#000000"
+        },
+        "break",
+        {
+            "type": "host",
+            "key": "    \uf109  PC",
+            "keyColor": "#fb4934"
+        },
+        {
+            "type": "os",
+            "key": "    \uf303  Distro",
+            "keyColor": "#fe8019" 
+        },
+        {
+            "type": "cpu",
+            "key": "    \uf4bc  CPU",
+            "keyColor": "#fabd2f"
+        },
+        {
+            "type": "gpu",
+            "key": "    \uf4bc  GPU",
+            "keyColor": "#b8bb26"
+        },
+        {
+            "type": "memory",
+            "key": "    \uefc5  Ram",
+            "keyColor": "#8ec07c"
+        },
+        {
+            "type": "disk",
+            "key": "    \uf0c7  Disk",
+            "keyColor": "#83a598"
+        },
+        {
+            "type": "terminal",
+            "key": "    \uea85  Terminal",
+            "keyColor": "#d3869b"
+        },
+        {
+            "type": "shell",
+            "key": "    \uea85  Shell",
+            "keyColor": "#d65d0e"
+        },
+        {
+            "type": "packages",
+            "key": "    \ueb29  Packages",
+            "keyColor": "#689d6a"
+        },
+        {
+            "type": "uptime",
+            "key": "    \ue385  Uptime",
+            "keyColor": "#d79921"
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[90m└─────────────────────────────────────────────────────────┘"
+        },
+
+//        {
+//            "type": "colors"
+//        },
+
+        //{
+            // "type": "colors",
+            // "paddingLeft": 2,
+            // "symbol": "circle"
+        //},
+        "break"
+    ]
+}

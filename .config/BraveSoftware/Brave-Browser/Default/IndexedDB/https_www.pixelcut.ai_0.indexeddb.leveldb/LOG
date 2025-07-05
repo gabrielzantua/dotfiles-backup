@@ -1,0 +1,6 @@
+2025/07/01-15:20:42.406 67b1 Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pixelcut.ai_0.indexeddb.leveldb since it was missing.
+2025/07/01-15:20:42.553 67b1 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pixelcut.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/01-15:20:42.898 67c1 Level-0 table #5: started
+2025/07/01-15:20:43.052 67c1 Level-0 table #5: 1319 bytes OK
+2025/07/01-15:20:43.151 67c1 Delete type=0 #3
+2025/07/01-15:20:43.151 67bf Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

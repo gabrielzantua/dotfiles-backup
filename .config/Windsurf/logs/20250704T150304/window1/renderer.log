@@ -1,0 +1,88 @@
+2025-07-04 15:03:14.636 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.636 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.638 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:14.638 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:03:15.324 [info] Started local extension host with pid 4534.
+2025-07-04 15:03:17.599 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at V2.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3281)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4564)
+    at Rf.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20114)
+    at Rf.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19637)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19039)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4893)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5077)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at j (file:///usr/share/windsurf/resources/app/out/main.js:28:7328)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21024)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-07-04 15:03:19.978 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, notebookReplDocument
+2025-07-04 15:03:20.011 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2025-07-04 15:03:21.785 [info] [perf] Render performance baseline is 17ms
+2025-07-04 15:03:27.155 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/pengu/.config/Windsurf/logs/20250703T202100/window1' failed: No such file or directory (EUNKNOWN) (path: /home/pengu/.config)
+2025-07-04 15:03:27.155 [error] [File Watcher (universal)] inotify_add_watch on '/home/pengu/.config/Windsurf/logs/20250703T202100/window1' failed: No such file or directory
+2025-07-04 15:03:37.960 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 15:03:38.800 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-07-04 15:12:18.731 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 15:27:51.629 [error] Model is disposed!
+2025-07-04 16:14:37.461 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 16:37:58.163 [error] command 'extension.vim_escape' not found
+2025-07-04 17:03:06.993 [error] [Extension Host] FetchError: Unleash Repository error: Response timeout while trying to fetch https://unleash.codeium.com/api/client/features (over 2000ms)
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2122126)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-07-04 17:06:04.904 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: inlineChat.accessibleDiffView, inlineChat.finishOnType, inlineChat.holdToSpeech, inlineChat.lineEmptyHint, inlineChat.lineNaturalLanguageHint, chat.agent.enabled, chat.agent.maxRequests, chat.commandCenter.enabled, chat.detectParticipant.enabled, chat.editing.autoAcceptDelay, chat.editing.confirmEditRequestRemoval, chat.editing.confirmEditRequestRetry, chat.editor.fontFamily, chat.editor.fontSize, chat.editor.fontWeight, chat.editor.lineHeight, chat.editor.wordWrap, chat.edits2.enabled, chat.experimental.detectParticipant.enabled, chat.extensionTools.enabled, chat.focusWindowOnConfirmation, chat.implicitContext.enabled, chat.mcp.discovery.enabled, chat.mcp.enabled, chat.promptFiles, chat.promptFilesLocations, chat.renderRelatedFiles, chat.setupFromDialog, chat.tools.autoApprove, chat.unifiedChatView, chat.useFileStorage, mcp
+2025-07-04 17:07:07.732 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at crn.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:8339)
+    at crn.rerender (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:6800)
+    at QEe.rerender (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:15667)
+    at E0.ed (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:56128)
+    at E0.cd (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:55943)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:55279
+    at Set.forEach (<anonymous>)
+    at E0.ad (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:55263)
+    at E0.$c (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:52678)
+    at Vkt.value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:38151)
+2025-07-04 17:07:07.733 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at crn.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:8339)
+    at crn.rerender (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:6800)
+    at QEe.rerender (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:420:15667)
+    at E0.ed (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:56128)
+    at E0.cd (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:55943)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1898:51248
+2025-07-04 17:09:43.155 [error] Titlebar overlay is not enabled: Error: Titlebar overlay is not enabled
+    at pc.updateWindowControls (file:///usr/share/windsurf/resources/app/out/main.js:72:49840)
+    at sc.updateWindowControls (file:///usr/share/windsurf/resources/app/out/main.js:53:5876)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4564)
+    at Rf.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20114)
+    at Rf.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19637)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19039)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4893)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Qo.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5077)
+    at D.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at j (file:///usr/share/windsurf/resources/app/out/main.js:28:7328)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21024)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)

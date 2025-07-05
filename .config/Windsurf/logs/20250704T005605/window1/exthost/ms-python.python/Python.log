@@ -1,0 +1,7 @@
+2025-07-04 00:57:25.189 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-07-04 00:57:25.189 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-07-04 00:57:25.189 [warning] Dir "/home/pengu/.config/.pixi/envs" is not watchable (directory does not exist)
+2025-07-04 00:57:25.189 [info] Python interpreter path: /bin/python
+2025-07-04 00:57:25.201 [info] > pyenv which python
+2025-07-04 00:57:25.202 [info] cwd: .
+2025-07-04 00:57:25.285 [info] Editor support is inactive since language server is set to None.

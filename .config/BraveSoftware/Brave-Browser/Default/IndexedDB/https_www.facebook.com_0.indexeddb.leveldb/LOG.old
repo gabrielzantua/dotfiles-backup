@@ -1,0 +1,28 @@
+2025/07/04-20:32:22.266 301f2 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/04-20:32:22.266 301f2 Recovering log #699
+2025/07/04-20:32:22.268 301f2 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000699.log 
+2025/07/04-20:32:25.770 301f2 Compacting 1@1 + 10@2 files
+2025/07/04-20:32:26.079 301f2 Generated table #709@1: 11977 keys, 2136468 bytes
+2025/07/04-20:32:26.444 301f2 Generated table #710@1: 11608 keys, 2136082 bytes
+2025/07/04-20:32:26.654 301f2 Generated table #711@1: 12051 keys, 2139367 bytes
+2025/07/04-20:32:26.836 301f2 Generated table #712@1: 60033 keys, 2199642 bytes
+2025/07/04-20:32:27.030 301f2 Generated table #713@1: 89291 keys, 2241944 bytes
+2025/07/04-20:32:27.246 301f2 Generated table #714@1: 104001 keys, 2253007 bytes
+2025/07/04-20:32:27.451 301f2 Generated table #715@1: 103956 keys, 2252710 bytes
+2025/07/04-20:32:27.655 301f2 Generated table #716@1: 108200 keys, 2257398 bytes
+2025/07/04-20:32:27.860 301f2 Generated table #717@1: 107166 keys, 2256742 bytes
+2025/07/04-20:32:28.132 301f2 Generated table #718@1: 106131 keys, 2256158 bytes
+2025/07/04-20:32:28.464 301f2 Generated table #719@1: 488 keys, 10889 bytes
+2025/07/04-20:32:28.464 301f2 Compacted 1@1 + 10@2 files => 22140407 bytes
+2025/07/04-20:32:28.689 301f2 compacted to: files[ 0 0 16 0 0 0 0 ]
+2025/07/04-20:32:28.689 301f2 Delete type=2 #689
+2025/07/04-20:32:28.689 301f2 Delete type=2 #688
+2025/07/04-20:32:28.689 301f2 Delete type=2 #692
+2025/07/04-20:32:28.689 301f2 Delete type=2 #694
+2025/07/04-20:32:28.689 301f2 Delete type=2 #701
+2025/07/04-20:32:28.689 301f2 Delete type=2 #691
+2025/07/04-20:32:28.689 301f2 Delete type=2 #697
+2025/07/04-20:32:28.689 301f2 Delete type=2 #696
+2025/07/04-20:32:28.690 301f2 Delete type=2 #693
+2025/07/04-20:32:28.690 301f2 Delete type=2 #695
+2025/07/04-20:32:28.690 301f2 Delete type=2 #690

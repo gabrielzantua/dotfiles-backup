@@ -1,0 +1,29 @@
+2025-07-04 08:58:52.778 [info] 2025/07/04 08:58:52 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2025-07-04 08:59:02.725 [info] I0704 08:59:02.724788  3278 main.go:602] Setting GOMAXPROCS to 4
+2025-07-04 08:59:02.774 [info] I0704 08:59:02.774319  3278 main.go:817] Starting language server process with pid 3278
+2025-07-04 08:59:02.902 [info] I0704 08:59:02.902445  3278 server.go:292] Language server will attempt to listen on host 127.0.0.1
+2025-07-04 08:59:02.950 [info] I0704 08:59:02.950195  3278 server.go:299] Language server listening on random port at 35993
+2025-07-04 08:59:05.015 [info] I0704 08:59:05.015595  3278 server.go:420] Created extension server client at port 40701
+2025-07-04 08:59:06.755 [info] I0704 08:59:06.755400  3278 server.go:948] Local search is enabled, will index local files.
+2025-07-04 08:59:06.755 [info] I0704 08:59:06.755428  3278 server.go:952] Using 3 indexer workers
+2025-07-04 08:59:11.600 [info] (Windsurf) 2025-07-04 08:59:11.596 [INFO]: Language server started
+2025-07-04 08:59:14.090 [info] (Windsurf) 2025-07-04 08:59:14.090 [INFO]: LS lspClient started successfully
+2025-07-04 08:59:42.415 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 08:59:42.416 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 08:59:42.416 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-07-04 12:37:30.831 [info] (Windsurf) 2025-07-04 12:37:30.830 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-07-04 13:10:50.579 [info] E0704 13:10:50.578976  3278 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2531: invalid offset 2531
+2025-07-04 13:10:50.579 [info] E0704 13:10:50.579285  3278 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2531: invalid offset 2531
+2025-07-04 13:11:59.769 [info] E0704 13:11:59.769064  3278 interceptor.go:73] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2592: invalid offset 2592
+2025-07-04 13:25:56.414 [info] (Windsurf) 2025-07-04 13:25:56.414 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-04 13:26:23.231 [info] (Windsurf) 2025-07-04 13:26:23.229 [INFO]: [Cascade Manager] Opening diff zones for: cascade.rasi
+2025-07-04 13:26:46.663 [info] E0704 13:26:46.662997  3278 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/rofi/cascade.rasi
+2025-07-04 14:02:45.726 [info] (Windsurf) 2025-07-04 14:02:45.726 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-04 14:03:54.938 [info] (Windsurf) 2025-07-04 14:03:54.938 [INFO]: [Cascade Manager] Opening diff zones for: .zshrc
+2025-07-04 14:29:29.260 [info] (Windsurf) 2025-07-04 14:29:29.259 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-07-04 14:37:26.141 [info] (Windsurf) 2025-07-04 14:37:26.141 [INFO]: [Terminal] Command completed: kitty --session none -o shell=zsh -o remote_control=no zsh -f exit code 0
+2025-07-04 14:45:21.973 [info] (Windsurf) 2025-07-04 14:45:21.973 [INFO]: [Cascade Manager] Opening diff zones for: kitty.conf
+2025-07-04 14:45:39.971 [info] E0704 14:45:39.971513  3278 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/pengu/.config/kitty/kitty.conf

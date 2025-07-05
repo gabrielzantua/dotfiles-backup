@@ -1,0 +1,66 @@
+2025/07/05-13:51:24.167 f87 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2025/07/05-13:51:24.167 f87 Recovering log #58
+2025/07/05-13:51:25.366 f87 Reusing old log /home/pengu/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000058.log 
+2025/07/05-13:51:51.535 f85 Level-0 table #62: started
+2025/07/05-13:51:51.991 f85 Level-0 table #62: 582020 bytes OK
+2025/07/05-13:51:52.595 f85 Delete type=0 #58
+2025/07/05-14:24:57.550 f35 Level-0 table #64: started
+2025/07/05-14:24:57.749 f35 Level-0 table #64: 1896511 bytes OK
+2025/07/05-14:24:57.932 f35 Delete type=0 #61
+2025/07/05-14:47:06.207 f4d Level-0 table #66: started
+2025/07/05-14:47:06.515 f4d Level-0 table #66: 1626413 bytes OK
+2025/07/05-14:47:06.647 f4d Delete type=0 #63
+2025/07/05-14:47:06.648 f4d Compacting 4@0 + 1@1 files
+2025/07/05-14:47:06.729 f4d Generated table #67@0: 7 keys, 331088 bytes
+2025/07/05-14:47:06.729 f4d Compacted 4@0 + 1@1 files => 331088 bytes
+2025/07/05-14:47:06.815 f4d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/05-14:47:06.816 f4d Delete type=2 #62
+2025/07/05-14:47:06.816 f4d Delete type=2 #59
+2025/07/05-14:47:06.816 f4d Delete type=2 #64
+2025/07/05-14:47:06.816 f4d Delete type=2 #57
+2025/07/05-14:47:06.816 f4d Delete type=2 #66
+2025/07/05-14:48:30.074 f34 Level-0 table #69: started
+2025/07/05-14:48:30.302 f34 Level-0 table #69: 2911750 bytes OK
+2025/07/05-14:48:30.394 f34 Delete type=0 #65
+2025/07/05-14:53:22.177 f34 Level-0 table #71: started
+2025/07/05-14:53:22.430 f34 Level-0 table #71: 1876603 bytes OK
+2025/07/05-14:53:22.564 f34 Delete type=0 #68
+2025/07/05-15:06:54.706 f34 Level-0 table #73: started
+2025/07/05-15:06:54.855 f34 Level-0 table #73: 619263 bytes OK
+2025/07/05-15:06:54.946 f34 Delete type=0 #70
+2025/07/05-15:26:34.763 f34 Level-0 table #75: started
+2025/07/05-15:26:34.832 f34 Level-0 table #75: 609548 bytes OK
+2025/07/05-15:26:34.925 f34 Delete type=0 #72
+2025/07/05-15:26:34.926 f34 Compacting 4@0 + 1@1 files
+2025/07/05-15:26:35.009 f34 Generated table #76@0: 7 keys, 329306 bytes
+2025/07/05-15:26:35.009 f34 Compacted 4@0 + 1@1 files => 329306 bytes
+2025/07/05-15:26:35.093 f34 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/05-15:26:35.093 f34 Delete type=2 #69
+2025/07/05-15:26:35.093 f34 Delete type=2 #67
+2025/07/05-15:26:35.093 f34 Delete type=2 #75
+2025/07/05-15:26:35.094 f34 Delete type=2 #71
+2025/07/05-15:26:35.094 f34 Delete type=2 #73
+2025/07/05-16:29:52.057 f34 Level-0 table #78: started
+2025/07/05-16:29:52.154 f34 Level-0 table #78: 600491 bytes OK
+2025/07/05-16:29:52.239 f34 Delete type=0 #74
+2025/07/05-17:25:01.798 f34 Level-0 table #80: started
+2025/07/05-17:25:01.937 f34 Level-0 table #80: 600158 bytes OK
+2025/07/05-17:25:02.024 f34 Delete type=0 #77
+2025/07/05-17:41:23.607 f34 Level-0 table #82: started
+2025/07/05-17:41:23.748 f34 Level-0 table #82: 590735 bytes OK
+2025/07/05-17:41:23.833 f34 Delete type=0 #79
+2025/07/05-17:56:15.615 f34 Level-0 table #84: started
+2025/07/05-17:56:15.782 f34 Level-0 table #84: 583949 bytes OK
+2025/07/05-17:56:15.976 f34 Delete type=0 #81
+2025/07/05-17:56:15.977 f34 Compacting 4@0 + 1@1 files
+2025/07/05-17:56:16.085 f34 Generated table #85@0: 7 keys, 328754 bytes
+2025/07/05-17:56:16.085 f34 Compacted 4@0 + 1@1 files => 328754 bytes
+2025/07/05-17:56:16.167 f34 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/05-17:56:16.167 f34 Delete type=2 #76
+2025/07/05-17:56:16.168 f34 Delete type=2 #82
+2025/07/05-17:56:16.168 f34 Delete type=2 #78
+2025/07/05-17:56:16.168 f34 Delete type=2 #80
+2025/07/05-17:56:16.168 f34 Delete type=2 #84
+2025/07/05-18:08:03.084 f34 Level-0 table #87: started
+2025/07/05-18:08:03.247 f34 Level-0 table #87: 589632 bytes OK
+2025/07/05-18:08:03.588 f34 Delete type=0 #83

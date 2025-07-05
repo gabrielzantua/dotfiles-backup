@@ -1,0 +1,6 @@
+2025/06/30-21:18:28.300 5b0 Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb since it was missing.
+2025/06/30-21:18:28.879 5b0 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-21:18:34.328 5b1 Level-0 table #5: started
+2025/06/30-21:18:34.444 5b1 Level-0 table #5: 1272 bytes OK
+2025/06/30-21:18:34.527 5b1 Delete type=0 #3
+2025/06/30-21:18:34.527 5b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

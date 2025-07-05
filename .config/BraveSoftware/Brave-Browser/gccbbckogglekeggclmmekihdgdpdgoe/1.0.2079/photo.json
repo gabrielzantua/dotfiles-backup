@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "9ab9c486-e5ca-4125-bb77-40a9beb593d4",
+      "logo": {
+        "imageUrl": "24950adc-2978-4d81-9d14-169ffad3aeca/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+        "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=b70bf9a6-4640-4fec-b7a3-4fdbbf41c128&mtm_date=20250426",
+        "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+        "companyName": "Brave Search"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "24950adc-2978-4d81-9d14-169ffad3aeca/f341d9ed-6442-4651-a34e-f5ffa4183dca.jpg",
+          "creativeInstanceId": "b70bf9a6-4640-4fec-b7a3-4fdbbf41c128",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "6fee89ef-7914-4478-b27d-fec5deda54b9/b2d6decf-9e84-4562-876f-c45244e46a61.jpg",
+          "creativeInstanceId": "796da670-2f0f-41df-a2d2-a47ee13e3b5f",
+          "focalPoint": {
+            "x": 1436,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6fee89ef-7914-4478-b27d-fec5deda54b9/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+            "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=796da670-2f0f-41df-a2d2-a47ee13e3b5f&mtm_date=20250426",
+            "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+            "companyName": "Brave Search"
+          }
+        },
+        {
+          "imageUrl": "e85007a8-726e-4062-b9f9-77b9cf635287/42884cbb-947e-4571-a73a-4360abd10d9b.jpg",
+          "creativeInstanceId": "62484146-6ea4-4c13-a124-77dc22f73b8b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e85007a8-726e-4062-b9f9-77b9cf635287/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+            "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=62484146-6ea4-4c13-a124-77dc22f73b8b&mtm_date=20250426",
+            "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+            "companyName": "Brave Search"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "9ab9c486-e5ca-4125-bb77-40a9beb593d4",
+      "logo": {
+        "imageUrl": "24950adc-2978-4d81-9d14-169ffad3aeca/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+        "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=b70bf9a6-4640-4fec-b7a3-4fdbbf41c128&mtm_date=20250426",
+        "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+        "companyName": "Brave Search"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "24950adc-2978-4d81-9d14-169ffad3aeca/f341d9ed-6442-4651-a34e-f5ffa4183dca.jpg",
+          "creativeInstanceId": "b70bf9a6-4640-4fec-b7a3-4fdbbf41c128",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "6fee89ef-7914-4478-b27d-fec5deda54b9/b2d6decf-9e84-4562-876f-c45244e46a61.jpg",
+          "creativeInstanceId": "796da670-2f0f-41df-a2d2-a47ee13e3b5f",
+          "focalPoint": {
+            "x": 1436,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6fee89ef-7914-4478-b27d-fec5deda54b9/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+            "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=796da670-2f0f-41df-a2d2-a47ee13e3b5f&mtm_date=20250426",
+            "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+            "companyName": "Brave Search"
+          }
+        },
+        {
+          "imageUrl": "e85007a8-726e-4062-b9f9-77b9cf635287/42884cbb-947e-4571-a73a-4360abd10d9b.jpg",
+          "creativeInstanceId": "62484146-6ea4-4c13-a124-77dc22f73b8b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e85007a8-726e-4062-b9f9-77b9cf635287/b0ec3caf-21e1-4ad4-ada5-84e4e272c544.png",
+            "destinationUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=62484146-6ea4-4c13-a124-77dc22f73b8b&mtm_date=20250426",
+            "alt": "Brave Search - Protecting your Privacy. Fighting censorship. Since 2021. - Try it now!",
+            "companyName": "Brave Search"
+          }
+        }
+      ]
+    }
+  ]
+}
