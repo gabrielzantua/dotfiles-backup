@@ -1,0 +1,228 @@
+#!/usr/bin/env bash
+# -----------------------------------------------------------------------------
+#  Recon Automation Framework (video-inspired)
+#  Author: Cascade AI assistant (generated)
+#  Location: ~/.config/hypr/scripts/recon
+# -----------------------------------------------------------------------------
+#  Requirements (Linux):
+#    subfinder, assetfinder, amass, shuffledns, massdns, httpx, nuclei, ffuf,
+#    waybackurls, unfurl, subjack, subzy, secretfinder (python), curl, jq, awk,
+#    sed, grep, timeout. Ensure they are installed and in $PATH.
+# -----------------------------------------------------------------------------
+#  Usage:
+#      recon <domain> [options]
+#
+#  Options:
+#      -o DIR      Output directory (default: recon-<domain>-$(date +%F_%H%M%S))
+#      -w WORDLIST Wordlist for brute-forcing (shuffledns + ffuf) (default: /usr/share/wordlists/subdomains.txt)
+#      -r RESOLVER Resolver file for shuffledns/massdns (default: /etc/resolv.conf)
+#      -t N        Threads/concurrency (default: 200)
+#      -h          Show help
+# -----------------------------------------------------------------------------
+#  Pipeline Summary:
+#    1. Subdomain discovery  (subfinder, assetfinder, amass, crt.sh, shuffledns)
+#    2. DNS resolution       (massdns)  ➜ alive subdomains list
+#    3. HTTP fingerprinting  (httpx JSON) ➜ tech, status, CDN, title
+#    4. Passive JS / history (waybackurls, ffuf wordlist) ➜ JS URLs
+#    5. JS analysis          (linkfinder/secretfinder) ➜ endpoints, secrets
+#    6. Endpoint testing     (ffuf + nuclei)             ➜ vuln signals
+#    7. Takeover checks      (subjack, subzy)
+#    8. Context graph CSV    (basic edge list)           ➜ graphs/asset_graph.csv
+#    9. Markdown report      (reports/summary.md)
+# -----------------------------------------------------------------------------
+
+set -euo pipefail
+
+#########################
+# CONFIG + ARG PARSING  #
+#########################
+WORDLIST="/usr/share/wordlists/subdomains.txt"
+RESOLVERS="/etc/resolv.conf"
+THREADS=200
+OUTDIR=""
+
+usage() {
+  grep -E "^#" "$0" | cut -c 4-
+  exit 1
+}
+
+[[ $# -lt 1 ]] && usage
+TARGET="$1"; shift
+
+while getopts "o:w:r:t:h" opt; do
+  case $opt in
+    o) OUTDIR="$OPTARG";;
+    w) WORDLIST="$OPTARG";;
+    r) RESOLVERS="$OPTARG";;
+    t) THREADS="$OPTARG";;
+    h) usage;;
+    *) usage;;
+  esac
+done
+
+TIMESTAMP=$(date +%F_%H%M%S)
+[[ -z "$OUTDIR" ]] && OUTDIR="recon-${TARGET}-${TIMESTAMP}"
+RAWDIR="$OUTDIR/raw"; PROCDIR="$OUTDIR/processed"; GRAPHDIR="$OUTDIR/graphs"; REPORTDIR="$OUTDIR/reports"
+mkdir -p "$RAWDIR" "$PROCDIR" "$GRAPHDIR" "$REPORTDIR"
+
+#########################
+# DEPENDENCY VALIDATION #
+#########################
+REQUIRED_TOOLS=( subfinder assetfinder amass shuffledns massdns httpx nuclei ffuf waybackurls unfurl subjack subzy secretfinder curl jq )
+MISSING=()
+for bin in "${REQUIRED_TOOLS[@]}"; do
+  command -v "$bin" &>/dev/null || MISSING+=("$bin")
+done
+if (( ${#MISSING[@]} )); then
+  echo "[!] Missing required tools: ${MISSING[*]}" >&2
+  echo "Install them and ensure they are in your PATH." >&2
+  exit 1
+fi
+
+#########################
+# HELPER FUNCTIONS      #
+#########################
+log() { printf "[+] %s\n" "$*"; }
+run_bg() { "$@" & }   # simple background runner
+
+dedup() { sort -u | grep -v '^$'; }
+
+#########################
+# 1. SUBDOMAIN ENUM     #
+#########################
+log "Starting subdomain enumeration for $TARGET"
+
+subfinder -d "$TARGET" -all -silent -t "$THREADS" | dedup > "$RAWDIR/subfinder.txt" &
+assetfinder --subs-only "$TARGET" | dedup > "$RAWDIR/assetfinder.txt" &
+amass enum -d "$TARGET" -passive -o "$RAWDIR/amass.txt" &
+
+# crt.sh lookup via curl ✨
+(echo "$TARGET" | while read -r d; do curl -s "https://crt.sh/?q=%25.${d}&output=json" | jq -r '.[].name_value' ; done | tr '\r' '\n' | sed 's/\*\.//g' | dedup) > "$RAWDIR/crtsh.txt" &
+
+# shuffledns brute force (background)
+shuffledns -d "$TARGET" -w "$WORDLIST" -r "$RESOLVERS" -t "$THREADS" -o "$RAWDIR/shuffledns.txt" &
+
+wait  # wait for background subs
+cat "$RAWDIR"/*.txt | dedup > "$PROCDIR/subs_all.txt"
+log "Total subdomains collected: $(wc -l < "$PROCDIR/subs_all.txt")"
+
+#########################
+# 2. DNS RESOLUTION     #
+#########################
+log "Resolving subdomains with massdns"
+
+massdns -r "$RESOLVERS" -t A -o S -w "$RAWDIR/massdns.out" "$PROCDIR/subs_all.txt" &> /dev/null
+awk '/ A /{print $1}' "$RAWDIR/massdns.out" | sed 's/\.$//' | dedup > "$PROCDIR/resolved.txt"
+log "Alive DNS names: $(wc -l < "$PROCDIR/resolved.txt")"
+
+#########################
+# 3. HTTPX FINGERPRINT  #
+#########################
+log "Running httpx for technology fingerprinting"
+
+httpx -l "$PROCDIR/resolved.txt" -threads "$THREADS" -json -o "$RAWDIR/httpx.json" -cdn -title -tech-detect -status-code -location -ip -web-server -silent
+jq -r '.url' "$RAWDIR/httpx.json" > "$PROCDIR/alive_urls.txt"
+log "Alive HTTP(S) endpoints: $(wc -l < "$PROCDIR/alive_urls.txt")"
+
+#########################
+# 4. HISTORICAL & JS    #
+#########################
+log "Collecting JavaScript URLs via waybackurls and ffuf common paths"
+
+# waybackurls
+cat "$PROCDIR/resolved.txt" | waybackurls | grep -E '\\.js$' | dedup > "$RAWDIR/wayback_js.txt"
+
+# ffuf discovery for /js/*.js common paths
+while read -r sub; do ffuf -u "https://$sub/js/FUZZ" -w /usr/share/seclists/Discovery/Web-Content/common.txt -mc 200,403 -of csv -o "$RAWDIR/ffuf_$sub.csv" -t 50 -s; done < "$PROCDIR/resolved.txt"
+awk -F, 'NR>1{print $2}' "$RAWDIR"/ffuf_*.csv 2>/dev/null | dedup >> "$RAWDIR/wayback_js.txt"
+
+dedup < "$RAWDIR/wayback_js.txt" > "$PROCDIR/js_urls.txt"
+log "JS files collected: $(wc -l < "$PROCDIR/js_urls.txt")"
+
+#########################
+# 5. JS ANALYSIS        #
+#########################
+log "Running linkfinder/secretfinder on JS files"
+mkdir -p "$RAWDIR/js_files"
+
+while read -r js; do
+  fname=$(echo "$js" | unfurl format "%s_%p%q" | sed 's/[^A-Za-z0-9._-]/_/g')
+  curl -sL "$js" -o "$RAWDIR/js_files/$fname.js" || true
+done < "$PROCDIR/js_urls.txt"
+
+# Extract endpoints/secrets
+ENDPOINTS="$PROCDIR/js_endpoints.txt"
+SECRETS="$PROCDIR/js_secrets.txt"
+> "$ENDPOINTS"; > "$SECRETS"
+for file in "$RAWDIR"/js_files/*.js; do
+  python -m linkfinder -i "$file" -o cli 2>/dev/null | dedup >> "$ENDPOINTS" || true
+  secretfinder -i "$file" -o cli 2>/dev/null >> "$SECRETS" || true
+done
+log "Endpoints extracted: $(wc -l < "$ENDPOINTS") | Secrets potential: $(grep -vc '^$' "$SECRETS" || true)"
+
+#########################
+# 6. ENDPOINT TESTING   #
+#########################
+log "Fuzzing endpoints with ffuf and scanning with nuclei"
+
+# Fuzz endpoints with ffuf (quick status check)
+ffuf -u FUZZ -w "$ENDPOINTS" -t "$THREADS" -of csv -o "$RAWDIR/ffuf_endpoints.csv" -s -mc 200,401,403,500,502 2>/dev/null || true
+
+# Nuclei scan
+nuclei -l "$PROCDIR/alive_urls.txt" -o "$PROCDIR/nuclei_findings.txt" -silent || true
+
+#########################
+# 7. TAKEOVER CHECKS    #
+#########################
+log "Checking for subdomain takeovers"
+
+subjack -w "$PROCDIR/resolved.txt" -t "$THREADS" -ssl -c /app/subjack/fingerprints.json -o "$PROCDIR/subjack.txt" 2>/dev/null || true
+subzy run --targets "$PROCDIR/resolved.txt" --output "$PROCDIR/subzy.json" --concurrency "$THREADS" 2>/dev/null || true
+
+#########################
+# 8. ASSET GRAPH CSV    #
+#########################
+log "Building simple asset graph CSV"
+EDGE="$GRAPHDIR/asset_graph.csv"
+echo "source,relation,target" > "$EDGE"
+while read -r sub; do echo "$TARGET,has_subdomain,$sub"; done < "$PROCDIR/resolved.txt" >> "$EDGE"
+while read -r url; do domain=$(echo "$url" | unfurl domain); echo "$domain,hosts_endpoint,$url"; done < "$PROCDIR/alive_urls.txt" >> "$EDGE"
+
+#########################
+# 9. REPORT GENERATION  #
+#########################
+log "Generating markdown report"
+REPORT="$REPORTDIR/summary.md"
+cat > "$REPORT" <<EOF
+# Recon Summary for $TARGET ($TIMESTAMP)
+
+## Counts
+| Item | Total |
+|------|-------|
+| Subdomains (all) | $(wc -l < "$PROCDIR/subs_all.txt") |
+| Resolved | $(wc -l < "$PROCDIR/resolved.txt") |
+| Live URLs | $(wc -l < "$PROCDIR/alive_urls.txt") |
+| JS Files | $(wc -l < "$PROCDIR/js_urls.txt") |
+| JS Endpoints | $(wc -l < "$ENDPOINTS") |
+
+## Potential Findings
+- Nuclei: see 
+  
+  ```text
+  $PROCDIR/nuclei_findings.txt
+  ```
+- Subjack results: `$PROCDIR/subjack.txt`
+- Subzy results: `$PROCDIR/subzy.json`
+- SecretFinder output: `$SECRETS`
+
+## Asset Graph
+Edge list at 
+```
+$EDGE
+```
+
+## Notes
+Manual triage required on endpoints and secrets. Happy hunting!
+EOF
+
+log "Recon completed. See $REPORT"

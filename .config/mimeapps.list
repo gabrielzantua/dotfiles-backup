@@ -2,6 +2,7 @@
 text/plain=windsurf.desktop;
 text/x-csrc=windsurf.desktop;
 application/json=windsurf.desktop;
+inode/directory=windsurf.desktop;
 
 [Default Applications]
 text/x-csrc=windsurf.desktop
