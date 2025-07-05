@@ -40,7 +40,7 @@
 
 .notification-action > button {
     padding: unset;
-    margin: unset;
+    margin: 11px 5px 0 0;
 }
 .notification-action > label {
     font-size: 1rem;
@@ -58,10 +58,12 @@
 }
 
 .close-button {
+    margin: 13px 5px 0 0;
     background-color: alpha(@gray, 0.8);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.35);
 }
 .close-button:hover {
+    margin: 13px 5px 0 0;
     background-color: alpha(@red, 0.8);
 }
 
@@ -213,7 +215,7 @@ tooltip {
 }
 .widget-title > button {
     padding:unset;
-    margin:unset;
+    margin: 11px 5px 0 0;
     text-shadow: none;
     background: @red;
     border: none;
