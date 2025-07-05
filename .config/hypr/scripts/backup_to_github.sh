@@ -98,14 +98,21 @@ for p in "${PATHS[@]}"; do
     keep_paths+=("$p")
     mkdir -p "$(dirname "$dst")"
     if [ -d "$src" ]; then
+      rsync_opts=(-a --delete)
       if [[ "$p" == ".config" ]]; then
-        rsync -a --delete "$src/" "$dst/" --exclude="Windsurf/" --exclude="BraveSoftware/" --exclude="zed/"
-      else
-        rsync -a --delete "$src/" "$dst/"
+        for ex in "${EXCLUDES[@]}"; do
+          rsync_opts+=(--exclude="${ex##*.config/}/")
+        done
       fi
+      rsync "${rsync_opts[@]}" "$src/" "$dst/"
+
       mapfile -t nested_files < <(cd "$src" && find . -type f)
       for f in "${nested_files[@]}"; do
-        [[ "$p" == ".config" && ( "$f" == ./Windsurf/* || "$f" == ./BraveSoftware/* || "$f" == ./zed/* ) ]] && continue
+        skip=false
+        for ex in "${EXCLUDES[@]}"; do
+          [[ "$p" == ".config" && "$f" == "./${ex##*.config/}/"* ]] && skip=true && break
+        done
+        \$skip && continue
         keep_paths+=("$p/${f#./}")
       done
     else
