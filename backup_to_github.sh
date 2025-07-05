@@ -22,7 +22,7 @@ REMOTE_URL="https://github.com/gabrielzantua/dotfiles-backup.git"
 PATHS=(
   ".bashrc"
   ".config"
-  ".local/bin/"
+  ".local/bin"
   ".gtkrc-2.0"
   ".icons"
   ".zsh_history"
