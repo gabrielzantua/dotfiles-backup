@@ -131,9 +131,17 @@ if [ "$CLEAN_MODE" = true ]; then
     relative_path="${entry#./}"
     [[ "$relative_path" == "." || "$relative_path" == ".." ]] && continue
     keep=false
+    # First, check against keep list
     for keep_item in "${keep_paths[@]}"; do
       if [[ "$relative_path" == "$keep_item" || "$relative_path" == "$keep_item"/* || "$keep_item" == "$relative_path"/* ]]; then
         keep=true
+        break
+      fi
+    done
+    # Then override with EXCLUDES – anything under an excluded path must be removed
+    for ex in "${EXCLUDES[@]}"; do
+      if [[ "$relative_path" == "$ex" || "$relative_path" == "$ex"/* ]]; then
+        keep=false
         break
       fi
     done
