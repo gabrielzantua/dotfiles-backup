@@ -43,6 +43,8 @@
 
 "clock": {
 	"interval": 1,
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
     //"format": "<span font='18' rise='-3000'></span> {:%I:%M %p}",
 	"format": "<span font='18' rise='-3000'></span> {:%I:%M %p <span font='18' rise='-3000'></span> %Y, %d %B, %A}",
 	"tooltip-format": "<tt><small>{calendar}</small></tt>",

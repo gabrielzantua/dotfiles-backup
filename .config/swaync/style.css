@@ -1,230 +1,181 @@
-@import url('colors/colors.css');
-
+/* Gruvbox colors */
 * {
     outline: none;
-    font-family: "Adwaita Sans";
-    font-size: 18px;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font Mono", monospace;
+    font-weight: 500;
+    font-size: 13px;
+    color: #d4be98;
     text-shadow: none;
-    color: @foreground;
-    background-color: transparent;
-    background: transparent;
-}
-
-.control-center {
-    background-color: alpha(@background, 0.8);
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.65);
-    padding: 5px;
-}
-
-.control-center .notification-row .notification-background {
-    border-radius: 15px;
-    margin-top: 5px;
-}
-
-.notification {
-    background-color: alpha(@background, 0.8);
-    margin: 11px 5px 0px 0px;
-}
-
-.notification > *:last-child > *  {
-    margin: 5px;
-}
-
-.summary { font-size: 1.1rem; }
-.time { font-size: 0.8rem; }
-.body { font-size: 1rem; }
-
-.notification-content {
-    padding: 15px 10px 10px 20px;
-}
-
-.notification-action > button {
-    padding: unset;
-    margin: 11px 5px 0 0;
-}
-.notification-action > label {
+  }
+  
+  /* Control Center styling */
+  .control-center {
+    background-color: #222421;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.70);
+    padding: 4px;
+    border-radius: 12px;
+    margin: 8px 4px;
+    transition: background 0.4s;
+  }
+  
+  /* Notifications */
+  .notification {
+    background-color: #222421;
+    margin: 8px 4px;
+    border-radius: 12px;
+    padding: 4px 6px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    transition: all 0.2s;
+  }
+  
+  .notification:hover {
+    background-color: #222421;
+    box-shadow: 0 2px 8px rgba(137, 180, 130, 0.08);
+    color: #fbf1c7;
+  }
+  
+  .notification.critical {
+    background-color: #222421;
+    border-radius: 12px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.65);
+    padding: 4px 6px;
+    transition: all 0.2s;
+  }
+  
+  .notification.critical:hover {
+    background-color: #cc241d;
+    color: #fbf1c7;
+    box-shadow: 0 2px 8px rgba(137, 180, 130, 0.08);
+  }
+  
+  /* Close Button */
+  .close-button {
+    margin: 4px;
+    padding: 4px 6px;
+    background-color: #32302f;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.35);
+    border-radius: 12px;
+    transition: all 0.2s;
+  }
+  
+  .close-button:hover {
+    background-color: #cc241d;
+    color: #fbf1c7;
+    box-shadow: 0 2px 8px rgba(137, 180, 130, 0.08);
+  }
+  
+  /* Buttons Grid (container for quick toggles) */
+  /* Button index mapping:
+     1 = Network / WiFi
+     2 = Bluetooth
+     3 = Microphone (Mic)
+     4 = Speakers / Volume
+  */
+  /* Nth-child mapping of quick toggle buttons:
+     nth-child(1) => Network / WiFi
+     nth-child(2) => Bluetooth
+     nth-child(3) => Microphone
+     nth-child(4) => Speakers / Volume
+  */
+  .widget-buttons-grid {
     font-size: 1rem;
-    font-weight: normal;
-}
-
-.notification.critical {
-    background-color: alpha(@red, 0.5);
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.65);
-}
-.notification.low,
-.notification.normal  {
-    background-color: alpha(@background, 0.5);
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.65);
-}
-
-.close-button {
-    margin: 13px 5px 0 0;
-    background-color: alpha(@gray, 0.8);
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.35);
-}
-.close-button:hover {
-    margin: 13px 5px 0 0;
-    background-color: alpha(@red, 0.8);
-}
-
-.notification-group-header,
-.notification-group-icon {
-    font-size: 0.9rem;
-}
-
-.notification-group-collapse-button,
-.notification-group-close-all-button {
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.35);
-    background-color: @gray;
-}
-
-.notification-group-collapse-button:hover {
-    background-color: alpha(@blue, 0.8);
-}
-.notification-group-close-all-button:hover {
-    background-color: alpha(@red, 0.8);
-}
-
-trough highlight {
-    background: @blue;
-}
-scale trough {
-    margin: 0rem 1rem;
-    background-color: @gray;
-    min-height: 8px;
-    min-width: 70px;
-}
-slider {
-    background-color: @foreground;
-}
-tooltip {
-    background-color: @gray;
-}
-
-/*** Widgets ***/
-/* Buttons widget */
-.widget-buttons-grid {
-    font-size: 1rem;
-    padding: 20px 20px 10px;
+    padding: 20px 0px 20px 70px;
     margin: unset;
-}
-.widget-buttons-grid > flowbox > flowboxchild > button {
-    background: @gray;
-    box-shadow: 0px 0px 10px alpha(@background, 0.8);
+  }
+  
+  .widget-buttons-grid > flowbox > flowboxchild > button {
+    background: #32302f;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); */
     border-radius: 12px;
     min-width: 60px;
-    min-height: 30px;
+    min-height: 60px;
     padding: 6px;
-    margin: 0 3px 0;
-    transition: all .5s ease;
-}
-.widget-buttons-grid > flowbox > flowboxchild > button:hover {
-    background: @select;
-}
-.widget-buttons-grid > flowbox > flowboxchild > button.toggle:checked {
-    background: @blue;
-}
-.widget-buttons-grid > flowbox > flowboxchild > button.toggle:checked:hover {
-    background: alpha(@blue, 0.8);
-}
+    border-bottom: 6px solid #d79921;
+    margin: 0 3px;
+    transition: all 0.5s;
+    /* Removed invalid alignment and display properties */
+  }
+  
+  /* Icon label inside each button (Unicode icon) */
+  .widget-buttons-grid > flowbox > flowboxchild > button label {
+    font-size: 26px;
 
-/* Mpris widget */
-@define-color mpris-album-art-overlay rgba(0, 0, 0, 0.55);
-@define-color mpris-button-hover rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Hover state for buttons */
+  .widget-buttons-grid > flowbox > flowboxchild > button:hover {
+    background: #b8bb26;
+    border-bottom: 6px solid #fabd2f;
+    box-shadow: 0 2px 8px rgba(137, 180, 130, 0.08);
+  }
 
-.widget-mpris .widget-mpris-player {
-    padding: 16px;
-    margin: 16px 20px;
-    background-color: @mpris-album-art-overlay;
-    border-radius: 12px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.65);
-}
-.widget-mpris .widget-mpris-player .widget-mpris-album-art {
-    border-radius: 12px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.65);
-}
-.widget-mpris .widget-mpris-player .widget-mpris-title {
-    font-weight: bold;
-    font-size: 1.2rem;
-    margin: 0px 8px 8px 8px;
-}
-.widget-mpris .widget-mpris-player .widget-mpris-subtitle {
-    font-size: 1rem;
-}
-.widget-mpris .widget-mpris-player > box > button:hover {
-    background-color: @mpris-button-hover;
-}
-.widget-mpris > box > button:hover {
-    background: alpha(@select, 0.6);
-}
+  /* --- Custom Alignment & Roundness Fixes --- */
+  .widget-buttons-grid > flowbox > flowboxchild > button {
+    border-radius: 6px;
+    min-width: 24px;
+    min-height: 24px;
+    padding: 0;
+  }
 
-/* Volume widget */
-.widget-volume {
-    padding: 6px 5px 5px 5px;
-    margin: unset;
-    font-size: 1.3rem;
-}
-.widget-volume > box > button {
-    border: none;
-}
-.per-app-volume {
-    padding: 4px 8px 8px 8px;
-    margin: 0px 8px 8px 8px;
-}
+  /* Icon label inside each button (Unicode icon) */
+  .widget-buttons-grid > flowbox > flowboxchild > button label {
+    font-size: 28px;
+    margin: 0;
+  }
 
-/* Backlight widget */
-.widget-backlight {
-    padding: 0 0 3px 16px;
-    margin: unset;
-    font-size: 1.1rem;
-}
+  /* Individual button overrides - customise colors per button */
+  /* WiFi button */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(1) > button {
+    /* Example properties to override */
+    background: #58B0B4;
+    border-bottom-color: #458588;
+  }
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(1) > button:hover {
+    /* Example properties to override */
+    background: #458588;
+  }
 
-/* DND widget */
-.widget-dnd {
-    font-weight: bold;
-    margin: unset;
-    padding: 20px 15px 15px 15px;
-}
-.widget-dnd > switch {
-    font-size: initial;
-    border-radius: 100px;
-    background: @yellow;
-    border: none;
-    box-shadow: none;
-    padding: 3px;
-}
-.widget-dnd > switch:checked {
-    background: @green;
-}
-.widget-dnd > switch slider {
-    background: @background;
-    border-radius: 12px;
-    min-width: 18px;
-    min-height: 18px;
-}
+  /* Bluetooth button */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(2) > button {
+    /* background: #b16286; */
+  }
 
-/* Title widget */
-.widget-title {
-    padding: unset;
-    margin: unset;
-    font-weight: bold;
-    padding: 15px;
-}
-.widget-title > label {
-    font-size: 1.5rem;
-}
-.widget-title > button {
-    padding:unset;
-    margin: 11px 5px 0 0;
-    text-shadow: none;
-    background: @red;
-    border: none;
-    box-shadow: none;
-    border-radius: 100px;
-    padding:0px 6px;
-    transition: all .7s ease;
-}
-.widget-title > button:hover {
-    background: alpha(@red, 0.8);
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.65);
-}
+  /* Microphone button */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(3) > button {
+    /* background: #689d6a; */
+  }
+
+  /* Volume / Speakers button */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(4) > button {
+    /* background: #d79921; */
+  }
+
+  /* Screen Recording button */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(5) > button {
+    /* inactive state */
+    background: #3c3836;
+    border-bottom-color: #7c6f64;
+  }
+  /* Active (recording) state – SwayNC adds .toggle:checked on active toggles */
+  .widget-buttons-grid > flowbox > flowboxchild:nth-child(5) > button.toggle:checked {
+    background: #cc241d;      /* red fill */
+    border-bottom-color: #fb4934;
+    color: #fbf1c7;           /* icon color */
+  }
+
+  /* Round volume slider knob */
+  .widget-volume scale slider {
+    border-radius: 50px;
+    min-width: 16px;
+    min-height: 16px;
+    background: #d79921;
+  }
+
+  /* Ensure notification close button is inside the notification */
+  .notification .close-button {
+    margin-top: 6px;
+    margin-right: 6px;
+    border-radius: 50px;
+  }
+  
