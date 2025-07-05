@@ -25,7 +25,6 @@ PATHS=(
   ".icons"
   ".zsh_history"
   ".zshrc"
-  "CascadeProjects/backup_script/backup_to_github.sh"
 )
 
 EXCLUDES=(
