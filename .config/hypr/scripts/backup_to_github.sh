@@ -29,8 +29,9 @@ PATHS=(
 )
 
 EXCLUDES=(
-  "--exclude=.config/Windsurf/**"
-  "--exclude=.config/BraveSoftware/**"
+  ".config/Windsurf"
+  ".config/BraveSoftware"
+  ".config/zed"
 )
 
 CLEAN_MODE=false
@@ -98,13 +99,18 @@ for p in "${PATHS[@]}"; do
     keep_paths+=("$p")
     mkdir -p "$(dirname "$dst")"
     if [ -d "$src" ]; then
-      rsync -a --delete "${EXCLUDES[@]}" "$src/" "$dst/"
+      if [[ "$p" == ".config" ]]; then
+        rsync -a --delete "$src/" "$dst/" --exclude="Windsurf/" --exclude="BraveSoftware/" --exclude="Zed/"
+      else
+        rsync -a --delete "$src/" "$dst/"
+      fi
       mapfile -t nested_files < <(cd "$src" && find . -type f)
       for f in "${nested_files[@]}"; do
+        [[ "$p" == ".config" && ( "$f" == ./Windsurf/* || "$f" == ./BraveSoftware/* || "$f" == ./Zed/* ) ]] && continue
         keep_paths+=("$p/${f#./}")
       done
     else
-      rsync -a "${EXCLUDES[@]}" "$src" "$dst"
+      rsync -a "$src" "$dst"
     fi
   else
     echo "[!] Skipping $p (not found)"
@@ -138,7 +144,7 @@ if ! git diff --cached --quiet; then
   echo "[+] Committing changes: $commit_msg"
   git commit -m "$commit_msg"
   echo "[+] Pushing to $REMOTE_URL"
-  git push origin master || {
+  setsid git push origin master || {
     echo "[!] Push failed. Check your network or credentials."
     exit 1
   }
