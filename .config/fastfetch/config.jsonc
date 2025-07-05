@@ -1,10 +1,3 @@
-//      {
-//          "": ,
-//          "": ,
-//          "":
-//      },
-
-
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "logo": {
@@ -80,16 +73,6 @@
             "format": "\u001b  └─────────────────────────────────────────────────────────┘",
             "keyColor": "#000000"
         },
-
-//        {
-//            "type": "colors"
-//        },
-
-        //{
-            // "type": "colors",
-            // "paddingLeft": 2,
-            // "symbol": "circle"
-        //},
         "break"
     ]
 }

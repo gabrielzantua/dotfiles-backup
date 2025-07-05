@@ -196,7 +196,7 @@ window#waybar {
   color: #fbf1c7;
   padding: 4px 16px;
   margin: 8px 4px;
-  border-radius: 8px;
+  border-radius: 6px;
   box-shadow: 0 1px 4px 0 rgba(50, 48, 47, 0.08);
   transition: background 0.3s cubic-bezier(.82,.36,.24,.65), color 0.2s, box-shadow 0.2s;
   font-weight: 500;
@@ -248,7 +248,7 @@ window#waybar {
 
 /* Tooltip styling */
 tooltip {
-  background: #1d2021;
+  background: #222421;
   border-radius: 8px;
   padding: 4px 4px;
   font-size: 12px;
