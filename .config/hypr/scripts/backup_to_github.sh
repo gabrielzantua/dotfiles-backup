@@ -112,7 +112,7 @@ for p in "${PATHS[@]}"; do
         for ex in "${EXCLUDES[@]}"; do
           [[ "$p" == ".config" && "$f" == "./${ex##*.config/}/"* ]] && skip=true && break
         done
-        \$skip && continue
+        $skip && continue
         keep_paths+=("$p/${f#./}")
       done
     else
@@ -132,7 +132,7 @@ if [ "$CLEAN_MODE" = true ]; then
     [[ "$relative_path" == "." || "$relative_path" == ".." ]] && continue
     keep=false
     for keep_item in "${keep_paths[@]}"; do
-      if [[ "$relative_path" == "$keep_item" || "$relative_path" == "$keep_item"/* ]]; then
+      if [[ "$relative_path" == "$keep_item" || "$relative_path" == "$keep_item"/* || "$keep_item" == "$relative_path"/* ]]; then
         keep=true
         break
       fi
