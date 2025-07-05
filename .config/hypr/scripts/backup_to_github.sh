@@ -25,13 +25,12 @@ PATHS=(
   ".icons"
   ".zsh_history"
   ".zshrc"
-  "CascadeProjects/backup_script/backup_to_github.sh"
 )
 
 EXCLUDES=(
   ".config/Windsurf"
   ".config/BraveSoftware"
-  ".config/Zed"
+  ".config/zed"
 )
 
 CLEAN_MODE=false
@@ -100,13 +99,13 @@ for p in "${PATHS[@]}"; do
     mkdir -p "$(dirname "$dst")"
     if [ -d "$src" ]; then
       if [[ "$p" == ".config" ]]; then
-        rsync -a --delete "$src/" "$dst/" --exclude="Windsurf/" --exclude="BraveSoftware/" --exclude="Zed/"
+        rsync -a --delete "$src/" "$dst/" --exclude="Windsurf/" --exclude="BraveSoftware/" --exclude="zed/"
       else
         rsync -a --delete "$src/" "$dst/"
       fi
       mapfile -t nested_files < <(cd "$src" && find . -type f)
       for f in "${nested_files[@]}"; do
-        [[ "$p" == ".config" && ( "$f" == ./Windsurf/* || "$f" == ./BraveSoftware/* || "$f" == ./Zed/* ) ]] && continue
+        [[ "$p" == ".config" && ( "$f" == ./Windsurf/* || "$f" == ./BraveSoftware/* || "$f" == ./zed/* ) ]] && continue
         keep_paths+=("$p/${f#./}")
       done
     else
