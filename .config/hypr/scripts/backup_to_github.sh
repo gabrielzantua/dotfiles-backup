@@ -25,12 +25,13 @@ PATHS=(
   ".icons"
   ".zsh_history"
   ".zshrc"
+  "CascadeProjects/backup_script/backup_to_github.sh"
 )
 
 EXCLUDES=(
   ".config/Windsurf"
   ".config/BraveSoftware"
-  ".config/zed"
+  ".config/Zed"
 )
 
 CLEAN_MODE=false
@@ -118,20 +119,21 @@ for p in "${PATHS[@]}"; do
 done
 
 if [ "$CLEAN_MODE" = true ]; then
-  echo "[+] Cleaning files not in PATHS list..."
-  mapfile -t all_files < <(cd "$REPO_DIR" && find . -type f ! -path "./.git/*")
-  for file in "${all_files[@]}"; do
-    relative_path="${file#./}"
+  echo "[+] Cleaning files and folders not in PATHS list..."
+  mapfile -t all_entries < <(cd "$REPO_DIR" && find . \( -type f -o -type d \) ! -path "./.git*" | sort -r)
+  for entry in "${all_entries[@]}"; do
+    relative_path="${entry#./}"
+    [[ "$relative_path" == "." || "$relative_path" == ".." ]] && continue
     keep=false
     for keep_item in "${keep_paths[@]}"; do
-      if [[ "$relative_path" == "$keep_item" ]]; then
+      if [[ "$relative_path" == "$keep_item" || "$relative_path" == "$keep_item"/* ]]; then
         keep=true
         break
       fi
     done
     if [ "$keep" = false ]; then
       echo "[+] Deleting $relative_path"
-      git rm -rf --cached "$relative_path"
+      git rm -rf --cached "$relative_path" 2>/dev/null || true
       rm -rf "$REPO_DIR/$relative_path"
     fi
   done
