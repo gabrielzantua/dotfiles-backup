@@ -1,1 +1,0 @@
-2025-07-05 13:52:51.538 [error] Failed to set sticky bit on /tmp/pengu-windsurf-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/pengu-windsurf-zsh'

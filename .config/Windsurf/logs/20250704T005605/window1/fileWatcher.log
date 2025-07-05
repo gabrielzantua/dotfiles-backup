@@ -1,2 +1,0 @@
-2025-07-04 00:56:39.353 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/pengu/.config/Windsurf/logs/20250703T183904/window1/exthost/output_logging_20250703T183939' failed: No such file or directory (EUNKNOWN) (path: /home/pengu/.config)
-2025-07-04 00:56:39.353 [error] [File Watcher (universal)] inotify_add_watch on '/home/pengu/.config/Windsurf/logs/20250703T183904/window1/exthost/output_logging_20250703T183939' failed: No such file or directory
