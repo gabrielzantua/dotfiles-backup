@@ -1,6 +1,0 @@
-2025/07/04-12:09:38.316 521 Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_krunker.io_0.indexeddb.leveldb since it was missing.
-2025/07/04-12:09:38.786 521 Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_krunker.io_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/04-12:11:54.323 522 Level-0 table #5: started
-2025/07/04-12:11:54.439 522 Level-0 table #5: 866 bytes OK
-2025/07/04-12:11:54.525 522 Delete type=0 #3
-2025/07/04-12:11:54.525 522 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

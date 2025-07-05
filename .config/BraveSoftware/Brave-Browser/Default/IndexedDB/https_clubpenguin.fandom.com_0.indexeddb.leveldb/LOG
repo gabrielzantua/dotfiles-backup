@@ -1,6 +1,0 @@
-2025/07/05-17:23:33.712 f4d Creating DB /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_clubpenguin.fandom.com_0.indexeddb.leveldb since it was missing.
-2025/07/05-17:23:33.920 f4d Reusing MANIFEST /home/pengu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_clubpenguin.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/05-17:33:11.581 f33 Level-0 table #5: started
-2025/07/05-17:33:11.719 f33 Level-0 table #5: 3517 bytes OK
-2025/07/05-17:33:11.915 f33 Delete type=0 #3
-2025/07/05-17:33:11.915 f33 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
