@@ -61,13 +61,7 @@ def align_frame_to_union(frame, union_bbox):
     offset_y = frame_bbox[1] - tmin
     canvas.paste(cropped, (offset_x, offset_y), cropped)
     return canvas
-    """Center a frame on a transparent canvas.
 
-    If *crop_box* is provided, the frame is cropped to that box before being
-    centered; otherwise the frame's own bounding box is used. Supplying the
-    same crop_box for every frame avoids the subtle up-and-down movement that
-    can occur when each frame is cropped differently.
-    """
     canvas = Image.new("RGBA", canvas_size, (0, 0, 0, 0))
     if crop_box is None:
         crop_box = get_bounding_box(frame)

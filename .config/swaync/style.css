@@ -23,6 +23,7 @@
 
 .notification {
     background-color: alpha(@background, 0.8);
+    margin: 11px 5px 0px 0px;
 }
 
 .notification > *:last-child > *  {
@@ -47,7 +48,7 @@
 }
 
 .notification.critical {
-    background-color: alpha(#e64553, 0.5);
+    background-color: alpha(@red, 0.5);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.65);
 }
 .notification.low,
@@ -214,7 +215,7 @@ tooltip {
     padding:unset;
     margin:unset;
     text-shadow: none;
-    background: #e64553;
+    background: @red;
     border: none;
     box-shadow: none;
     border-radius: 100px;
